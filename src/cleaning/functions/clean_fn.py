@@ -31,6 +31,7 @@ def create_date(df):
 
 def create_dir(df):
     df.num.apply(lambda x: x.strip())
+    df.num = df.num.apply(lambda x: '-' if x == '0' else x)
     df.loc[(df.num == '-'), 'num'] = ''
     df['direccion'] = df.calle+' '+df.num
     df.direccion.apply(lambda x: x.strip())
