@@ -15,6 +15,14 @@ def get_df_norm_header_index(path):
     return df
 
 
+def minor_change_2017(df):
+    dict_rename = {
+        'Nº VICTIMAS *': '* Nº VICTIMAS'
+    }
+    df.rename(columns=dict_rename, inplace=True)
+    return df
+
+
 def change_cols_17_18(df):
     dict_cols = {
         'FECHA': 'dia',
@@ -38,6 +46,19 @@ def create_weather_17_18(df):
     df['meteo'] = df[lst_w].sum(axis=1)
     df.drop(lst_w, axis=1, inplace=True)
     return df
+
+
+def refactor_meteo_17_18(values):
+    dict_meteo = {
+        r'Granizo': 'Granizo',
+        r'Hielo': 'Nieve',
+        r'Nieve': 'Nieve',
+        r'Lluvia': 'Lluvia',
+        r'Niebla': 'Niebla', }
+    for k, v in dict_meteo.items():
+        if re.match(k, values):
+            return v
+    return 'Despejado'
 
 
 def fill_drop(df):
@@ -99,7 +120,7 @@ def change_injury_17_18(values):
     dict_injury = {
         'IL': 'Moderada',
         'HG': 'Grave',
-        'M': 'Fallecido',
+        'MT': 'Fallecido',
         'HL': 'Leve', 'NO ASIGNADA': 'Leve'}
     return dict_injury[values]
 
