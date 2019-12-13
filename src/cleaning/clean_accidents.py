@@ -18,3 +18,15 @@ bici_19.lesividad = bici_19.lesividad.apply(
 bici_19 = fnc.order_columns(bici_19)
 
 # 2018-2017
+bici_18 = pd.read_csv(
+    'bicicletas/AccidentesBicicletas_2018.csv', encoding='latin_1', sep=';')
+bici_18 = fnc.change_cols_17_18(bici_18)
+
+bici_18 = fnc.create_weather_17_18(bici_18)
+bici_18 = fnc.create_weather_17_18(bici_18)
+bici_18 = fnc.create_dir(bici_18)
+
+bici_18.tipo_accidente = bici_18.tipo_accidente.apply(
+    lambda x: fnc.change_accident(x))
+bici_18.lesividad = bici_18.lesividad.apply(
+    lambda x: fnc.change_injury_17_18(x.strip()))

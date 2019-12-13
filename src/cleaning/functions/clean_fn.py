@@ -3,6 +3,8 @@ import numpy as np
 import re
 import random
 
+#
+
 
 def get_df_norm_header_index(path):
     lst_header = ['num_exp', 'dia', 'hora', 'calle', 'num', 'distrito',
@@ -10,6 +12,31 @@ def get_df_norm_header_index(path):
     df = pd.read_csv(path, encoding='latin_1', sep=';', names=lst_header)
     df.drop(0, inplace=True)
     df.reset_index(drop=True, inplace=True)
+    return df
+
+
+def change_cols_17_18(df):
+    dict_cols = {
+        'FECHA': 'dia',
+        'DISTRITO': 'distrito', 'LUGAR ACCIDENTE': 'calle', 'Nº': 'num',
+        'TIPO ACCIDENTE': 'tipo_accidente', 'LESIVIDAD': 'lesividad',
+        'CPFA Granizo': 'Granizo', 'CPFA Hielo': 'Hielo', 'CPFA Lluvia': 'Lluvia',
+        'CPFA Niebla': 'Niebla', 'CPFA Seco': 'Despejado', 'CPFA Nieve': 'Nieve',
+    }
+    to_drop = ['Nº PARTE', 'CPSV Seca Y Limpia', 'CPSV Mojada', 'CPSV Aceite', 'CPSV Barro',
+               'CPSV Grava Suelta', 'CPSV Hielo', '* Nº VICTIMAS', 'Tipo Vehiculo', 'TIPO PERSONA', 'SEXO', 'Tramo Edad']
+    df.rename(columns=dict_cols, inplace=True)
+    df.drop(to_drop, axis=1, inplace=True)
+
+    return df
+
+
+def create_weather_17_18(df):
+    lst_w = list(df[df.columns[6:12]])
+    for e in lst_w:
+        df[e] = df[e].apply(lambda x: '' if (x == 'NO') else e)
+    df['meteo'] = df[lst_w].sum(axis=1)
+    df.drop(lst_w, axis=1, inplace=True)
     return df
 
 
@@ -29,25 +56,32 @@ def create_date(df):
     return df
 
 
+def create_date_17_18(df):
+    df['hora'] = df['RANGO HORARIO'].str.extract(r'(\d[\d]?:\d+\s)')
+    create_date(df)
+    df.drop(['RANGO HORARIO', 'DIA SEMANA'], axis=1, inplace=True)
+    return df
+
+
 def create_dir(df):
-    df.num.apply(lambda x: x.strip())
+    df.num = df.num.apply(lambda x: x.strip())
     df.num = df.num.apply(lambda x: '-' if x == '0' else x)
     df.loc[(df.num == '-'), 'num'] = ''
     df['direccion'] = df.calle+' '+df.num
-    df.direccion.apply(lambda x: x.strip())
+    df.direccion = df.direccion.apply(lambda x: x.strip())
     df.drop(['calle', 'num'], axis=1, inplace=True)
     return df
 
 
 def change_accident(values):
     dict_accidente = {
-        r'Caída': 'Caida',
-        r'Colisión': 'Colision',
-        r'Alcance': 'Colision',
-        r'Atropello': 'Imprudencia',
-        r'Choque': 'Imprudencia'}
+        r'caída': 'Caida',
+        r'colisión': 'Colision',
+        r'alcance': 'Colision',
+        r'atropello': 'Imprudencia',
+        r'choque': 'Imprudencia'}
     for k, v in dict_accidente.items():
-        if re.match(k, values):
+        if re.match(k, values.lower()):
             return v
     return 'Otro'
 
@@ -58,6 +92,15 @@ def change_injury(values):
         '03': 'Grave',
         '04': 'Fallecido',
         '05': 'Leve', '06': 'Leve', '07': 'Leve', '14': 'Leve'}
+    return dict_injury[values]
+
+
+def change_injury_17_18(values):
+    dict_injury = {
+        'IL': 'Moderada',
+        'HG': 'Grave',
+        'M': 'Fallecido',
+        'HL': 'Leve', 'NO ASIGNADA': 'Leve'}
     return dict_injury[values]
 
 
