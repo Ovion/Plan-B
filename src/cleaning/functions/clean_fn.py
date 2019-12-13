@@ -16,7 +16,8 @@ def get_df_norm_header_index(path):
 def fill_drop(df):
     df.lesividad.fillna('14', inplace=True)
     df.meteo.fillna('Se desconoce', inplace=True)
-    df.drop(['sexo', 'vehiculo', 'persona', 'edad'], axis=1, inplace=True)
+    df.drop(['sexo', 'vehiculo', 'persona', 'edad',
+             'num_exp'], axis=1, inplace=True)
     return df
 
 
@@ -48,3 +49,16 @@ def change_accident(values):
         if re.match(k, values):
             return v
     return 'Otro'
+
+
+def change_injury(values):
+    dict_injury = {
+        '01': 'Moderada', '02': 'Moderada',
+        '03': 'Grave',
+        '04': 'Fallecido',
+        '05': 'Leve', '06': 'Leve', '07': 'Leve', '14': 'Leve'}
+    return dict_injury[values]
+
+
+def order_columns(df):
+    return df[['fecha', 'meteo', 'tipo_accidente', 'lesividad', 'distrito', 'direccion']]
