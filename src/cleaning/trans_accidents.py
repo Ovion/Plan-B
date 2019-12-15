@@ -24,7 +24,7 @@ bici = bici.merge(cal, how='left', on='dia')
 bici = fnt.prepare_to_google(bici)
 print('Done')
 print('Saving data in: input/clean_data/bici_woCoor.csv')
-bici.to_csv('input/clean_data/bici_woCoor.csv')
+bici.to_csv('input/clean_data/bici_woCoor.csv', index=False)
 print('Done')
 
 print('Getting coordinates...')
@@ -46,5 +46,5 @@ for i in range(len(bici)):
 print('Done')
 
 print('Saving .csv in: input/clean_data/bici.csv')
-bici.to_csv('input/clean_data/bici.csv')
+bici.to_csv('input/clean_data/bici.csv', index=False)
 print('Done')
