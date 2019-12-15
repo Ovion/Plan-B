@@ -1,0 +1,701 @@
+fecha,meteo,tipo_accidente,lesividad,distrito,direccion
+2018-01-01 13:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,CALLE DE ANCORA - PASEO DE LAS DELICIAS
+2018-01-01 15:00:00,Despejado,Imprudencia,Leve,CENTRO                        ,CALLE DE ALCALA NUM                                                                                  44
+2018-01-02 12:00:00,Despejado,Imprudencia,Leve,SALAMANCA                     ,CALLE DE SERRANO - CALLE DEL CONDE DE ARANDA
+2018-01-03 13:00:00,Despejado,Colision,Leve,SALAMANCA                     ,PLAZA DE LA INDEPENDENCIA NUM                                                                        5
+2018-01-03 15:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE RAMIREZ DE ARELLANO NUM                                                                     35
+2018-01-03 22:00:00,Despejado,Colision,Leve,LATINA                        ,CALLE DE SEGOVIA - PASEO DE EXTREMADURA
+2018-01-04 08:00:00,Despejado,Caida,Moderada,LATINA                        ,CALLE DE LOS YEBENES - CALLE DE SEPULVEDA
+2018-01-04 09:00:00,Niebla,Caida,Leve,SAN BLAS                      ,AVENIDA DE CANILLEJAS A VICALVARO - CALLE DE LOS HERMANOS GARCIA NOBLEJAS
+2018-01-04 15:00:00,Despejado,Colision,Leve,VILLA DE VALLECAS             ,CALLE DE LA SIERRA DE TORNAVACAS - CALLE DE SAN JAIME
+2018-01-04 20:00:00,Despejado,Imprudencia,Moderada,CIUDAD LINEAL                 ,CALLE DE GERMAN PEREZ CARRASCO - CALLE DEL DOCTOR VALLEJO
+2018-01-05 16:00:00,Lluvia,Caida,Leve,RETIRO                        ,PASEO DEL FERNAN NUÑEZ
+2018-01-07 16:00:00,Lluvia,Caida,Leve,FUENCARRAL-EL PARDO           ,CARRETERA DE COLMENAR NUM                                                                            14
+2018-01-09 15:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,CALLE DE LA BATALLA DEL SALADO NUM                                                                   1
+2018-01-11 14:00:00,Despejado,Colision,Leve,CENTRO                        ,RONDA DE ATOCHA NUM                                                                                  2
+2018-01-11 20:00:00,Despejado,Colision,Grave,RETIRO                        ,CALLE DE ALCALA - CALLE DE VELAZQUEZ
+2018-01-12 11:00:00,Despejado,Caida,Leve,USERA                         ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              6600
+2018-01-13 01:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE GOYA NUM                                                                                    66
+2018-01-15 09:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE GOYA NUM                                                                                    5
+2018-01-15 16:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE LA INFANTA MERCEDES - CALLE DE SOR ANGELA DE LA CRUZ
+2018-01-16 16:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE SEVILLA NUM                                                                                 6
+2018-01-17 01:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE GENOVA NUM                                                                                  23
+2018-01-18 15:00:00,Despejado,Imprudencia,Leve,MONCLOA-ARAVACA               ,PASEO DE MARIA TERESA NUM                                                                            7
+2018-01-18 17:00:00,Despejado,Caida,Grave,SAN BLAS                      ,AVENIDA DE LUIS ARAGONÉS - CALLE DE SAN HILARIO
+2018-01-18 21:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE GENOVA NUM                                                                                  7
+2018-01-19 16:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE CARRANZA NUM                                                                                7
+2018-01-20 08:00:00,Despejado,Colision,Leve,VILLA DE VALLECAS             ,AVENIDA DE LA GAVIA - AVENIDA DEL MAYORAZGO
+2018-01-20 17:00:00,Despejado,Colision,Leve,HORTALEZA                     ,CALLE DE FRANCISCO UMBRAL - GLORIETA DE ISIDRO GONZALEZ VELAZQUEZ
+2018-01-21 12:00:00,Despejado,Caida,Leve,LATINA                        ,CARRETERA DE LA VENTA DE LA RUBIA
+2018-01-21 13:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE  VIA CARPETANA NUM                                                                             138
+2018-01-22 13:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE LA INFANTA MERCEDES NUM                                                                     38
+2018-01-24 09:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE SANTA ENGRACIA NUM                                                                          97
+2018-01-24 19:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,CALLE DE JAIME EL CONQUISTADOR - CALLE DEL PARROCO JULIO MORATE
+2018-01-24 20:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE SANTA ENGRACIA NUM                                                                          33
+2018-01-24 20:00:00,Despejado,Colision,Leve,SAN BLAS                      ,CARRIL  ANILLO VERDE CICLISTA KM.                                                                    13000
+2018-01-24 20:00:00,Despejado,Colision,Leve,SAN BLAS                      ,CARRIL  ANILLO VERDE CICLISTA KM.                                                                    13000
+2018-01-24 21:00:00,Despejado,Caida,Leve,RETIRO                        ,AUTOVIA  M-30 CALZADA 1 - AVENIDA DE LA CIUDAD DE BARCELONA
+2018-01-24 22:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,PARQUE DE MADRID RIO (RIBERA ESTE) KM.                                                               6600
+2018-01-26 15:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CALLE DEL CERRO DE VALDECAHONDE NUM                                                                  15
+2018-01-26 22:00:00,Despejado,Caida,Leve,VILLAVERDE                    ,CALLE DE ENCARNACION OVIOL NUM                                                                       27
+2018-01-27 09:00:00,Despejado,Colision,Leve,USERA                         ,AVENIDA DE LOS POBLADOS - CAMINO  VIEJO DE VILLAVERDE
+2018-01-27 13:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DEL COMANDANTE ZORITA NUM                                                                      17
+2018-01-27 15:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,CARRIL  ANILLO VERDE CICLISTA KM.                                                                    32700
+2018-01-27 19:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE JOSE DEL HIERRO NUM                                                                         3
+2018-01-28 12:00:00,Despejado,Caida,Leve,SAN BLAS                      ,CALLE DE SOFIA NUM                                                                                   7
+2018-01-28 16:00:00,Despejado,Colision,Grave,RETIRO                        ,PLAZA DEL MAESTRO VILLA
+2018-01-28 16:00:00,Despejado,Colision,Leve,RETIRO                        ,PLAZA DEL MAESTRO VILLA
+2018-01-28 22:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE GENOVA - PLAZA DE ALONSO MARTINEZ
+2018-01-29 15:00:00,Despejado,Colision,Leve,VILLA DE VALLECAS             ,CALLE DE SIERRA GORDA - PLAZA DE JUAN DE MALASAÑA
+2018-01-29 19:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,CALLE DE BALBINA VALVERDE - CALLE DE JOAQUIN COSTA
+2018-01-29 21:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE HERMOSILLA - CALLE DE NUÑEZ DE BALBOA
+2018-01-30 09:00:00,Despejado,Colision,Leve,HORTALEZA                     ,AVENIDA DE SAN LUIS NUM                                                                              53
+2018-01-30 13:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DEL ESPEJO NUM                                                                                 12
+2018-01-31 18:00:00,Despejado,Caida,Leve,MORATALAZ                     ,CALLE  ARROYO DE LA MEDIA LEGUA NUM                                                                  8
+2018-02-01 08:00:00,Despejado,Colision,Leve,SAN BLAS                      ,CALLE DE AMPOSTA - CALLE DE POBLADURA DEL VALLE
+2018-02-01 15:00:00,Despejado,Colision,Leve,CENTRO                        ,PLAZA DE TIRSO DE MOLINA NUM                                                                         12
+2018-02-01 19:00:00,Lluvia,Colision,Leve,VICALVARO                     ,CALLE DE CORDEL DE PAVONES NUM                                                                       44
+2018-02-02 13:00:00,Despejado,Colision,Leve,CHAMBERI                      ,GLORIETA DE CUATRO CAMINOS NUM                                                                       1
+2018-02-02 19:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE VILLANUEVA NUM                                                                              2
+2018-02-02 20:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE ELOY GONZALO - GLORIETA DE QUEVEDO
+2018-02-04 05:00:00,Lluvia,Colision,Leve,SALAMANCA                     ,CALLE DE VELAZQUEZ NUM                                                                               30
+2018-02-05 17:00:00,Lluvia,Colision,Leve,RETIRO                        ,AVENIDA DE LA ALBUFERA - AVENIDA DE LA CIUDAD DE BARCELONA
+2018-02-06 09:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE ALCALA - CALLE DE O'DONNELL
+2018-02-06 12:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE ALMAGRO NUM                                                                                 22
+2018-02-06 17:00:00,Nieve,Caida,Leve,CIUDAD LINEAL                 ,CALLE DE GARCIA QUINTANILLA - CALLE DEL GENERAL ARANAZ
+2018-02-07 19:00:00,Despejado,Colision,Leve,CENTRO                        ,PASEO DEL PRADO - PLAZA DE CANOVAS DEL CASTILLO
+2018-02-08 18:00:00,Despejado,Colision,Leve,SALAMANCA                     ,PASEO DE LA CASTELLANA NUM                                                                           48
+2018-02-08 19:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE  GRAN VIA NUM                                                                                  32
+2018-02-09 12:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE VELAZQUEZ NUM                                                                               28
+2018-02-10 19:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE ARGUMOSA NUM                                                                                28
+2018-02-12 13:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE  GRAN VIA NUM                                                                                  37
+2018-02-13 08:00:00,Despejado,Imprudencia,Moderada,CHAMBERI                      ,CALLE DE JOSE ABASCAL - CALLE DE SANTA ENGRACIA
+2018-02-14 02:00:00,Despejado,Caida,Leve,RETIRO                        ,CALLE DE O'DONNELL - CALLE DEL DOCTOR ESQUERDO
+2018-02-14 18:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE BRAVO MURILLO NUM                                                                           9
+2018-02-14 21:00:00,Despejado,Colision,Moderada,SALAMANCA                     ,CALLE DE GOYA - PASEO DE LA CASTELLANA
+2018-02-15 04:00:00,Despejado,Caida,Leve,RETIRO                        ,CALLE DE ALFONSO XII NUM                                                                             68
+2018-02-15 18:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CALLE DE FERRAZ NUM                                                                                  5
+2018-02-15 20:00:00,Despejado,Colision,Leve,SAN BLAS                      ,CALLE DE ALBASANZ NUM                                                                                71
+2018-02-16 09:00:00,Despejado,Caida,Leve,CENTRO                        ,PLAZA DE LA PUERTA DEL SOL NUM                                                                       1
+2018-02-18 03:00:00,Despejado,Colision,Leve,CARABANCHEL                   ,CALLE DE LA VIA NUM                                                                                  48
+2018-02-18 12:00:00,Despejado,Colision,Leve,VILLA DE VALLECAS             ,AVENIDA DEL MAYORAZGO - CALLE DE VILLAMANTA
+2018-02-19 13:00:00,Despejado,Caida,Leve,HORTALEZA                     ,CALLE DE ARTURO SORIA - CAMINO DE LA HUERTA
+2018-02-21 09:00:00,Despejado,Caida,Leve,TETUAN                        ,CALLE DE RAIMUNDO FERNANDEZ VILLAVERDE - PASEO DE LA CASTELLANA
+2018-02-21 18:00:00,Despejado,Imprudencia,Leve,CIUDAD LINEAL                 ,CALLE DE ASCAO NUM                                                                                   45
+2018-02-22 07:00:00,Despejado,Colision,Leve,RETIRO                        ,CALLE DE MAIQUEZ - CALLE DEL ALCALDE SAINZ DE BARANDA
+2018-02-22 13:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,CARRETERA DE FUENCARRAL A ALCOBENDAS KM.                                                             1200
+2018-02-22 14:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,AVENIDA DE BUENOS AIRES - AVENIDA DE MIGUEL HERNANDEZ
+2018-02-23 12:00:00,Despejado,Colision,Leve,USERA                         ,CALLE DE DOLORES BARRANCO - CALLE DEL OLVIDO
+2018-02-23 13:00:00,Despejado,Imprudencia,Moderada,CENTRO                        ,CALLE DE LA BENEFICENCIA NUM                                                                         8
+2018-02-24 14:00:00,Despejado,Caida,Leve,CHAMARTIN                     ,CALLE DEL PADRE DAMIAN NUM                                                                           5
+2018-02-24 20:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,CALLE DE BENJAMIN PALENCIA NUM                                                                       18
+2018-02-25 10:00:00,Despejado,Imprudencia,Leve,LATINA                        ,PARQUE DE LA CASA DE CAMPO
+2018-02-25 12:00:00,Despejado,Colision,Grave,SAN BLAS                      ,AVENIDA DE CANILLEJAS A VICALVARO NUM                                                                1
+2018-02-25 23:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE ALCALA - CALLE DE VELAZQUEZ
+2018-02-26 19:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE ALONSO CANO - CALLE DE CRISTOBAL BORDIU
+2018-02-26 21:00:00,Despejado,Colision,Leve,RETIRO                        ,CALLE DEL DOCTOR VELASCO NUM                                                                         4
+2018-02-27 13:00:00,Lluvia,Colision,Leve,CENTRO                        ,CALLE DE LA CAVA BAJA NUM                                                                            25
+2018-02-28 02:00:00,Lluvia,Colision,Leve,CENTRO                        ,CALLE DE TRIBULETE - PLAZA DE LAVAPIES
+2018-03-02 16:00:00,Lluvia,Colision,Moderada,CARABANCHEL                   ,AVENIDA DE OPORTO - CALLE DE FRANCISCO DE ICAZA
+2018-03-02 16:00:00,Lluvia,Colision,Leve,CARABANCHEL                   ,AVENIDA DE OPORTO - CALLE DE FRANCISCO DE ICAZA
+2018-03-02 18:00:00,Lluvia,Colision,Leve,RETIRO                        ,PLAZA DEL DOCTOR LAGUNA NUM                                                                          13
+2018-03-03 06:00:00,Lluvia,Colision,Leve,CENTRO                        ,CALLE DE ALCALA NUM                                                                                  45
+2018-03-09 13:00:00,Lluvia,Colision,Leve,SALAMANCA                     ,CALLE DE ALCALA NUM                                                                                  198
+2018-03-09 22:00:00,Lluvia,Colision,Leve,SALAMANCA                     ,CALLE DE ALCALA - PLAZA DE MANUEL BECERRA
+2018-03-10 21:00:00,Lluvia,Caida,Grave,SALAMANCA                     ,PLAZA DE LA INDEPENDENCIA NUM                                                                        4
+2018-03-11 14:00:00,Lluvia,Colision,Leve,CENTRO                        ,PLAZA DEL EMPERADOR CARLOS V NUM                                                                     8
+2018-03-11 18:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE CARRETAS NUM                                                                                11
+2018-03-11 18:00:00,Lluvia,Caida,Leve,CENTRO                        ,PLAZA DE TIRSO DE MOLINA NUM                                                                         10
+2018-03-11 19:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE JUAN PANTOJA - CALLE DEL TOPETE
+2018-03-12 20:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,GLORIETA DE LAS PIRAMIDES - PASEO  IMPERIAL
+2018-03-13 12:00:00,Despejado,Imprudencia,Moderada,CHAMARTIN                     ,CALLE DE GUSTAVO FERNANDEZ BALBUENA NUM                                                              11
+2018-03-13 15:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,CAMINO DE VALDERRIBAS NUM                                                                            113
+2018-03-14 13:00:00,Lluvia,Caida,Leve,CENTRO                        ,PLAZA DE LA PUERTA DEL SOL NUM                                                                       4
+2018-03-14 19:00:00,Lluvia,Caida,Leve,CENTRO                        ,CALLE DE CARRANZA NUM                                                                                25
+2018-03-15 22:00:00,Despejado,Caida,Leve,RETIRO                        ,CALLE DE CLAUDIO MOYANO NUM                                                                          2
+2018-03-16 11:00:00,Despejado,Caida,Grave,USERA                         ,CAMINO DE PERALES NUM                                                                                20
+2018-03-16 14:00:00,Despejado,Caida,Leve,RETIRO                        ,PASEO DEL FERNAN NUÑEZ
+2018-03-16 15:00:00,Lluvia,Caida,Leve,TETUAN                        ,PASEO DE LA DIRECCION NUM                                                                            285
+2018-03-20 11:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE SERRANO NUM                                                                                 91
+2018-03-21 11:00:00,Despejado,Colision,Leve,MORATALAZ                     ,CALLE DE FOBOS NUM                                                                                   17
+2018-03-21 12:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CARRETERA DE PARDO A FUENCARRAL KM.                                                                  3500
+2018-03-23 10:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE DE LAS FLAUTAS - CALLE DE LOS CLARINETES
+2018-03-25 13:00:00,Despejado,Caida,Leve,PUENTE DE VALLECAS            ,AVENIDA DE BUENOS AIRES - CALLE DE MOGAMBO
+2018-03-26 22:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,AVENIDA DE LOS POBLADOS - CALLE DE VENTURA DIAZ BERNARDO
+2018-03-27 16:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,PLAZA DE LAS MORERAS NUM                                                                             1
+2018-03-27 16:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,PLAZA DE LAS MORERAS NUM                                                                             1
+2018-03-27 17:00:00,Despejado,Colision,Leve,LATINA                        ,CALLE DE CEBREROS NUM                                                                                9
+2018-03-27 18:00:00,Despejado,Caida,Grave,SAN BLAS                      ,CALLE DE ESTOCOLMO - CARRIL  ANILLO VERDE CICLISTA
+2018-03-28 13:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,PARQUE DE MADRID RIO (RIBERA ESTE) KM.                                                               6000
+2018-03-28 13:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,PARQUE DE MADRID RIO (RIBERA ESTE) KM.                                                               6000
+2018-03-29 11:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,CALLE DE LA BATALLA DEL SALADO - CALLE DEL GENERAL PALANCA
+2018-03-31 13:00:00,Despejado,Caida,Leve,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA NUM                                                                108
+2018-04-01 03:00:00,Despejado,Imprudencia,Leve,CHAMBERI                      ,CALLE DE SANTA ENGRACIA NUM                                                                          82
+2018-04-01 22:00:00,Despejado,Caida,Leve,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA NUM                                                                208
+2018-04-02 15:00:00,Despejado,Imprudencia,Moderada,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA NUM                                                                144
+2018-04-02 18:00:00,Despejado,Imprudencia,Moderada,RETIRO                        ,PASEO DE LA INFANTA ISABEL - PLAZA DEL EMPERADOR CARLOS V
+2018-04-03 08:00:00,Despejado,Colision,Grave,PUENTE DE VALLECAS            ,AVENIDA DE LA ALBUFERA NUM                                                                           7
+2018-04-03 09:00:00,Despejado,Colision,Leve,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA - AVENIDA DE MENENDEZ PELAYO
+2018-04-04 21:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE  MAYOR - CALLE DE BAILEN
+2018-04-05 09:00:00,Despejado,Caida,Leve,CENTRO                        ,CUESTA DE LA VEGA - PASEO DE LA CIUDAD DE PLASENCIA
+2018-04-05 11:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,AVENIDA DE PUERTA DE HIERRO NUM                                                                      19
+2018-04-06 03:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DEL CASINO NUM                                                                                 16
+2018-04-06 10:00:00,Despejado,Colision,Grave,MONCLOA-ARAVACA               ,CALLE DE FRANCISCO Y JACINTO ALCANTARA - PASEO DE CAMOENS Y VALERO
+2018-04-07 07:00:00,Despejado,Imprudencia,Grave,CENTRO                        ,CALLE DE SERRANO JOVER NUM                                                                           4
+2018-04-07 19:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE VELAZQUEZ NUM                                                                               18
+2018-04-08 13:00:00,Despejado,Imprudencia,Moderada,CARABANCHEL                   ,CALLE DE ANTONIO DE LEYVA NUM                                                                        18
+2018-04-08 15:00:00,Despejado,Colision,Leve,CENTRO                        ,PASEO DEL PRADO NUM                                                                                  42
+2018-04-08 21:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE BAILEN - CALLE DE CALATRAVA
+2018-04-12 16:00:00,Lluvia,Caida,Leve,CENTRO                        ,CALLE DE LA MAGDALENA NUM                                                                            28
+2018-04-12 17:00:00,Despejado,Colision,Leve,MORATALAZ                     ,AVENIDA DE MORATALAZ NUM                                                                             59
+2018-04-12 17:00:00,Despejado,Colision,Leve,MORATALAZ                     ,AVENIDA DE MORATALAZ NUM                                                                             59
+2018-04-12 18:00:00,Lluvia,Imprudencia,Moderada,TETUAN                        ,AVENIDA DEL GENERAL PERON - CALLE DEL CAPITAN HAYA
+2018-04-13 13:00:00,Despejado,Colision,Leve,RETIRO                        ,CALLE DEL DOCTOR ESQUERDO - PLAZA DEL CONDE DE CASAL
+2018-04-14 14:00:00,Despejado,Imprudencia,Leve,PUENTE DE VALLECAS            ,AVENIDA DE MIGUEL HERNANDEZ NUM                                                                      48
+2018-04-14 18:00:00,Despejado,Caida,Grave,CHAMBERI                      ,CALLE DE GUZMAN EL BUENO NUM                                                                         30
+2018-04-14 19:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DEL CONDE DUQUE NUM                                                                            13
+2018-04-16 14:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,RONDA DEL CABALLERO DE LA MANCHA NUM                                                                 182
+2018-04-17 17:00:00,Despejado,Colision,Leve,LATINA                        ,CALLE DE LOGROSAN - CALLE DE MIRABEL
+2018-04-17 20:00:00,Despejado,Colision,Leve,HORTALEZA                     ,AVENIDA DEL CONSEJO DE EUROPA - GLORIETA DE S.A.R. DON JUAN DE BORBON Y BATTEMBERG
+2018-04-18 08:00:00,Despejado,Caida,Leve,CENTRO                        ,PASEO DEL PRADO NUM                                                                                  16
+2018-04-18 16:00:00,Despejado,Caida,Grave,CENTRO                        ,CALLE  IMPERIAL NUM                                                                                  5
+2018-04-18 17:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,AVENIDA DEL SANTUARIO DE VALVERDE NUM                                                                68
+2018-04-18 18:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE SERRANO NUM                                                                                 17
+2018-04-19 10:00:00,Despejado,Caida,Leve,HORTALEZA                     ,AVENIDA DE FRANCISCO PI Y MARGALL - AVENIDA DE NICETO ALCALA ZAMORA
+2018-04-19 16:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,PASEO DEL PIÑONERO - PLAZA DE LAS MORERAS
+2018-04-19 18:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE DEL GENERAL ROMERO BASART NUM                                                                  88
+2018-04-19 22:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE SAN BERNARDO NUM                                                                            72
+2018-04-20 15:00:00,Despejado,Caida,Leve,LATINA                        ,AVENIDA DE PORTUGAL - CALLE DE SAAVEDRA FAJARDO
+2018-04-20 16:00:00,Despejado,Caida,Grave,RETIRO                        ,PARQUE DEL RETIRO
+2018-04-21 07:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,PARQUE DE MADRID RIO (RIBERA ESTE) KM.                                                               6500
+2018-04-21 23:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,AVENIDA DE SAN DIEGO - CALLE DEL CONVENIO
+2018-04-22 00:00:00,Despejado,Caida,Grave,CENTRO                        ,CALLE DE SOMBRERETE - CALLE DEL MESON DE PAREDES
+2018-04-22 11:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,AVENIDA DE PIO XII - CALLE DE LOS CAIDOS DE LA DIVISION AZUL
+2018-04-24 12:00:00,Despejado,Imprudencia,Leve,CARABANCHEL                   ,CALLE DE LOLA MEMBRIVES NUM                                                                          5
+2018-04-24 16:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE SANTA GENOVEVA NUM                                                                          26
+2018-04-24 21:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,CALLE DE LA PRINCESA NUM                                                                             27
+2018-04-25 12:00:00,Despejado,Caida,Leve,RETIRO                        ,AVENIDA DE MENENDEZ PELAYO - CALLE DE GRANADA
+2018-04-25 16:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,CALLE DE HISTORIAS DE LA RADIO NUM                                                                   1
+2018-04-26 11:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE ALCALA - CALLE DE CEDACEROS
+2018-04-26 15:00:00,Despejado,Caida,Leve,USERA                         ,AVENIDA DE LOS POBLADOS - CAMINO  VIEJO DE VILLAVERDE
+2018-04-26 20:00:00,Despejado,Caida,Leve,VILLA DE VALLECAS             ,CALLE DE SIERRA DE GUADALUPE NUM                                                                     9
+2018-04-26 22:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CALLE DEL MONASTERIO DE ARLANZA - CALLE DEL REINO DE CANDAYA
+2018-04-27 08:00:00,Despejado,Caida,Leve,SAN BLAS                      ,CALLE DE JULIAN CAMARILLO - CALLE DE RUFINO GONZALEZ
+2018-04-28 17:00:00,Despejado,Caida,Leve,SAN BLAS                      ,CALLE DE ALCALA NUM                                                                                  522
+2018-04-29 13:00:00,Lluvia,Colision,Leve,RETIRO                        ,PLAZA DE CIBELES NUM                                                                                 1
+2018-04-30 12:00:00,Despejado,Imprudencia,Leve,SAN BLAS                      ,CALLE DE DEYANIRA NUM                                                                                23
+2018-05-01 16:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,PASEO DEL PIÑONERO NUM                                                                               1
+2018-05-01 16:00:00,Despejado,Colision,Grave,MONCLOA-ARAVACA               ,PASEO DEL PIÑONERO NUM                                                                               1
+2018-05-02 10:00:00,Despejado,Caida,Leve,SAN BLAS                      ,AVENIDA DE LUIS ARAGONÉS NUM                                                                         4
+2018-05-02 11:00:00,Despejado,Caida,Grave,MONCLOA-ARAVACA               ,CARRETERA DE LA CIUDAD UNIVERSITARIA KM.                                                             1
+2018-05-02 18:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,AVENIDA DE LA ALBUFERA - CALLE DE JOSEFA DIAZ
+2018-05-02 18:00:00,Despejado,Imprudencia,Leve,USERA                         ,CALLE DE JUAN ESPAÑOL NUM                                                                            15
+2018-05-03 17:00:00,Despejado,Caida,Leve,RETIRO                        ,CALLE DE CLAUDIO MOYANO NUM                                                                          1
+2018-05-05 09:00:00,Despejado,Imprudencia,Moderada,CENTRO                        ,CALLE DE LA MONTERA NUM                                                                              18
+2018-05-05 12:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,AVENIDA DE LOS POBLADOS - CALLE DE LA SECOYA
+2018-05-05 16:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CALLE DE FERRAZ - CALLE DEL MARQUES DE URQUIJO
+2018-05-06 09:00:00,Despejado,Caida,Grave,VILLA DE VALLECAS             ,AVENIDA DEL MAYORAZGO - CAMINO DE LA MAGDALENA
+2018-05-06 10:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE ARGUMOSA - RONDA DE ATOCHA
+2018-05-06 15:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE FUCAR - CALLE DEL GOBERNADOR
+2018-05-07 08:00:00,Despejado,Imprudencia,Leve,PUENTE DE VALLECAS            ,AVENIDA DE ENTREVIAS - CAMINO DE LAS HORMIGUERAS
+2018-05-08 08:00:00,Despejado,Imprudencia,Leve,TETUAN                        ,CALLE DE NUMANCIA NUM                                                                                33
+2018-05-08 16:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,CALLE DE VICTOR DE LA SERNA - CALLE DEL PINTOR RIBERA
+2018-05-09 14:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE MIGUEL ANGEL NUM                                                                            12
+2018-05-09 18:00:00,Despejado,Colision,Grave,RETIRO                        ,CALLE DE SAMARIA - CALLE DEL DOCTOR ESQUERDO
+2018-05-09 20:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE ORENSE - CALLE DEL GENERAL YAGÜE
+2018-05-10 07:00:00,Despejado,Imprudencia,Moderada,CHAMBERI                      ,CALLE DE ALONSO CANO - CALLE DE RIOS ROSAS
+2018-05-10 11:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,CALLE DE ARROYOFRESNO NUM                                                                            7
+2018-05-11 11:00:00,Despejado,Caida,Leve,SALAMANCA                     ,AVENIDA DE LOS TOREROS NUM                                                                           71
+2018-05-11 13:00:00,Despejado,Colision,Leve,RETIRO                        ,PLAZA DE CANOVAS DEL CASTILLO - PLAZA DE LA LEALTAD
+2018-05-11 22:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE CEDACEROS - CARRERA DE SAN JERONIMO
+2018-05-11 22:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,PASEO DEL ROBLEDAL
+2018-05-12 10:00:00,Despejado,Caida,Leve,LATINA                        ,CARRETERA DE BOADILLA DEL MONTE NUM                                                                  40
+2018-05-12 18:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE ORENSE - CALLE DEL GENERAL YAGÜE
+2018-05-12 23:00:00,Despejado,Caida,Leve,RETIRO                        ,AUTOVIA  M-30 CALZADA 1 - AVENIDA DE LA CIUDAD DE BARCELONA
+2018-05-13 18:00:00,Despejado,Imprudencia,Moderada,USERA                         ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              5850
+2018-05-14 00:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,PASEO DEL DOCTOR VALLEJO NAGERA NUM                                                                  43
+2018-05-14 12:00:00,Despejado,Caida,Leve,MORATALAZ                     ,AVENIDA DEL DOCTOR GARCIA TAPIA NUM                                                                  218
+2018-05-14 20:00:00,Despejado,Caida,Grave,RETIRO                        ,PLAZA DE MARIANO DE CAVIA NUM                                                                        2
+2018-05-16 14:00:00,Despejado,Caida,Leve,PUENTE DE VALLECAS            ,AVENIDA DE MIGUEL HERNANDEZ NUM                                                                      80
+2018-05-16 14:00:00,Despejado,Colision,Leve,USERA                         ,AVENIDA DEL MANZANARES NUM                                                                           212
+2018-05-16 14:00:00,Despejado,Colision,Leve,USERA                         ,AVENIDA DEL MANZANARES NUM                                                                           212
+2018-05-17 16:00:00,Despejado,Colision,Leve,RETIRO                        ,CALLE DE ALFONSO XII - PLAZA DE LA INDEPENDENCIA
+2018-05-17 18:00:00,Despejado,Caida,Leve,TETUAN                        ,CALLE DE ESPERANZA SANCHEZ CARRASCOSA NUM                                                            58
+2018-05-17 19:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,CALLE DE MAURICIO LEGENDRE NUM                                                                       43
+2018-05-18 11:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE CLAUDIO COELLO NUM                                                                          22
+2018-05-18 16:00:00,Despejado,Imprudencia,Leve,CENTRO                        ,CALLE  MAYOR NUM                                                                                     4
+2018-05-19 00:00:00,Despejado,Colision,Leve,SALAMANCA                     ,AVENIDA DE MENENDEZ PELAYO - CALLE DE O'DONNELL
+2018-05-19 14:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,CUESTA DE SAN VICENTE NUM                                                                            40
+2018-05-20 10:00:00,Despejado,Imprudencia,Leve,VILLAVERDE                    ,CALLE  GRAN VIA DE VILLAVERDE S/N
+2018-05-20 11:00:00,Despejado,Caida,Leve,LATINA                        ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              2200
+2018-05-20 11:00:00,Despejado,Colision,Leve,SAN BLAS                      ,AVENIDA DE NIZA - CALLE DE MANCHESTER
+2018-05-20 13:00:00,Despejado,Caida,Leve,HORTALEZA                     ,CALLE DEL PINTOR LUCIO MUÑOZ - CALLE DEL PRINCIPE CARLOS
+2018-05-21 20:00:00,Lluvia,Colision,Leve,CHAMBERI                      ,CALLE DE BRAVO MURILLO - PLAZA DE JUAN ZORRILLA
+2018-05-21 21:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,PASEO DE PONTONES NUM                                                                                14
+2018-05-22 08:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,CALLE DEL GENERAL RICARDOS NUM                                                                       19
+2018-05-22 15:00:00,Lluvia,Colision,Leve,CHAMARTIN                     ,PLAZA DE JOSE MARIA SOLER
+2018-05-22 16:00:00,Lluvia,Colision,Leve,FUENCARRAL-EL PARDO           ,AVENIDA DEL CARDENAL HERRERA ORIA - CALLE DE LA MASO
+2018-05-24 08:00:00,Despejado,Caida,Leve,HORTALEZA                     ,AVENIDA DE LOS MADROÑOS NUM                                                                          17
+2018-05-24 08:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,AVENIDA DE LA DEMOCRACIA NUM                                                                         13
+2018-05-24 16:00:00,Despejado,Colision,Grave,CENTRO                        ,CALLE DE ALCALA NUM                                                                                  44
+2018-05-26 10:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,CALLE DE AFUERAS A VALVERDE - CALLE DE CALATRAVA
+2018-05-27 01:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE LAS NEGRAS - CALLE DEL DUQUE DE LIRIA
+2018-05-28 07:00:00,Lluvia,Colision,Leve,USERA                         ,CALLE DE ANTONIO LOPEZ - CAMINO DE PERALES
+2018-05-28 12:00:00,Lluvia,Colision,Leve,RETIRO                        ,CALLE DE ALCALA NUM                                                                                  60
+2018-05-29 07:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE SEGOVIA - PLAZA DE LA CRUZ VERDE
+2018-05-31 18:00:00,Despejado,Caida,Moderada,RETIRO                        ,CALLE DE ALFONSO XII - CALLE DE CLAUDIO MOYANO
+2018-06-01 15:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE ALBERTO AGUILERA NUM                                                                        48
+2018-06-01 18:00:00,Despejado,Colision,Leve,BARAJAS                       ,GLORIETA DE ANIBAL GONZALEZ
+2018-06-01 18:00:00,Despejado,Colision,Moderada,BARAJAS                       ,GLORIETA DE ANIBAL GONZALEZ
+2018-06-01 19:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE HERNANI NUM                                                                                 75
+2018-06-02 16:00:00,Despejado,Caida,Leve,CENTRO                        ,PLAZA DE SALESAS NUM                                                                                 8
+2018-06-03 09:00:00,Despejado,Imprudencia,Leve,CARABANCHEL                   ,GLORIETA DEL MARQUES DE VADILLO NUM                                                                  1
+2018-06-03 13:00:00,Despejado,Caida,Leve,TETUAN                        ,CALLE  VIA LIMITE - CALLE DE LAS MAGNOLIAS
+2018-06-03 14:00:00,Despejado,Caida,Leve,SALAMANCA                     ,PASEO DE LA CASTELLANA NUM                                                                           22
+2018-06-04 08:00:00,Despejado,Colision,Grave,HORTALEZA                     ,AVENIDA DE LAS FUERZAS ARMADAS NUM                                                                   5
+2018-06-04 12:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,CALLE DE EMBAJADORES - CALLE DE SANTA CATALINA
+2018-06-04 20:00:00,Despejado,Colision,Leve,USERA                         ,AVENIDA DE RAFAELA YBARRA - CALLE DE FERMIN DONAIRE
+2018-06-05 01:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           375
+2018-06-05 08:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,CALLE DE SANTIAGO DE COMPOSTELA - PLAZA DE VILLAFRANCA DE LOS BARROS
+2018-06-05 14:00:00,Despejado,Colision,Leve,LATINA                        ,AVENIDA DEL PADRE PIQUER NUM                                                                         8
+2018-06-07 08:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,CALLE DE FRANCISCO TARREGA - CALLE DE ISABEL COLBRAND
+2018-06-07 21:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE HERNAN CORTES NUM                                                                           22
+2018-06-08 14:00:00,Lluvia,Colision,Leve,RETIRO                        ,PASEO DEL PRADO - PLAZA DE MURILLO
+2018-06-08 16:00:00,Lluvia,Colision,Grave,VILLA DE VALLECAS             ,AVENIDA DEL ENSANCHE DE VALLECAS NUM                                                                 56
+2018-06-08 17:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE  GRAN VIA NUM                                                                                  73
+2018-06-09 10:00:00,Despejado,Colision,Leve,VILLA DE VALLECAS             ,CARRETERA DE VILLAVERDE A VALLECAS NUM                                                               250
+2018-06-09 12:00:00,Despejado,Colision,Leve,VILLAVERDE                    ,CALLE DE DOMINGO PARRAGA NUM                                                                         62
+2018-06-09 13:00:00,Despejado,Caida,Leve,USERA                         ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              6500
+2018-06-10 20:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE FERNANDO VI NUM                                                                             14
+2018-06-11 02:00:00,Despejado,Colision,Grave,RETIRO                        ,PASEO DEL PRADO NUM                                                                                  13
+2018-06-12 15:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,CALLE DE MENDEZ ALVARO NUM                                                                           9
+2018-06-13 00:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE BEATRIZ GALINDO NUM                                                                         4
+2018-06-13 00:00:00,Despejado,Colision,Moderada,CENTRO                        ,CALLE DE BEATRIZ GALINDO NUM                                                                         4
+2018-06-13 04:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE DONOSO CORTES - CALLE DE MAGALLANES
+2018-06-13 18:00:00,Despejado,Caida,Leve,CHAMBERI                      ,PASEO DE LA CASTELLANA - PLAZA DEL DOCTOR MARAÑON
+2018-06-14 14:00:00,Despejado,Caida,Leve,TETUAN                        ,CALLE DE PALENCIA - CALLE DE SAN ANTONIO
+2018-06-14 17:00:00,Despejado,Colision,Leve,CENTRO                        ,GRAN VIA DE SAN FRANCISCO NUM                                                                        5
+2018-06-14 17:00:00,Despejado,Caida,Leve,CHAMARTIN                     ,CALLE DE CORAZON DE MARIA NUM                                                                        15
+2018-06-15 03:00:00,Despejado,Colision,Grave,CENTRO                        ,CALLE DE ALCALA - PLAZA DE CIBELES
+2018-06-15 14:00:00,Despejado,Caida,Leve,LATINA                        ,CARRETERA DEL BARRIO DE LA FORTUNA NUM                                                               8
+2018-06-16 07:00:00,Despejado,Colision,Leve,VICALVARO                     ,CALLE DE RIVAS NUM                                                                                   5
+2018-06-16 07:00:00,Despejado,Colision,Leve,VICALVARO                     ,CALLE DE RIVAS NUM                                                                                   5
+2018-06-16 22:00:00,Despejado,Imprudencia,Grave,PUENTE DE VALLECAS            ,CALLE DE LOS LEONESES NUM                                                                            6
+2018-06-17 09:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,CALLE DE ARROYOFRESNO NUM                                                                            25
+2018-06-17 09:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,CALLE DE ARROYOFRESNO NUM                                                                            25
+2018-06-17 13:00:00,Despejado,Caida,Leve,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA NUM                                                                57
+2018-06-18 13:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE LA RIBERA DE CURTIDORES NUM                                                                 27
+2018-06-18 18:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,PASEO DE LAS ACACIAS NUM                                                                             50
+2018-06-18 18:00:00,Despejado,Imprudencia,Leve,FUENCARRAL-EL PARDO           ,CALLE DE SINESIO DELGADO NUM                                                                         32
+2018-06-18 19:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE LA RIBERA DE CURTIDORES NUM                                                                 25
+2018-06-18 19:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE VITRUVIO - PASEO DE LA CASTELLANA
+2018-06-18 20:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,PUENTE DE SAN ISIDRO
+2018-06-18 20:00:00,Despejado,Caida,Leve,RETIRO                        ,PASEO DE URUGUAY - PASEO DEL FERNAN NUÑEZ
+2018-06-19 12:00:00,Despejado,Imprudencia,Moderada,TETUAN                        ,CALLE DE OFELIA NIETO NUM                                                                            64
+2018-06-19 14:00:00,Despejado,Imprudencia,Moderada,SALAMANCA                     ,CALLE DE ALCALA NUM                                                                                  217
+2018-06-19 17:00:00,Despejado,Colision,Leve,TETUAN                        ,PLAZA DE CASTILLA NUM                                                                                1
+2018-06-19 18:00:00,Despejado,Colision,Leve,VILLAVERDE                    ,CALLE DE EL BERRUECO - CALLE DE LA ACEBEDA
+2018-06-19 19:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE  GRAN VIA - CALLE DE SAN BERNARDO
+2018-06-19 19:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE  GRAN VIA - CALLE DE SAN BERNARDO
+2018-06-19 21:00:00,Despejado,Colision,Grave,MONCLOA-ARAVACA               ,CAMINO DE VALDEZA - CARRETERA DE LA CIUDAD UNIVERSITARIA
+2018-06-19 21:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CAMINO DE VALDEZA - CARRETERA DE LA CIUDAD UNIVERSITARIA
+2018-06-20 11:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE BARBARA DE BRAGANZA - PASEO DE RECOLETOS
+2018-06-20 19:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE  MAYOR - CALLE DEL SIETE DE JULIO
+2018-06-20 20:00:00,Despejado,Imprudencia,Leve,CIUDAD LINEAL                 ,CALLE DE LA VIRGEN DEL PORTILLO NUM                                                                  35
+2018-06-21 15:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,CALLE DE LA BATALLA DEL SALADO - CALLE DEL GENERAL PALANCA
+2018-06-21 18:00:00,Despejado,Caida,Leve,BARAJAS                       ,PARQUE DE JUAN CARLOS I NUM                                                                          1
+2018-06-21 22:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE DE LA ALHAMBRA - PLAZA DE ACHICORIA
+2018-06-23 11:00:00,Despejado,Imprudencia,Moderada,LATINA                        ,PASEO DEL MARQUES DE MONISTROL NUM                                                                   5
+2018-06-24 10:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE GENOVA - CALLE DEL MARQUES DE LA ENSENADA
+2018-06-25 10:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,CALLE DE DELICIAS NUM                                                                                26
+2018-06-25 10:00:00,Despejado,Colision,Leve,SALAMANCA                     ,PASEO DE LA CASTELLANA NUM                                                                           66
+2018-06-25 14:00:00,Despejado,Imprudencia,Leve,BARAJAS                       ,CALLE DEL BATEL NUM                                                                                  8
+2018-06-25 15:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,CALLE DEL MARQUES DE URQUIJO NUM                                                                     2
+2018-06-26 04:00:00,Despejado,Caida,Grave,SAN BLAS                      ,CALLE DE ETRURIA NUM                                                                                 2
+2018-06-26 14:00:00,Despejado,Colision,Moderada,ARGANZUELA                    ,CALLE DEL MAESTRO ARBOS - PLAZA DE LEGAZPI
+2018-06-29 09:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,AVENIDA DE ALFONSO XIII NUM                                                                          38
+2018-06-29 09:00:00,Despejado,Caida,Leve,CHAMARTIN                     ,PASEO DE LA CASTELLANA - PLAZA DE CUZCO
+2018-06-29 10:00:00,Despejado,Colision,Grave,FUENCARRAL-EL PARDO           ,CALLE DEL MONASTERIO DE OSEIRA NUM                                                                   25
+2018-06-29 10:00:00,Despejado,Colision,Grave,FUENCARRAL-EL PARDO           ,CALLE DEL MONASTERIO DE OSEIRA NUM                                                                   25
+2018-06-29 13:00:00,Despejado,Colision,Leve,USERA                         ,AVENIDA DE SAN FERMIN - CALLE DE ANTEQUERA
+2018-06-29 17:00:00,Despejado,Caida,Grave,RETIRO                        ,PASEO DEL FERNAN NUÑEZ
+2018-06-29 19:00:00,Despejado,Imprudencia,Leve,SALAMANCA                     ,CALLE DE ALCALA NUM                                                                                  96
+2018-06-30 13:00:00,Lluvia,Caida,Leve,MONCLOA-ARAVACA               ,CALLE DE CADARSO - CALLE DE IRUN
+2018-06-30 18:00:00,Despejado,Caida,Leve,PUENTE DE VALLECAS            ,AVENIDA DE LA ALBUFERA NUM                                                                           136
+2018-06-30 20:00:00,Despejado,Colision,Grave,FUENCARRAL-EL PARDO           ,CALLE DEL MONASTERIO DE EL PAULAR NUM                                                                136
+2018-07-01 15:00:00,Despejado,Colision,Moderada,CENTRO                        ,CALLE DE ALBERTO AGUILERA - CALLE DE BALTASAR GRACIAN
+2018-07-01 15:00:00,Despejado,Caida,Leve,SAN BLAS                      ,CALLE DE AQUITANIA NUM                                                                               2
+2018-07-01 21:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              3650
+2018-07-02 19:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE JOSE ABASCAL NUM                                                                            40
+2018-07-02 19:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE DE VALMOJADO NUM                                                                               99
+2018-07-04 01:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE ATOCHA NUM                                                                                  62
+2018-07-04 11:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE DE ALLENDE
+2018-07-05 09:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE SANTA ENGRACIA NUM                                                                          115
+2018-07-05 18:00:00,Despejado,Colision,Leve,HORTALEZA                     ,CALLE DE SANTA SUSANA NUM                                                                            55
+2018-07-05 18:00:00,Despejado,Colision,Leve,HORTALEZA                     ,CALLE DE SANTA SUSANA NUM                                                                            55
+2018-07-05 19:00:00,Despejado,Imprudencia,Leve,ARGANZUELA                    ,PASEO DE LA ESPERANZA NUM                                                                            12
+2018-07-05 21:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,PASEO DE LAS DELICIAS - PLAZA DEL EMPERADOR CARLOS V
+2018-07-05 21:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE SAN BERNARDO NUM                                                                            98
+2018-07-06 08:00:00,Despejado,Caida,Grave,CIUDAD LINEAL                 ,CALLE DE ARTURO SORIA NUM                                                                            220
+2018-07-06 10:00:00,Despejado,Caida,Leve,PUENTE DE VALLECAS            ,AVENIDA DE MIGUEL HERNANDEZ NUM                                                                      96
+2018-07-06 19:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE JOSE ABASCAL NUM                                                                            50
+2018-07-07 00:00:00,Despejado,Imprudencia,Leve,CENTRO                        ,CALLE DE HORTALEZA NUM                                                                               26
+2018-07-07 00:00:00,Despejado,Imprudencia,Leve,SALAMANCA                     ,CALLE DE ALCALA - CALLE DE ROBERTO DOMINGO
+2018-07-07 20:00:00,Despejado,Colision,Leve,RETIRO                        ,CALLE DE ALFONSO XII NUM                                                                             30
+2018-07-08 10:00:00,Despejado,Imprudencia,Moderada,CENTRO                        ,CALLE DE LAS HUERTAS NUM                                                                             13
+2018-07-08 18:00:00,Despejado,Caida,Grave,CARABANCHEL                   ,AVENIDA DEL MANZANARES NUM                                                                           58
+2018-07-10 07:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,CALLE DE MELILLA - PASEO DE LAS ACACIAS
+2018-07-10 15:00:00,Despejado,Caida,Moderada,MONCLOA-ARAVACA               ,PASEO DE LA VENTA NUM                                                                                1
+2018-07-10 19:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE FUENCARRAL NUM                                                                              123
+2018-07-11 00:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE PONCE DE LEON - CALLE DE SANTA ENGRACIA
+2018-07-11 13:00:00,Despejado,Imprudencia,Moderada,BARAJAS                       ,AVENIDA DEL CONSEJO DE EUROPA NUM                                                                    2
+2018-07-12 15:00:00,Despejado,Colision,Leve,MORATALAZ                     ,AVENIDA DEL DOCTOR GARCIA TAPIA NUM                                                                  216
+2018-07-12 18:00:00,Despejado,Colision,Leve,VICALVARO                     ,BULEVAR DE INDALECIO PRIETO NUM                                                                      23
+2018-07-12 21:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE ELOY GONZALO - CALLE DEL GENERAL ALVAREZ DE CASTRO
+2018-07-13 00:00:00,Despejado,Colision,Moderada,RETIRO                        ,PASEO DEL PRADO - PLAZA DE LA LEALTAD
+2018-07-13 11:00:00,Despejado,Caida,Leve,HORTALEZA                     ,AVENIDA DE FRANCISCO JAVIER SÁENZ DE OIZA NUM                                                        15
+2018-07-13 19:00:00,Despejado,Caida,Grave,LATINA                        ,CALLE DE LOS YEBENES NUM                                                                             30
+2018-07-14 05:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE LAS FUENTES - CALLE DEL ARENAL
+2018-07-14 14:00:00,Despejado,Colision,Leve,CARABANCHEL                   ,AVENIDA DE LA PRINCESA JUANA DE AUSTRIA - AVENIDA DE LOS POBLADOS
+2018-07-14 16:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,CALLE DEL PUERTO ALTO NUM                                                                            27
+2018-07-16 13:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE ZURBANO - PLAZA DE SAN JUAN DE LA CRUZ
+2018-07-16 17:00:00,Despejado,Imprudencia,Moderada,MORATALAZ                     ,CALLE DEL ARROYO FONTARRON NUM                                                                       79
+2018-07-17 21:00:00,Despejado,Caida,Moderada,CENTRO                        ,PASEO DEL PRADO NUM                                                                                  34
+2018-07-18 13:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CALLE DE ARRIAZA - CUESTA DE SAN VICENTE
+2018-07-19 10:00:00,Despejado,Colision,Leve,RETIRO                        ,CALLE DE FERNAN GONZALEZ NUM                                                                         39
+2018-07-19 15:00:00,Despejado,Caida,Grave,CHAMARTIN                     ,PASEO DE LA CASTELLANA NUM                                                                           244
+2018-07-19 16:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE ATOCHA NUM                                                                                  119
+2018-07-19 17:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE ALCALA - PLAZA DE LA INDEPENDENCIA
+2018-07-19 19:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE TOLEDO NUM                                                                                  25
+2018-07-19 19:00:00,Despejado,Caida,Leve,TETUAN                        ,CALLE DEL MARQUES DE VIANA NUM                                                                       38
+2018-07-19 21:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,PASEO DE LA FLORIDA NUM                                                                              59
+2018-07-20 10:00:00,Despejado,Imprudencia,Leve,LATINA                        ,PARQUE DE LAS CRUCES
+2018-07-20 15:00:00,Despejado,Colision,Leve,MORATALAZ                     ,CALLE DE LA HACIENDA DE PAVONES - CALLE DEL ARROYO FONTARRON
+2018-07-21 13:00:00,Despejado,Caida,Grave,BARAJAS                       ,PARQUE DE JUAN CARLOS I NUM                                                                          1
+2018-07-22 15:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,CALLE DEL PARROCO EUSEBIO CUENCA NUM                                                                 58
+2018-07-23 09:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,AVENIDA DEL MANZANARES NUM                                                                           156
+2018-07-23 13:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE LA PALMA - CALLE DE SAN ANDRES
+2018-07-23 20:00:00,Despejado,Colision,Leve,LATINA                        ,CALLE DE LA HUERTA DE CASTAÑEDA - PASEO DE LOS OLIVOS
+2018-07-24 11:00:00,Despejado,Imprudencia,Moderada,SAN BLAS                      ,PASEO DE GINEBRA NUM                                                                                 13
+2018-07-24 16:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE ALCALA NUM                                                                                  44
+2018-07-24 16:00:00,Despejado,Imprudencia,Moderada,SALAMANCA                     ,CALLE DE FRANCISCO SILVELA - PLAZA DE MANUEL BECERRA
+2018-07-25 15:00:00,Despejado,Colision,Moderada,CENTRO                        ,CALLE DE CARRETAS - PLAZA DE LA PUERTA DEL SOL
+2018-07-25 18:00:00,Despejado,Colision,Leve,RETIRO                        ,PASEO DEL PRADO NUM                                                                                  13
+2018-07-27 12:00:00,Despejado,Caida,Leve,RETIRO                        ,PARQUE DEL RETIRO
+2018-07-27 19:00:00,Despejado,Caida,Moderada,CHAMARTIN                     ,CALLE DEL PRINCIPE DE VERGARA - PLAZA DE CATALUÑA
+2018-07-28 12:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CAMINO DE VALDEZA - PLAZA DE LAS MORERAS
+2018-07-28 12:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CAMINO DE VALDEZA - PLAZA DE LAS MORERAS
+2018-07-28 21:00:00,Despejado,Colision,Grave,CENTRO                        ,PLAZA DEL EMPERADOR CARLOS V - RONDA DE ATOCHA
+2018-07-28 21:00:00,Despejado,Caida,Grave,HORTALEZA                     ,CALLE DE PRINCESA DE EBOLI NUM                                                                       7
+2018-07-29 11:00:00,Despejado,Colision,Grave,MONCLOA-ARAVACA               ,CAMINO DEL RUISEÑOR - PASEO DE LOS CASTAÑOS
+2018-07-29 11:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CAMINO DEL RUISEÑOR - PASEO DE LOS CASTAÑOS
+2018-07-30 00:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE ZURBARAN - PASEO DE LA CASTELLANA
+2018-07-30 08:00:00,Despejado,Colision,Leve,RETIRO                        ,PASEO DEL PRADO NUM                                                                                  13
+2018-07-30 18:00:00,Despejado,Caida,Moderada,CIUDAD LINEAL                 ,CALLE DE FRANCISCO RIOJA - CALLE DE GREGORIO DONAS
+2018-07-30 18:00:00,Despejado,Caida,Leve,CIUDAD LINEAL                 ,CALLE DE FRANCISCO RIOJA - CALLE DE GREGORIO DONAS
+2018-07-30 18:00:00,Despejado,Caida,Leve,HORTALEZA                     ,AVENIDA DE LOS ANDES - CALLE DE BOJ
+2018-08-01 07:00:00,Despejado,Colision,Leve,VICALVARO                     ,CALLE DE BOYER NUM                                                                                   32
+2018-08-01 18:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE BAILEN - PLAZA DE ARMERIA
+2018-08-01 19:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,AVENIDA DE LA PESETA - CALLE DEL PINAR DE SAN JOSE
+2018-08-02 18:00:00,Despejado,Caida,Leve,SAN BLAS                      ,AVENIDA DE LUIS ARAGONÉS - CALLE DE SAN HILARIO
+2018-08-02 19:00:00,Despejado,Colision,Leve,HORTALEZA                     ,AUTOVIA  M-40 - CALLE DEL ACONCAGUA
+2018-08-03 02:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE SOR ANGELA DE LA CRUZ - PLAZA DE CUZCO
+2018-08-03 10:00:00,Despejado,Imprudencia,Leve,USERA                         ,AVENIDA DE CORDOBA NUM                                                                               2
+2018-08-03 11:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,CALLE DE PUENTE LA REINA - CALLE DEL CASTILLO DE CANDANCHU
+2018-08-03 12:00:00,Despejado,Colision,Leve,CARABANCHEL                   ,AVENIDA DE OPORTO NUM                                                                                4
+2018-08-03 21:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,GLORIETA DE SANTA MARIA DE LA CABEZA NUM                                                             10
+2018-08-03 21:00:00,Despejado,Caida,Moderada,LATINA                        ,AVENIDA DE LOS CAPRICHOS - CALLE DE SEPULVEDA
+2018-08-03 21:00:00,Despejado,Caida,Leve,LATINA                        ,AVENIDA DE LOS CAPRICHOS - CALLE DE SEPULVEDA
+2018-08-04 10:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CARRIL  ANILLO VERDE CICLISTA KM.                                                                    53200
+2018-08-04 10:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE DE LOS YEBENES NUM
+2018-08-05 09:00:00,Despejado,Caida,Leve,VICALVARO                     ,CALLE DEL TREN DE ARGANDA NUM                                                                        12
+2018-08-05 11:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,CALLE DE MELILLA NUM                                                                                 6
+2018-08-05 12:00:00,Despejado,Caida,Leve,RETIRO                        ,CALLE DEL ALCALDE SAINZ DE BARANDA - CALLE DEL DOCTOR ESQUERDO
+2018-08-06 18:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE ATOCHA NUM                                                                                  117
+2018-08-07 01:00:00,Despejado,Caida,Leve,CENTRO                        ,PLAZA DEL CALLAO NUM                                                                                 1
+2018-08-07 12:00:00,Despejado,Caida,Leve,TETUAN                        ,CALLE DEL MIOSOTIS NUM                                                                               80
+2018-08-07 19:00:00,Despejado,Colision,Leve,VILLAVERDE                    ,CALLE  VIEJA DE PINTO - CALLE DE PALOMARES
+2018-08-08 00:00:00,Despejado,Colision,Leve,SAN BLAS                      ,CALLE DE SUECIA NUM                                                                                  35
+2018-08-08 01:00:00,Despejado,Caida,Leve,RETIRO                        ,PASEO DEL PRADO NUM                                                                                  11
+2018-08-08 12:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE LOS ESTUDIOS NUM                                                                            7
+2018-08-08 21:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE CEDACEROS - CARRERA DE SAN JERONIMO
+2018-08-09 02:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,CALLE DE FRANCISCO Y JACINTO ALCANTARA - PASEO DEL REY
+2018-08-09 13:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE ALCALA NUM                                                                                  237
+2018-08-09 21:00:00,Despejado,Caida,Leve,TETUAN                        ,AVENIDA DE ASTURIAS NUM                                                                              71
+2018-08-10 16:00:00,Despejado,Imprudencia,Moderada,CARABANCHEL                   ,CALLE DEL VALLE DE ORO NUM                                                                           27
+2018-08-11 00:00:00,Despejado,Colision,Grave,ARGANZUELA                    ,PLAZA DEL EMPERADOR CARLOS V NUM                                                                     3
+2018-08-13 06:00:00,Despejado,Colision,Leve,CARABANCHEL                   ,CALLE DE SAN PATRICIO - CALLE DEL GENERAL RICARDOS
+2018-08-13 08:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,CALLE DE EMBAJADORES NUM                                                                             320
+2018-08-13 19:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE ARTURO SORIA NUM                                                                            277
+2018-08-18 04:00:00,Despejado,Colision,Leve,CENTRO                        ,PASEO DEL PRADO - PLAZA DE CANOVAS DEL CASTILLO
+2018-08-18 17:00:00,Despejado,Imprudencia,Leve,RETIRO                        ,PARQUE DEL RETIRO
+2018-08-19 13:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CARRETERA DE COLMENAR NUM                                                                            16
+2018-08-20 20:00:00,Despejado,Caida,Leve,CHAMARTIN                     ,PASEO DE LA HABANA NUM                                                                               103
+2018-08-20 22:00:00,Despejado,Caida,Leve,PUENTE DE VALLECAS            ,AVENIDA DE ENTREVIAS - CALLE DEL PADRE LLANOS
+2018-08-21 20:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,CALLE DE EMBAJADORES NUM                                                                             472
+2018-08-21 21:00:00,Despejado,Colision,Leve,CARABANCHEL                   ,AVENIDA DE LA PRINCESA JUANA DE AUSTRIA - AVENIDA DE LOS POBLADOS
+2018-08-21 21:00:00,Despejado,Caida,Leve,SAN BLAS                      ,CALLE DE LA ILIADA - CALLE DE PITAGORAS
+2018-08-23 08:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,CALLE DE FRANCISCO TARREGA - CALLE DE ISABEL COLBRAND
+2018-08-23 14:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE SERRANO NUM                                                                                 106
+2018-08-23 19:00:00,Despejado,Imprudencia,Moderada,CENTRO                        ,CALLE  MAYOR NUM                                                                                     1
+2018-08-24 11:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE  MAYOR NUM                                                                                     2
+2018-08-25 09:00:00,Despejado,Caida,Leve,CIUDAD LINEAL                 ,CALLE DE ARTURO SORIA NUM                                                                            324
+2018-08-25 13:00:00,Despejado,Caida,Leve,VILLAVERDE                    ,CARRETERA DE VILLAVERDE A VALLECAS NUM                                                               3
+2018-08-25 18:00:00,Despejado,Colision,Grave,MONCLOA-ARAVACA               ,CALLE DE LA PRINCESA NUM                                                                             17
+2018-08-26 13:00:00,Despejado,Caida,Leve,VILLAVERDE                    ,CALLE  GRAN VIA DE VILLAVERDE NUM
+2018-08-26 22:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,PASEO DE SANTA MARIA DE LA CABEZA NUM                                                                23
+2018-08-27 13:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE ATOCHA NUM                                                                                  42
+2018-08-27 21:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE LUCHANA NUM                                                                                 13
+2018-08-28 00:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE FERNANDEZ DE LA HOZ - CALLE DE JOSE ABASCAL
+2018-08-28 13:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,PASEO DE LOS CASTAÑOS
+2018-08-28 15:00:00,Despejado,Caida,Leve,HORTALEZA                     ,CALLE DE MONTEARAGON NUM                                                                             7
+2018-08-28 21:00:00,Despejado,Caida,Leve,HORTALEZA                     ,AVENIDA DE SECUNDINO ZUAZO - CALLE DE CESAR CORT BOTI
+2018-08-29 21:00:00,Despejado,Colision,Leve,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA NUM                                                                154
+2018-08-30 14:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,CALLE DE LAS CANARIAS - PLAZA DE LUCA DE TENA
+2018-08-30 18:00:00,Despejado,Colision,Leve,SAN BLAS                      ,AVENIDA DE GUADALAJARA - CALLE DE BULGARIA
+2018-08-31 16:00:00,Despejado,Colision,Leve,CHAMBERI                      ,PASEO DE LA CASTELLANA NUM                                                                           55
+2018-08-31 20:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE DIEGO DE LEON - CALLE DE VELAZQUEZ
+2018-09-01 09:00:00,Despejado,Caida,Leve,CENTRO                        ,PLAZA DE LA VILLA NUM                                                                                3
+2018-09-01 14:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE  GRAN VIA NUM                                                                                  78
+2018-09-01 18:00:00,Despejado,Imprudencia,Leve,CENTRO                        ,CALLE DE ALCALA NUM                                                                                  40
+2018-09-02 19:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,AVENIDA DEL CARDENAL HERRERA ORIA - CALLE DE NUESTRA SEÑORA DE VALVERDE
+2018-09-04 10:00:00,Despejado,Colision,Leve,SAN BLAS                      ,AVENIDA DE NIZA - PLAZA DE GRECIA
+2018-09-04 11:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,AVENIDA DE MONFORTE DE LEMOS - PASEO DE LA CASTELLANA
+2018-09-04 13:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE PALENCIA NUM                                                                                3
+2018-09-05 17:00:00,Despejado,Colision,Leve,VILLAVERDE                    ,AVENIDA DE LOS ROSALES NUM                                                                           200
+2018-09-05 18:00:00,Despejado,Caida,Leve,PUENTE DE VALLECAS            ,AVENIDA DE LA ALBUFERA - CALLE DE BUSTOS
+2018-09-05 19:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,CALLE DE CACERES - CALLE DE LA BATALLA DEL SALADO
+2018-09-05 21:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,PASEO  AZUL NUM                                                                                      2
+2018-09-05 21:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,PASEO  AZUL NUM                                                                                      2
+2018-09-06 03:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,AVENIDA DE LA PESETA NUM                                                                             50
+2018-09-06 21:00:00,Despejado,Caida,Leve,PUENTE DE VALLECAS            ,AVENIDA DE LA DEMOCRACIA NUM                                                                         1
+2018-09-07 09:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              5600
+2018-09-07 09:00:00,Despejado,Caida,Moderada,CARABANCHEL                   ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              5600
+2018-09-07 09:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              5600
+2018-09-07 21:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,CALLE DE MENDEZ ALVARO NUM                                                                           88
+2018-09-08 18:00:00,Despejado,Caida,Grave,RETIRO                        ,CALLE DE CLAUDIO MOYANO NUM                                                                          2
+2018-09-08 22:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE ALBURQUERQUE - CALLE DEL CARDENAL CISNEROS
+2018-09-09 13:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,CALLE DE EMBAJADORES NUM                                                                             472
+2018-09-10 09:00:00,Despejado,Imprudencia,Leve,ARGANZUELA                    ,PASEO DE SANTA MARIA DE LA CABEZA NUM                                                                76
+2018-09-11 15:00:00,Despejado,Caida,Leve,CHAMARTIN                     ,CALLE DE CARTAGENA - CALLE DE LOPEZ DE HOYOS
+2018-09-12 05:00:00,Despejado,Caida,Leve,CENTRO                        ,PLAZA DEL EMPERADOR CARLOS V NUM                                                                     8
+2018-09-12 09:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           299
+2018-09-12 16:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE JOSE ABASCAL NUM                                                                            50
+2018-09-12 20:00:00,Despejado,Caida,Leve,VICALVARO                     ,CALLE DE TORREJON DE LA CALZADA NUM                                                                  75
+2018-09-13 14:00:00,Despejado,Imprudencia,Leve,VILLAVERDE                    ,CALLE DEL DIAMANTE - CARRETERA DE VILLAVERDE A VALLECAS
+2018-09-14 16:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE ALCALA NUM                                                                                  75
+2018-09-14 19:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,CALLE DE LOPEZ DE HOYOS - CALLE DE FRANCISCO SILVELA
+2018-09-15 05:00:00,Despejado,Colision,Leve,MORATALAZ                     ,AVENIDA DEL DOCTOR GARCIA TAPIA - CALLE  ARROYO DE LA MEDIA LEGUA
+2018-09-15 12:00:00,Despejado,Colision,Leve,HORTALEZA                     ,AVENIDA DE FRANCISCO PI Y MARGALL - AVENIDA DE NICETO ALCALA ZAMORA
+2018-09-15 12:00:00,Despejado,Colision,Moderada,HORTALEZA                     ,AVENIDA DE FRANCISCO PI Y MARGALL - AVENIDA DE NICETO ALCALA ZAMORA
+2018-09-16 13:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,PLAZA DE LA REPUBLICA DE CHILE
+2018-09-16 15:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE DE CAMARENA NUM                                                                                167
+2018-09-16 20:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CUESTA DE SAN VICENTE NUM                                                                            36
+2018-09-16 20:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CUESTA DE SAN VICENTE NUM                                                                            36
+2018-09-17 09:00:00,Despejado,Colision,Leve,VILLAVERDE                    ,AVENIDA DE LOS ROSALES - CARRETERA DE VILLAVERDE A VALLECAS
+2018-09-17 12:00:00,Despejado,Caida,Leve,CIUDAD LINEAL                 ,CALLE DE ALCALA NUM                                                                                  414
+2018-09-18 08:00:00,Despejado,Caida,Leve,USERA                         ,AVENIDA DE LOS POBLADOS - CALLE DEL CAMINO VIEJO DE VILLAVERDE
+2018-09-18 15:00:00,Despejado,Imprudencia,Moderada,CHAMARTIN                     ,AVENIDA DE PIO XII - CALLE DE JEREZ
+2018-09-19 09:00:00,Despejado,Colision,Grave,CARABANCHEL                   ,GLORIETA DEL MARQUES DE VADILLO NUM                                                                  1
+2018-09-19 09:00:00,Despejado,Caida,Leve,LATINA                        ,AVENIDA DE PORTUGAL NUM                                                                              1
+2018-09-19 21:00:00,Despejado,Caida,Grave,CARABANCHEL                   ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              5600
+2018-09-20 10:00:00,Despejado,Caida,Leve,CENTRO                        ,CUESTA DE LA VEGA
+2018-09-20 10:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE RAIMUNDO FERNANDEZ VILLAVERDE NUM                                                           54
+2018-09-20 16:00:00,Despejado,Colision,Leve,HORTALEZA                     ,CALLE DE ALCORISA - CALLE DE SILVANO
+2018-09-21 16:00:00,Despejado,Imprudencia,Leve,LATINA                        ,AVENIDA DE PORTUGAL NUM                                                                              99
+2018-09-22 11:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CARRETERA DE SOMONTES AL PALACIO DE LA REAL QUINTA NUM                                               5
+2018-09-22 12:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE ALCALA NUM                                                                                  279
+2018-09-22 14:00:00,Despejado,Caida,Leve,CHAMARTIN                     ,AVENIDA DE CONCHA ESPINA NUM                                                                         6
+2018-09-22 14:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CALLE DE MARBELLA NUM                                                                                69
+2018-09-22 22:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CALLE DE TUTOR - CALLE DEL REY FRANCISCO
+2018-09-23 08:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE TOLEDO NUM                                                                                  28
+2018-09-23 09:00:00,Despejado,Caida,Leve,LATINA                        ,PARQUE DE LAS CRUCES
+2018-09-24 09:00:00,Despejado,Colision,Leve,CARABANCHEL                   ,AVENIDA DE OPORTO - CALLE DE PORTALEGRE
+2018-09-24 11:00:00,Despejado,Imprudencia,Moderada,VILLA DE VALLECAS             ,CALLE  REAL DE ARGANDA NUM                                                                           10
+2018-09-25 08:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,PLAZA DE FRANCISCO MORANO NUM                                                                        3
+2018-09-25 14:00:00,Despejado,Colision,Leve,VILLA DE VALLECAS             ,CALLE DE PUENTELARRA NUM                                                                             7
+2018-09-25 15:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE LA PUEBLA - CALLE DEL BARCO
+2018-09-25 16:00:00,Despejado,Caida,Leve,RETIRO                        ,CALLE DE O'DONNELL NUM                                                                               50
+2018-09-25 23:00:00,Despejado,Caida,Leve,CHAMARTIN                     ,CALLE DE VITRUVIO - PASEO DE LA CASTELLANA
+2018-09-26 17:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE CARRANZA NUM                                                                                27
+2018-09-26 19:00:00,Lluvia,Caida,Leve,RETIRO                        ,CALLE DE ESPALTER - CALLE DE LOPE DE RUEDA
+2018-09-26 19:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE ALCALA NUM                                                                                  155
+2018-09-27 14:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,CALLE DE FELIX BOIX NUM                                                                              16
+2018-09-27 17:00:00,Despejado,Caida,Leve,PUENTE DE VALLECAS            ,AVENIDA DE LA ALBUFERA NUM                                                                           306
+2018-09-27 20:00:00,Despejado,Caida,Leve,VICALVARO                     ,AVENIDA DE BRASILIA - CALLE DE TORREJON DE LA CALZADA
+2018-09-28 08:00:00,Despejado,Imprudencia,Grave,MONCLOA-ARAVACA               ,CARRETERA DE RODAJOS
+2018-09-28 10:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE GOYA NUM                                                                                    18
+2018-09-28 13:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE FEDERICO GUTIERREZ - CALLE DE JOSE DEL HIERRO
+2018-09-28 15:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE LOPEZ DE HOYOS NUM                                                                          322
+2018-09-28 20:00:00,Despejado,Imprudencia,Moderada,VILLA DE VALLECAS             ,CALLE DE CABEZA MESADA NUM                                                                           5
+2018-09-28 22:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           180
+2018-09-29 12:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CARRETERA DE PARDO A FUENCARRAL KM.                                                                  7
+2018-09-29 15:00:00,Despejado,Colision,Leve,RETIRO                        ,CALLE DE ABTAO - CALLE DE CAVANILLES
+2018-09-29 19:00:00,Despejado,Imprudencia,Moderada,VILLAVERDE                    ,CALLE DE BENITA LOPEZ NUM                                                                            66
+2018-09-29 23:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE CARTAGENA - CALLE DE MARTINEZ IZQUIERDO
+2018-09-30 10:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE MALMOE - PLAZA DE ALSACIA
+2018-09-30 12:00:00,Despejado,Caida,Grave,MONCLOA-ARAVACA               ,CAMINO DEL PRINCIPE NUM                                                                              2
+2018-10-01 11:00:00,Despejado,Imprudencia,Moderada,CARABANCHEL                   ,GLORIETA DEL VALLE DE ORO NUM                                                                        2
+2018-10-01 22:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE ELOY GONZALO - CALLE DEL CASTILLO
+2018-10-02 15:00:00,Despejado,Colision,Leve,CENTRO                        ,GLORIETA DE SAN VICENTE - JARDIN DEL PALACIO REAL
+2018-10-02 19:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE  MAYOR NUM                                                                                     1
+2018-10-02 20:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE LA MAGDALENA - CALLE DE LAVAPIES
+2018-10-03 15:00:00,Despejado,Colision,Leve,SAN BLAS                      ,AVENIDA DE CANILLEJAS A VICALVARO - CALLE DEL CANAL DE BOSFORO
+2018-10-03 17:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE MIGUEL ANGEL - PASEO DEL GENERAL MARTINEZ CAMPOS
+2018-10-03 18:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,CALLE DE DOLORES SANCHEZ CARRASCOSA - CALLE DE MATEO INURRIA
+2018-10-04 19:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CARRETERA DEL TELEFERICO - PASEO DEL ROBLEDAL
+2018-10-04 21:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,GLORIETA DEL MARQUES DE VADILLO NUM                                                                  6
+2018-10-05 10:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,CARRETERA DE LA CIUDAD UNIVERSITARIA NUM
+2018-10-05 11:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           296
+2018-10-06 11:00:00,Despejado,Imprudencia,Leve,VICALVARO                     ,ACCESO  RADIAL 3 - AVENIDA DE DAROCA
+2018-10-06 19:00:00,Despejado,Imprudencia,Leve,MONCLOA-ARAVACA               ,CARRETERA DEL TELEFERICO - PASEO DEL ROBLEDAL
+2018-10-07 09:00:00,Despejado,Caida,Leve,MORATALAZ                     ,CALLE DE JOSE BERGAMIN NUM                                                                           30
+2018-10-07 13:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CALLE DE NUESTRA SEÑORA DE VALVERDE - CARRETERA DE FUENCARRAL A ALCOBENDAS
+2018-10-07 15:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DEL DOCTOR MATA NUM                                                                            2
+2018-10-07 21:00:00,Despejado,Caida,Leve,CENTRO                        ,GRAN VIA DE SAN FRANCISCO NUM                                                                        9
+2018-10-08 12:00:00,Despejado,Colision,Leve,VILLA DE VALLECAS             ,AVENIDA DE SANTA EUGENIA - CALLE DE LA VIRGEN DE LAS VIÑAS
+2018-10-08 20:00:00,Despejado,Colision,Leve,LATINA                        ,CALLE  VIA CARPETANA - CALLE DE GALLUR
+2018-10-09 16:00:00,Despejado,Caida,Leve,CENTRO                        ,PLAZA DE JACINTO BENAVENTE NUM                                                                       1
+2018-10-09 16:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,PLAZA DEL CARDENAL CISNEROS NUM                                                                      1
+2018-10-09 19:00:00,Lluvia,Caida,Leve,SALAMANCA                     ,CALLE DE AGUIRRE - CALLE DE O'DONNELL
+2018-10-09 22:00:00,Lluvia,Caida,Leve,SALAMANCA                     ,CALLE DE SERRANO NUM                                                                                 44
+2018-10-10 12:00:00,Lluvia,Colision,Grave,PUENTE DE VALLECAS            ,CALLE DEL TRANVIA DE ARGANDA NUM                                                                     1
+2018-10-10 13:00:00,Lluvia,Colision,Leve,CHAMBERI                      ,CALLE DE RIOS ROSAS NUM                                                                              40
+2018-10-10 21:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           109
+2018-10-10 22:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE GUTIERRE DE CETINA NUM                                                                      21
+2018-10-11 14:00:00,Despejado,Colision,Grave,RETIRO                        ,CALLE DE SANCHEZ BARCAIZTEGUI NUM                                                                    7
+2018-10-13 04:00:00,Despejado,Caida,Leve,ARGANZUELA                    ,CALLE DE CACERES - CALLE DE EMBAJADORES
+2018-10-13 11:00:00,Despejado,Colision,Leve,MONCLOA-ARAVACA               ,CAMINO DEL ZARZON KM.                                                                                10
+2018-10-13 21:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE LAGASCA NUM                                                                                 87
+2018-10-14 17:00:00,Despejado,Caida,Leve,SAN BLAS                      ,CALLE DE ESTOCOLMO - CALLE DE MARIA SEVILLA DIAGO
+2018-10-14 19:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CALLE DE COLLADO DE CERRO MALEJO - CALLE DE LA MASO
+2018-10-14 22:00:00,Despejado,Imprudencia,Leve,CHAMBERI                      ,CALLE DE ZURBANO NUM                                                                                 31
+2018-10-14 23:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE ATOCHA NUM                                                                                  96
+2018-10-15 14:00:00,Despejado,Imprudencia,Moderada,CIUDAD LINEAL                 ,AVENIDA DE DAROCA NUM                                                                                90
+2018-10-16 12:00:00,Despejado,Imprudencia,Moderada,ARGANZUELA                    ,CALLE DE BUSTAMANTE NUM                                                                              9
+2018-10-16 14:00:00,Lluvia,Caida,Leve,MONCLOA-ARAVACA               ,CALLE DE FERRAZ - CALLE DE IRUN
+2018-10-16 15:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,CALLE DE EMETERIO CASTAÑOS NUM                                                                       1
+2018-10-16 19:00:00,Despejado,Imprudencia,Moderada,TETUAN                        ,CALLE DE RAIMUNDO FERNANDEZ VILLAVERDE - CALLE DEL GENERAL MOSCARDO
+2018-10-16 20:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE MARIA DE MOLINA - CALLE DE VELAZQUEZ
+2018-10-17 20:00:00,Despejado,Imprudencia,Moderada,CENTRO                        ,CALLE  GRAN VIA - CALLE DE JACOMETREZO
+2018-10-17 20:00:00,Despejado,Imprudencia,Moderada,CENTRO                        ,CALLE DE LA COLEGIATA - CALLE DE TOLEDO
+2018-10-18 07:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,AVENIDA DE PABLO IGLESIAS - AVENIDA DEL DOCTOR FEDERICO RUBIO Y GALI
+2018-10-18 17:00:00,Despejado,Caida,Leve,CIUDAD LINEAL                 ,AVENIDA DE DONOSTIARRA NUM                                                                           23
+2018-10-19 15:00:00,Lluvia,Caida,Leve,TETUAN                        ,CALLE DE ORENSE NUM                                                                                  33
+2018-10-20 09:00:00,Lluvia,Caida,Leve,HORTALEZA                     ,AVENIDA DE LAS AZALEAS - AVENIDA DEL ARROYO DEL SANTO
+2018-10-20 11:00:00,Despejado,Imprudencia,Moderada,MONCLOA-ARAVACA               ,CALLE DE ANICETO MARINAS NUM                                                                         26
+2018-10-20 13:00:00,Despejado,Caida,Leve,MORATALAZ                     ,AVENIDA DEL DOCTOR GARCIA TAPIA NUM                                                                  126
+2018-10-20 20:00:00,Lluvia,Caida,Grave,SALAMANCA                     ,CALLE DE ALCALA - CALLE DE ALMERIA
+2018-10-20 23:00:00,Lluvia,Caida,Moderada,CHAMBERI                      ,PASEO DE EDUARDO DATO - PASEO DE LA CASTELLANA
+2018-10-22 16:00:00,Despejado,Imprudencia,Moderada,SALAMANCA                     ,CALLE DE ALCALA - PLAZA DE LA INDEPENDENCIA
+2018-10-22 19:00:00,Despejado,Colision,Moderada,TETUAN                        ,CALLE DE BRAVO MURILLO - CALLE DE JUAN PANTOJA
+2018-10-23 08:00:00,Despejado,Imprudencia,Moderada,CHAMBERI                      ,CALLE DE SANTA ENGRACIA NUM                                                                          59
+2018-10-23 16:00:00,Despejado,Colision,Grave,CENTRO                        ,RONDA DE ATOCHA NUM                                                                                  12
+2018-10-23 19:00:00,Despejado,Colision,Leve,VILLAVERDE                    ,AVENIDA  REAL DE PINTO - CALLE DE LA PLATA
+2018-10-24 00:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE ALCALA NUM                                                                                  3
+2018-10-25 09:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,CALLE DE LA HIEDRA NUM                                                                               24
+2018-10-25 09:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE ALONSO CANO - CALLE DE ESPRONCEDA
+2018-10-25 09:00:00,Despejado,Colision,Leve,CHAMBERI                      ,PASEO DE EDUARDO DATO NUM                                                                            23
+2018-10-25 19:00:00,Despejado,Caida,Leve,CIUDAD LINEAL                 ,CALLE DE EZEQUIEL SOLANA - CALLE DE SERVANDO BATANERO
+2018-10-25 23:00:00,Despejado,Colision,Grave,CHAMBERI                      ,CALLE DE BRAVO MURILLO NUM                                                                           67
+2018-10-26 15:00:00,Lluvia,Caida,Leve,CHAMBERI                      ,PLAZA DE ALONSO MARTINEZ NUM                                                                         3
+2018-10-27 00:00:00,Lluvia,Caida,Leve,ARGANZUELA                    ,PASEO DE SANTA MARIA DE LA CABEZA NUM                                                                27
+2018-10-27 23:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           187
+2018-10-28 10:00:00,Despejado,Caida,Leve,LATINA                        ,PASEO DE EXTREMADURA NUM                                                                             63
+2018-10-29 07:00:00,Lluvia,Caida,Grave,BARAJAS                       ,PARQUE DE JUAN CARLOS I NUM                                                                          1
+2018-10-31 11:00:00,Lluvia,Caida,Leve,CENTRO                        ,PASEO DEL PRADO NUM                                                                                  2
+2018-11-01 05:00:00,Despejado,Caida,Leve,CENTRO                        ,PASEO DE LA CIUDAD DE PLASENCIA - PASEO DE LA VIRGEN DEL PUERTO
+2018-11-01 10:00:00,Despejado,Colision,Leve,VILLA DE VALLECAS             ,AVENIDA DE LAS SUERTES NUM                                                                           13
+2018-11-02 11:00:00,Despejado,Caida,Leve,CENTRO                        ,GLORIETA DEL PUENTE DE SEGOVIA - PASEO DE LA VIRGEN DEL PUERTO
+2018-11-02 18:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,AVENIDA DEL DOCTOR FEDERICO RUBIO Y GALI NUM                                                         94
+2018-11-04 01:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE  GRAN VIA NUM                                                                                  37
+2018-11-04 10:00:00,Despejado,Caida,Leve,CARABANCHEL                   ,AVENIDA DE LOS POBLADOS - CALLE DE EUGENIA DE MONTIJO
+2018-11-04 10:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE SAN BERNARDO NUM                                                                            51
+2018-11-05 08:00:00,Lluvia,Imprudencia,Leve,MONCLOA-ARAVACA               ,CALLE DE ANDROMEDA - CALLE DE LA VIRGEN DE LOS ROSALES
+2018-11-06 09:00:00,Despejado,Colision,Leve,MORATALAZ                     ,AVENIDA DEL DOCTOR GARCIA TAPIA NUM                                                                  126
+2018-11-06 18:00:00,Lluvia,Colision,Leve,CENTRO                        ,CALLE  MAYOR NUM                                                                                     84
+2018-11-06 21:00:00,Despejado,Colision,Leve,FUENCARRAL-EL PARDO           ,CALLE DE LA COSTA BRAVA NUM                                                                          31
+2018-11-07 09:00:00,Lluvia,Colision,Leve,CHAMBERI                      ,CALLE DE SANTA ENGRACIA NUM                                                                          147
+2018-11-07 19:00:00,Lluvia,Colision,Grave,FUENCARRAL-EL PARDO           ,CALLE DEL DOCTOR RAMON CASTROVIEJO - CAMINO DE GANAPANES
+2018-11-07 22:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE LA COLEGIATA - CALLE DE TOLEDO
+2018-11-08 19:00:00,Lluvia,Colision,Leve,ARGANZUELA                    ,PASEO DE LAS DELICIAS NUM                                                                            41
+2018-11-08 21:00:00,Lluvia,Colision,Leve,USERA                         ,AVENIDA DEL MANZANARES NUM                                                                           212
+2018-11-09 00:00:00,Lluvia,Caida,Grave,CENTRO                        ,CALLE DEL OLIVAR NUM                                                                                 43
+2018-11-09 12:00:00,Despejado,Colision,Leve,RETIRO                        ,AVENIDA DE NAZARET - CALLE DEL DOCTOR ESQUERDO
+2018-11-10 13:00:00,Despejado,Imprudencia,Leve,MONCLOA-ARAVACA               ,CALLE DE LA RIBERA DEL MANZANARES - CALLE DE SANTA OLALLA
+2018-11-11 06:00:00,Lluvia,Caida,Leve,CENTRO                        ,CALLE DE MIGUEL SERVET NUM                                                                           3
+2018-11-12 14:00:00,Lluvia,Caida,Moderada,CENTRO                        ,PLAZA DE CANOVAS DEL CASTILLO NUM                                                                    3
+2018-11-12 15:00:00,Lluvia,Caida,Leve,HORTALEZA                     ,CALLE DE CHIQUINQUIRA - CALLE DEL NEVADO DEL CUMBAL
+2018-11-12 23:00:00,Despejado,Colision,Moderada,PUENTE DE VALLECAS            ,AVENIDA DE BUENOS AIRES - AVENIDA DE ENTREVIAS
+2018-11-12 23:00:00,Despejado,Colision,Leve,PUENTE DE VALLECAS            ,AVENIDA DE BUENOS AIRES - AVENIDA DE ENTREVIAS
+2018-11-13 12:00:00,Despejado,Caida,Leve,SALAMANCA                     ,CALLE DE SERRANO NUM                                                                                 38
+2018-11-13 12:00:00,Despejado,Caida,Moderada,SALAMANCA                     ,CALLE DE SERRANO NUM                                                                                 38
+2018-11-13 23:00:00,Despejado,Colision,Leve,CARABANCHEL                   ,CALLE DEL GENERAL RICARDOS NUM                                                                       5
+2018-11-15 14:00:00,Despejado,Caida,Leve,LATINA                        ,PASEO DE LA ERMITA DEL SANTO NUM                                                                     14
+2018-11-15 19:00:00,Lluvia,Caida,Leve,CENTRO                        ,PLAZA DE LA PROVINCIA NUM                                                                            1
+2018-11-15 19:00:00,Lluvia,Imprudencia,Leve,CHAMBERI                      ,CALLE DE SAN BERNARDO NUM                                                                            123
+2018-11-15 20:00:00,Lluvia,Caida,Leve,CENTRO                        ,CUESTA DE LA VEGA
+2018-11-17 11:00:00,Despejado,Caida,Leve,CHAMARTIN                     ,CALLE DE BALBINA VALVERDE NUM                                                                        10
+2018-11-17 13:00:00,Despejado,Colision,Grave,BARAJAS                       ,AVENIDA DE LOGROÑO - CALLE DE LA RAMBLA
+2018-11-17 16:00:00,Despejado,Colision,Moderada,CENTRO                        ,PLAZA DEL EMPERADOR CARLOS V NUM                                                                     9
+2018-11-18 10:00:00,Despejado,Colision,Leve,VILLA DE VALLECAS             ,CARRETERA DE VILLAVERDE A VALLECAS - POLIGONO LA ATALAYUELA
+2018-11-18 11:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CARRETERA DE COLMENAR NUM                                                                            2
+2018-11-19 17:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE TOLEDO NUM                                                                                  98
+2018-11-19 19:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE  GRAN VIA - CALLE DE ALCALA
+2018-11-20 09:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,AVENIDA DE DAROCA NUM                                                                                25
+2018-11-20 15:00:00,Lluvia,Caida,Leve,CENTRO                        ,CALLE DEL PRADO - CALLE DEL PRINCIPE
+2018-11-20 16:00:00,Lluvia,Imprudencia,Leve,CARABANCHEL                   ,CARRIL  ANILLO VERDE CICLISTA KM.                                                                    32700
+2018-11-20 21:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE JOSE ORTEGA Y GASSET - CALLE DE VELAZQUEZ
+2018-11-21 07:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE BRAVO MURILLO - CALLE DE ULPIANA BENITO
+2018-11-23 02:00:00,Lluvia,Caida,Leve,CENTRO                        ,CALLE DE FUCAR NUM                                                                                   23
+2018-11-23 14:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE SAGASTA NUM                                                                                 13
+2018-11-23 18:00:00,Despejado,Caida,Leve,USERA                         ,CALLE DE ANTONIO LOPEZ - CALLE DEL VADO
+2018-11-23 20:00:00,Despejado,Colision,Moderada,SALAMANCA                     ,CALLE DE FRANCISCO SILVELA NUM                                                                       36
+2018-11-24 11:00:00,Despejado,Colision,Leve,HORTALEZA                     ,AVENIDA DE LOS ANDES NUM                                                                             50
+2018-11-24 16:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE EMBAJADORES NUM                                                                             46
+2018-11-25 13:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CARRETERA DE PARDO A FUENCARRAL KM.                                                                  3500
+2018-11-26 09:00:00,Despejado,Colision,Leve,CARABANCHEL                   ,CALLE DE ANTONIO LOPEZ NUM                                                                           17
+2018-11-27 14:00:00,Despejado,Caida,Leve,VILLA DE VALLECAS             ,AVENIDA DEL ENSANCHE DE VALLECAS - CALLE DE VILLAR DEL POZO
+2018-11-27 19:00:00,Despejado,Caida,Leve,PUENTE DE VALLECAS            ,CALLE DE SIERRA ELVIRA - CALLE DE SIERRA TOLEDANA
+2018-11-27 21:00:00,Despejado,Colision,Leve,LATINA                        ,CALLE DE LAS HIGUERAS NUM                                                                            41
+2018-11-28 07:00:00,Despejado,Colision,Grave,CIUDAD LINEAL                 ,CALLE DE AGASTIA - CALLE DE LA CONDESA DE VENADITO
+2018-11-28 09:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE LA BASILICA - CALLE DEL GENERAL MOSCARDO
+2018-11-28 20:00:00,Despejado,Imprudencia,Moderada,LATINA                        ,CALLE DE MARIA DEL CARMEN NUM                                                                        46
+2018-11-29 14:00:00,Despejado,Caida,Grave,CARABANCHEL                   ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              4900
+2018-11-29 19:00:00,Despejado,Colision,Leve,ARGANZUELA                    ,GLORIETA DE EMBAJADORES NUM                                                                          7
+2018-11-29 19:00:00,Despejado,Colision,Leve,CIUDAD LINEAL                 ,AVENIDA DEL MARQUES DE CORBERA NUM                                                                   6
+2018-11-29 22:00:00,Lluvia,Colision,Grave,CARABANCHEL                   ,CALLE DE LA OCA NUM                                                                                  21
+2018-11-29 22:00:00,Lluvia,Colision,Leve,CHAMARTIN                     ,CALLE DE AGUSTIN DE FOXA NUM                                                                         40
+2018-12-02 19:00:00,Despejado,Colision,Leve,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA NUM                                                                1
+2018-12-03 07:00:00,Despejado,Imprudencia,Moderada,CENTRO                        ,CALLE DEL RELOJ NUM                                                                                  12
+2018-12-03 13:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,LUGAR DE LA CASA DE CAMPO
+2018-12-03 14:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE SANTA ENGRACIA NUM                                                                          125
+2018-12-03 15:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE GENOVA - PLAZA DE SANTA BARBARA
+2018-12-06 02:00:00,Despejado,Caida,Leve,CHAMARTIN                     ,CALLE DE JOAQUIN COSTA NUM                                                                           21
+2018-12-06 22:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE SAN BERNARDO NUM                                                                            72
+2018-12-07 20:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DEL ESPIRITU SANTO NUM                                                                         1
+2018-12-10 13:00:00,Despejado,Colision,Leve,SALAMANCA                     ,CALLE DE FRANCISCO SILVELA NUM                                                                       44
+2018-12-11 15:00:00,Despejado,Colision,Leve,CHAMBERI                      ,PASEO DE LA CASTELLANA NUM                                                                           13
+2018-12-12 15:00:00,Despejado,Imprudencia,Moderada,CARABANCHEL                   ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              3900
+2018-12-13 11:00:00,Lluvia,Caida,Leve,SALAMANCA                     ,CALLE DE FERNAN GONZALEZ - CALLE DE JORGE JUAN
+2018-12-14 22:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CALLE DE GINZO DE LIMIA - CALLE DE LA VILLA DE MARIN
+2018-12-16 09:00:00,Lluvia,Colision,Grave,USERA                         ,GLORIETA DE CADIZ - AUTOVIA  M-30 CALZADA 2
+2018-12-16 12:00:00,Lluvia,Caida,Leve,CHAMBERI                      ,PLAZA DE ALONSO MARTINEZ NUM                                                                         3
+2018-12-17 18:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE DE LOS YEBENES NUM                                                                             121
+2018-12-18 12:00:00,Despejado,Colision,Leve,VICALVARO                     ,CALLE DE RIVAS NUM                                                                                   82
+2018-12-18 22:00:00,Lluvia,Caida,Leve,CHAMARTIN                     ,AVENIDA DEL DOCTOR ARCE - PLAZA DE SANTA GEMA
+2018-12-19 08:00:00,Despejado,Caida,Leve,CENTRO                        ,PLAZA DE LA PUERTA DEL SOL NUM                                                                       1
+2018-12-19 17:00:00,Despejado,Caida,Leve,CENTRO                        ,CALLE DE LA RIBERA DE CURTIDORES NUM                                                                 3
+2018-12-20 09:00:00,Despejado,Colision,Leve,CHAMBERI                      ,CALLE DE MIGUEL ANGEL - PASEO DEL GENERAL MARTINEZ CAMPOS
+2018-12-20 21:00:00,Despejado,Imprudencia,Moderada,CIUDAD LINEAL                 ,AVENIDA DE DAROCA NUM                                                                                63
+2018-12-21 07:00:00,Lluvia,Caida,Leve,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           105
+2018-12-21 23:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE ALCALA - CALLE DEL MARQUES DE CASA RIERA
+2018-12-22 01:00:00,Despejado,Caida,Leve,MONCLOA-ARAVACA               ,CUESTA DE SAN VICENTE NUM                                                                            40
+2018-12-22 22:00:00,Despejado,Caida,Leve,LATINA                        ,CALLE DE LA GRANDEZA ESPAÑOLA NUM                                                                    39
+2018-12-24 09:00:00,Despejado,Caida,Grave,CENTRO                        ,CALLE DE TOLEDO - PLAZA  MAYOR
+2018-12-24 13:00:00,Despejado,Caida,Leve,MORATALAZ                     ,AVENIDA DE MORATALAZ NUM                                                                             44
+2018-12-25 12:00:00,Despejado,Caida,Leve,FUENCARRAL-EL PARDO           ,CALLE DE BRAOJOS NUM                                                                                 10
+2018-12-28 09:00:00,Despejado,Colision,Leve,CHAMARTIN                     ,PASEO DE LA CASTELLANA - PASEO DE LA HABANA
+2018-12-28 14:00:00,Despejado,Colision,Leve,CENTRO                        ,CALLE DE GENOVA NUM                                                                                  2
+2018-12-29 10:00:00,Despejado,Colision,Leve,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           105
+2018-12-29 19:00:00,Despejado,Caida,Leve,CHAMBERI                      ,CALLE DE SANTA ENGRACIA NUM                                                                          135

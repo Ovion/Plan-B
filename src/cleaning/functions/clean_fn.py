@@ -48,13 +48,15 @@ def create_weather_17_18(df):
     return df
 
 
-def refactor_meteo_17_18(values):
+def refactor_meteo(values):
     dict_meteo = {
-        r'Granizo': 'Granizo',
+        r'Granizo': 'Nieve',
+        r'Granizando': 'Nieve',
         r'Hielo': 'Nieve',
         r'Nieve': 'Nieve',
         r'Lluvia': 'Lluvia',
-        r'Niebla': 'Niebla', }
+        r'Niebla': 'Niebla',
+        r'Nublado': 'Niebla'}
     for k, v in dict_meteo.items():
         if re.match(k, values):
             return v
