@@ -21,6 +21,10 @@ bici = fnt.horario(bici)
 cal = fnt.clean_calendar(cal)
 
 bici = bici.merge(cal, how='left', on='dia')
+for i in range(0, bici.shape[0]-1):
+    if (bici.iat[i, bici.columns.get_loc('festividad')] == 'Laborable' and bici.iat[i+1, bici.columns.get_loc('festividad')] == 'Festivo'):
+        bici.iat[i, bici.columns.get_loc('festividad')] = 'Vispera'
+
 bici = fnt.prepare_to_google(bici)
 print('Done')
 print('Saving data in: input/clean_data/bici_woCoor.csv')
@@ -44,6 +48,10 @@ for i in range(len(bici)):
         lon = None
         print('At least I tried')
 print('Done')
+bici.dropna(inplace=True)
+bici['year'] = bici.dia.dt.year
+bici = bici[['fecha', 'dia', 'year', 'horario', 'festividad', 'tipo_accidente',
+             'lesividad', 'meteo', 'distrito', 'direccion', 'lon', 'lat']]
 
 print('Saving .csv in: input/clean_data/bici.csv')
 bici.to_csv('input/clean_data/bici.csv', index=False)
