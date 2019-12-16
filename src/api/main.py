@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, request
 from atlas_mongo.Mongo import ConectColl
 
 app = Flask(__name__)
