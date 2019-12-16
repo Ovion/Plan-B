@@ -3,6 +3,6 @@ import os
 
 dotenv.load_dotenv()
 
-KEY_ATLAS = os.getenv("KEY_ATLAS")
+ATLAS_KEY = os.getenv("KEY_ATLAS")
 USER_ATLAS = 'ovi'
-MONGO = "mongodb+srv://{}:{}@cluster0-ylnpw.mongodb.net/test"
+MONGO = "mongodb+srv://ovi:{}@cluster0-ylnpw.mongodb.net/test?retryWrites=true&w=majority"

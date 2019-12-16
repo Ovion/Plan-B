@@ -1,10 +1,15 @@
 from pymongo import MongoClient
-from ctes import MONGO, USER_ATLAS, KEY_ATLAS
+
+import dotenv
+import os
+
+dotenv.load_dotenv()
+ATLAS_KEY = os.getenv("KEY_ATLAS")
 
 
 class ConectColl:
     def __init__(self):
-        self.client = MongoClient(MONGO.format(USER_ATLAS, KEY_ATLAS))
+        self.client = MongoClient(ATLAS_KEY)
         self.db = self.client['Bycicle_Accidents']
         self.acc = self.db['History']
 

@@ -11,9 +11,9 @@ def hello():
 
 @app.route('/create', methods=['POST'])
 def create():
-    year = request.args['year']
-    lat = request.args['lat']
-    lon = request.args['lon']
+    year = int(request.form.get('year'))
+    lat = request.form.get('lat')
+    lon = request.form.get('lon')
     coll.create(year, lat, lon)
     return 'Doc Inserted'
 
