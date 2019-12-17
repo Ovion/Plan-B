@@ -36,7 +36,7 @@ def print_heat_map(coll):
     return heat_map
 
 
-def print_heat_map_q(coll, interh):
+def print_heat_map_h(coll, interh):
     bicis = coll.acc.find({"horario": interh})
     accidents = create_df_coords(bicis)
     heat_map = create_map(accidents)
