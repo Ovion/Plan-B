@@ -1,7 +1,9 @@
-from flask import Flask, request
+from flask import Flask, request, render_template
 import pymongo
 from atlas_mongo.Mongo import ConectColl
+
 import atlas_mongo.folium_maps as fmaps
+import atlas_mongo.google_api as gga
 
 app = Flask(__name__)
 
@@ -45,6 +47,21 @@ def historical_hour(interh):
 @app.route('/historical/lesividad/<injury>')
 def historical_injury(injury):
     folium_map = fmaps.print_heat_map_i(coll, injury)
+    return folium_map._repr_html_()
+
+
+@app.route('/historical/direction', methods=['GET'])
+def insert_dir():
+    return render_template('direction.html')
+
+
+@app.route('/historical/direction', methods=['POST'])
+def get_coord_dir():
+    pto_a = request.form.get('pto_a')
+    pto_b = request.form.get('pto_b')
+    lat_a, lon_a = gga.get_coord_dir(pto_a)
+    lat_b, lon_b = gga.get_coord_dir(pto_b)
+    folium_map = fmaps.print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
     return folium_map._repr_html_()
 
 
