@@ -1,6 +1,7 @@
 from flask import Flask, request
 import pymongo
 from atlas_mongo.Mongo import ConectColl
+import atlas_mongo.folium_maps as fmaps
 
 app = Flask(__name__)
 
@@ -27,6 +28,18 @@ def create():
                 lesividad, meteo, distrito, direccion, lon, lat)
     coll.acc.create_index([('localizacion', pymongo.GEOSPHERE)])
     return 'Doc Inserted'
+
+
+@app.route('/historical')
+def historical():
+    folium_map = fmaps.print_heat_map(coll)
+    return folium_map._repr_html_()
+
+
+@app.route('/historical/<interh>')
+def historical_hour(interh):
+    folium_map = fmaps.print_heat_map_h(coll, interh)
+    return folium_map._repr_html_()
 
 
 if __name__ == '__main__':
