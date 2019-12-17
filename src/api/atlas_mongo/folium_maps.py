@@ -20,7 +20,7 @@ def create_df_coords(datas):
 def create_map(df):
     # Create a base map
     heat_m = folium.Map(location=[40.416, -3.694],
-                        tiles='cartodbpositron', zoom_start=16)
+                        tiles='cartodbpositron', zoom_start=15)
 
     # Add a heatmap to the base map
     HeatMap(data=df[['Lat', 'Lon']], radius=15).add_to(heat_m)
@@ -41,4 +41,12 @@ def print_heat_map_h(coll, interh):
     accidents = create_df_coords(bicis)
     heat_map = create_map(accidents)
     heat_map.save(f'output/heat_map_{interh}.html')
+    return heat_map
+
+
+def print_heat_map_i(coll, injury):
+    bicis = coll.acc.find({"lesividad": injury})
+    accidents = create_df_coords(bicis)
+    heat_map = create_map(accidents)
+    heat_map.save(f'output/heat_map_{injury}.html')
     return heat_map

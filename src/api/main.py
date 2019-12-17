@@ -36,9 +36,15 @@ def historical():
     return folium_map._repr_html_()
 
 
-@app.route('/historical/<interh>')
+@app.route('/historical/horario/<interh>')
 def historical_hour(interh):
     folium_map = fmaps.print_heat_map_h(coll, interh)
+    return folium_map._repr_html_()
+
+
+@app.route('/historical/lesividad/<injury>')
+def historical_injury(injury):
+    folium_map = fmaps.print_heat_map_i(coll, injury)
     return folium_map._repr_html_()
 
 
