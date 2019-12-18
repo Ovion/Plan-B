@@ -66,7 +66,7 @@ def create_map_dir(coll, lat_a, lon_a, lat_b, lon_b):
     manana_group.add_to(heat_m)
     tarde_group.add_to(heat_m)
     noche_group.add_to(heat_m)
-    folium.LayerControl(collapsed=True).add_to(heat_m)
+    folium.LayerControl(collapsed=False).add_to(heat_m)
 
     return heat_m
 

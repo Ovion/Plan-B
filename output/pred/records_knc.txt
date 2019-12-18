@@ -1,0 +1,16 @@
+Model: KNC kd_tree	 Acierto: 77.01599999999999%
+
+Model: KNC brute	 Acierto: 77.83600000000001%
+
+Model: KNC ball_tree	 Acierto: 77.44800000000001%
+
+Model: KNC auto	 Acierto: 77.56299999999999%
+
+---- Brute for the win ------
+
+Model: KNC brute uniform	 Acierto: 77.60900000000001%
+
+Model: KNC brute distance	 Acierto: 73.37100000000001%
+
+---- uniform for the win -----
+

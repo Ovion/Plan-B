@@ -20,6 +20,8 @@ def num_fest(value):
 
 
 def prepare_df(data):
+    data.drop(['fecha', 'dia', 'year', 'tipo_accidente',
+               'distrito', 'direccion'], axis=1, inplace=True)
     data.horario = data.horario.apply(lambda x: num_horario(x))
     data.festividad = data.festividad.apply(lambda x: num_fest(x))
     data = pd.get_dummies(data, columns=['meteo'])

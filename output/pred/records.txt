@@ -227,3 +227,11 @@ Model: KNC	 Acierto: 75.63%	 Params: <bound method BaseEstimator.get_params of K
 -------
 Mejor como antes
 
+Model: KNC	 Acierto: 79.95%	 Params: <bound method BaseEstimator.get_params of KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='uniform')> 
+
+Model: KNC	 Acierto: [80.87, 75.85, 76.31, 79.04, 79.04]%
+
+Model: KNC	 Acierto: [80.64, 76.31, 78.13, 77.68, 76.99]%
+
