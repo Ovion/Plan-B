@@ -19,7 +19,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-01-12 22:00:00,2019-01-12 00:00:00,2019,Noche,Laborable,Colision,Leve,Despejado,CARABANCHEL,CALLE GENERAL RICARDOS / GTA. VALLE DE ORO Madrid,-3.7315047999999997,40.3886749
 2019-01-12 22:00:00,2019-01-12 00:00:00,2019,Noche,Laborable,Imprudencia,Moderada,Despejado,CARABANCHEL,AVDA. POBLADOS / CALLE SECOYA Madrid,-3.7421708,40.372738899999995
 2019-01-12 13:00:00,2019-01-12 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,VILLA DE VALLECAS,AVDA. ENSANCHE DE VALLECAS 44 Madrid,-3.6084862999999996,40.3677001
-2019-01-12 13:00:00,2019-01-12 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,LATINA,CALLE SANCHIDRIAN 13A Madrid,-3.7755668,40.395545500000004
 2019-01-14 23:00:00,2019-01-14 00:00:00,2019,Noche,Laborable,Colision,Leve,Despejado,CHAMBERÍ,CALLE MIGUEL ANGEL / PASEO. GENERAL MARTINEZ CAMPOS Madrid,-3.6912593,40.43516339999999
 2019-01-14 20:00:00,2019-01-14 00:00:00,2019,Tarde,Laborable,Caida,Moderada,Despejado,FUENCARRAL-EL PARDO,PASEO. EL PARDO 37 Madrid,-3.6932108,40.41204339999999
 2019-01-14 16:00:00,2019-01-14 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,CIUDAD LINEAL,CALLE SANTA GENOVEVA / PLAZA. AGUSTIN GONZALEZ Madrid,-3.648667799999999,40.4244558
@@ -131,7 +130,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-03-12 10:00:00,2019-03-12 00:00:00,2019,Mañana,Laborable,Caida,Leve,Despejado,PUENTE DE VALLECAS,CALLE REGUERA DE TOMATEROS 39 Madrid,-3.6571596,40.37191729999999
 2019-03-12 09:00:00,2019-03-12 00:00:00,2019,Mañana,Laborable,Colision,Moderada,Despejado,CHAMARTÍN,CALLE JORGE MANRIQUE - CALLE SERRANO Madrid,-3.6858577000000006,40.4427903
 2019-03-13 19:00:00,2019-03-13 00:00:00,2019,Tarde,Laborable,Otro,Leve,Despejado,USERA,CALLE DOLORES BARRANCO / CALLE NICOLAS SANCHEZ Madrid,-3.705887,40.3832818
-2019-03-14 12:00:00,2019-03-14 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA,AVDA. VICTORIA 11 Madrid,-3.8106402000000004,40.4663429
 2019-03-15 22:00:00,2019-03-15 00:00:00,2019,Noche,Laborable,Colision,Moderada,Despejado,TETUÁN,CALLE BRAVO MURILLO 305 Madrid,-3.697591099999999,40.462476
 2019-03-15 20:00:00,2019-03-15 00:00:00,2019,Tarde,Laborable,Caida,Moderada,Despejado,RETIRO,AVDA. CIUDAD DE BARCELONA / CALLE SECO Madrid,-3.6715486000000004,40.3995373
 2019-03-16 19:00:00,2019-03-16 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,RETIRO,CALLE O'DONNELL 52 Madrid,-3.6702534,40.42107379999999
@@ -219,7 +217,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-04-22 19:00:00,2019-04-22 00:00:00,2019,Tarde,Laborable,Caida,Leve,Despejado,HORTALEZA,AVDA. LAS FUERZAS ARMADAS 118 Madrid,-3.632117999999999,40.48577299999999
 2019-04-23 17:00:00,2019-04-23 00:00:00,2019,Tarde,Laborable,Caida,Leve,Despejado,CENTRO,CUSTA. SANTO DOMINGO / CALLE FOMENTO Madrid,-3.709297099999999,40.4199055
 2019-04-24 16:00:00,2019-04-24 00:00:00,2019,Tarde,Laborable,Otro,Leve,Despejado,MORATALAZ,CALLE ARROYO BELINCOSO 24 Madrid,-3.6523644,40.40933270000001
-2019-04-24 10:00:00,2019-04-24 00:00:00,2019,Mañana,Laborable,Colision,Moderada,Lluvia,MONCLOA-ARAVACA,CALLE GOBELAS / CALLE GUECHO Madrid,-3.829775,40.475022100000004
 2019-04-27 20:00:00,2019-04-27 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,CENTRO,MADRID Madrid,-3.7037902000000003,40.4167754
 2019-04-27 14:00:00,2019-04-27 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,VILLAVERDE,AVDA. RAFAELA YBARRA 137 Madrid,-3.7149501000000003,40.360023
 2019-04-27 13:00:00,2019-04-27 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,VICÁLVARO,AVDA. COMUNIDADES / AVDA. DEMOCRACIA Madrid,-3.6124205000000003,40.3920374
@@ -325,7 +322,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-06-01 13:00:00,2019-06-01 00:00:00,2019,Tarde,Laborable,Caida,Leve,Despejado,LATINA,"PQUE. MADRID RIO, +00240E Madrid",-3.7102741999999997,40.3979085
 2019-06-01 13:00:00,2019-06-01 00:00:00,2019,Tarde,Laborable,Imprudencia,Leve,Despejado,VILLAVERDE,SENDA CICLABLE-AV.ROSALES-CARRET.VILLAV. A VALLECA Madrid,-3.6755047999999997,40.3491396
 2019-06-01 13:00:00,2019-06-01 00:00:00,2019,Tarde,Laborable,Imprudencia,Leve,Despejado,VILLAVERDE,SENDA CICLABLE-AV.ROSALES-CARRET.VILLAV. A VALLECA Madrid,-3.6755047999999997,40.3491396
-2019-06-01 08:00:00,2019-06-01 00:00:00,2019,Mañana,Laborable,Colision,Leve,Nieve,CIUDAD LINEAL,CALLE JOSE MARIA PEREDA / CALLE SOR MARIA DE AGREDA Madrid,-3.6479169000000002,40.430180799999995
 2019-06-01 03:00:00,2019-06-01 00:00:00,2019,Noche,Vispera,Colision,Leve,Despejado,TETUÁN,AVDA. ASTURIAS / CALLE VIA LIMITE Madrid,-3.6991690999999998,40.4721079
 2019-06-02 23:00:00,2019-06-02 00:00:00,2019,Noche,Festivo,Otro,Leve,Despejado,PUENTE DE VALLECAS,CALLE PICO DE LA MALICIOSA 10 Madrid,-3.6572579,40.3936847
 2019-06-02 23:00:00,2019-06-02 00:00:00,2019,Noche,Festivo,Otro,Leve,Despejado,PUENTE DE VALLECAS,CALLE PICO DE LA MALICIOSA 10 Madrid,-3.6572579,40.3936847
@@ -346,7 +342,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-06-07 20:00:00,2019-06-07 00:00:00,2019,Tarde,Laborable,Caida,Grave,Despejado,PUENTE DE VALLECAS,CALLE JAVIER DE MIGUEL 113 Madrid,-3.6560062999999996,40.38533820000001
 2019-06-07 16:00:00,2019-06-07 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,CARABANCHEL,CALLE OCA / CALLE GENERAL RICARDOS Madrid,-3.7317501,40.3885227
 2019-06-07 13:00:00,2019-06-07 00:00:00,2019,Tarde,Laborable,Caida,Moderada,Despejado,PUENTE DE VALLECAS,AVDA. RAFAEL ALBERTI / CALLE EXTREMEÑOS Madrid,-3.642973099999999,40.384217
-2019-06-07 08:00:00,2019-06-07 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA,CALLE PLEYADES 14 Madrid,-3.7839022000000004,40.461256799999994
 2019-06-08 22:00:00,2019-06-08 00:00:00,2019,Noche,Laborable,Caida,Moderada,Despejado,ARGANZUELA,CALLE SANTA MARIA LA REAL DE NIEVA 9 Madrid,-3.718321899999999,40.4061088
 2019-06-08 22:00:00,2019-06-08 00:00:00,2019,Noche,Laborable,Caida,Leve,Despejado,RETIRO,CALLE ALFONSO XII / CALLE CLAUDIO MOYANO Madrid,-3.688735,40.409205
 2019-06-08 14:00:00,2019-06-08 00:00:00,2019,Tarde,Vispera,Caida,Leve,Despejado,FUENCARRAL-EL PARDO,CALLE ARROYO DEL MONTE / PLAZA. PRADERA DEL SALCERAL Madrid,-3.7196419,40.495567799999996
@@ -354,7 +349,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-06-10 22:00:00,2019-06-10 00:00:00,2019,Noche,Laborable,Caida,Leve,Despejado,MONCLOA-ARAVACA,AVDA. MIRAFLORES 54 Madrid,-3.7327355000000004,40.47182979999999
 2019-06-10 20:00:00,2019-06-10 00:00:00,2019,Tarde,Laborable,Colision,Moderada,Despejado,FUENCARRAL-EL PARDO,CALLE DOCTOR RAMON CASTROVIEJO 5 Madrid,-3.7136253,40.479513
 2019-06-10 10:00:00,2019-06-10 00:00:00,2019,Mañana,Laborable,Caida,Leve,Despejado,ARGANZUELA,CALLE SAN EPIFANIO 7 Madrid,-3.7187451,40.4013171
-2019-06-11 20:00:00,2019-06-11 00:00:00,2019,Tarde,Laborable,Colision,Moderada,Despejado,VILLA DE VALLECAS,CÑADA. REAL GALIANA 4 Madrid,-3.5454917999999997,40.3866765
 2019-06-11 20:00:00,2019-06-11 00:00:00,2019,Tarde,Laborable,Colision,Moderada,Despejado,ARGANZUELA,CALLE GENERAL LACY / CALLE ANCORA Madrid,-3.6907777999999998,40.4028662
 2019-06-11 15:00:00,2019-06-11 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,CIUDAD LINEAL,CALLE MARQUESA DE TORRECILLA / CALLE MISTERIOS Madrid,-3.6396686000000003,40.4388205
 2019-06-12 22:00:00,2019-06-12 00:00:00,2019,Noche,Laborable,Caida,Leve,Despejado,PUENTE DE VALLECAS,RONDA. SUR 129 Madrid,-3.6756787,40.378747499999996
@@ -374,7 +368,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-06-14 09:00:00,2019-06-14 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,USERA,PLAZA. ELIPTICA 1 Madrid,-3.7172975,40.385082700000005
 2019-06-14 00:00:00,2019-06-14 00:00:00,2019,Noche,Laborable,Colision,Moderada,Despejado,CHAMBERÍ,GTA. RUIZ JIMENEZ / CALLE SAN BERNARDO Madrid,-3.7059927000000004,40.429365000000004
 2019-06-15 17:00:00,2019-06-15 00:00:00,2019,Tarde,Laborable,Caida,Leve,Despejado,CHAMBERÍ,PASEO. GENERAL MARTINEZ CAMPOS 53 Madrid,-3.6900184,40.4353608
-2019-06-15 12:00:00,2019-06-15 00:00:00,2019,Mañana,Laborable,Caida,Moderada,Despejado,LATINA,CALLE VILLAVICIOSA 36 Madrid,-3.7710307000000003,40.3971066
 2019-06-15 04:00:00,2019-06-15 00:00:00,2019,Noche,Vispera,Caida,Leve,Despejado,CHAMBERÍ,CALLE RIOS ROSAS / CALLE PONZANO Madrid,-3.6990487,40.4418802
 2019-06-16 23:00:00,2019-06-16 00:00:00,2019,Noche,Festivo,Otro,Leve,Despejado,CENTRO,CALLE SEGOVIA / RONDA. SEGOVIA Madrid,-3.716856899999999,40.4139115
 2019-06-17 21:00:00,2019-06-17 00:00:00,2019,Noche,Laborable,Colision,Leve,Despejado,FUENCARRAL-EL PARDO,AVDA. BETANZOS 37 Madrid,-3.7114436,40.4746269
@@ -423,11 +416,8 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-07-01 15:00:00,2019-07-01 00:00:00,2019,Tarde,Laborable,Caida,Leve,Despejado,FUENCARRAL-EL PARDO,"AVDA. BURGOS, 89 (RECINTO ""ADEQUA"") Madrid",-3.6718717000000005,40.4930441
 2019-07-01 14:00:00,2019-07-01 00:00:00,2019,Tarde,Laborable,Caida,Moderada,Despejado,SALAMANCA,CALLE DIEGO DE LEON / CALLE GENERAL PARDIÑAS Madrid,-3.6778345,40.434667
 2019-07-01 14:00:00,2019-07-01 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,FUENCARRAL-EL PARDO,CALLE PUERTO DE SOMPORT 8 Madrid,-3.6729007000000005,40.495174799999994
-2019-07-01 13:00:00,2019-07-01 00:00:00,2019,Tarde,Laborable,Caida,Moderada,Despejado,FUENCARRAL-EL PARDO,MONASTERIO DE SILOS - GO FIT - FAROLA 268 Madrid,-3.419286,41.961969200000006
 2019-07-01 09:00:00,2019-07-01 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,CENTRO,CALLE FUENCARRAL / GTA. BILBAO Madrid,-3.7021887,40.4285348
 2019-07-02 20:00:00,2019-07-02 00:00:00,2019,Tarde,Laborable,Caida,Moderada,Despejado,FUENCARRAL-EL PARDO,"CALLE MONASTERIO DE OSEIRA, 17B (ANILLO VERDE, 58) Madrid",-3.6964595,40.510510100000005
-2019-07-02 09:00:00,2019-07-02 00:00:00,2019,Mañana,Laborable,Imprudencia,Leve,Despejado,MONCLOA-ARAVACA,CTRA. RODAJOS 2 Madrid,-3.7787945,40.4117914
-2019-07-02 09:00:00,2019-07-02 00:00:00,2019,Mañana,Laborable,Imprudencia,Leve,Despejado,MONCLOA-ARAVACA,CTRA. RODAJOS 2 Madrid,-3.7787945,40.4117914
 2019-07-03 22:00:00,2019-07-03 00:00:00,2019,Noche,Laborable,Caida,Leve,Despejado,CIUDAD LINEAL,AVDA. MARQUES DE CORBERA / CALLE POETA BLAS DE OTERO Madrid,-3.6554073999999988,40.4235055
 2019-07-03 11:00:00,2019-07-03 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,CENTRO,CALLE TORRECILLA DEL LEAL / CALLE OLMO Madrid,-3.6994721,40.411559000000004
 2019-07-04 23:00:00,2019-07-04 00:00:00,2019,Noche,Laborable,Colision,Leve,Despejado,USERA,AVDA. POBLADOS / AVDA. ORCASUR Madrid,-3.7006175000000003,40.371082200000004
@@ -453,7 +443,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-07-08 08:00:00,2019-07-08 00:00:00,2019,Mañana,Laborable,Colision,Moderada,Despejado,VILLAVERDE,AVDA. LOS ROSALES 200 Madrid,-3.6654544000000002,40.335583899999996
 2019-07-09 15:00:00,2019-07-09 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,CHAMARTÍN,CALLE RODRIGUEZ MARIN 66 Madrid,-3.6793958,40.4477945
 2019-07-09 11:00:00,2019-07-09 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,TETUÁN,CALLE RAIMUNDO FERNANDEZ VILLAVERDE 67 Madrid,-3.6935867999999994,40.4465648
-2019-07-10 18:00:00,2019-07-10 00:00:00,2019,Tarde,Laborable,Colision,Fallecido,Despejado,VILLA DE VALLECAS,AVDA. CARTAGENA DE INDIAS / CALLE ISLAS VISAYAS Madrid,-75.4794257,10.3910485
 2019-07-10 10:00:00,2019-07-10 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,SAN BLAS-CANILLEJAS,CRUCE C/ALCALA CON C/ TAMPICO Madrid,-3.6318973,40.43950770000001
 2019-07-11 09:00:00,2019-07-11 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,VILLAVERDE,AV. ROSALES CON ROTONDA M-40 Madrid,-3.6755047999999997,40.3491396
 2019-07-12 14:00:00,2019-07-12 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,VILLAVERDE,CALLE RESINA 4 Madrid,-3.6944375,40.3362704
@@ -504,7 +493,7 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-07-30 19:00:00,2019-07-30 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,ARGANZUELA,CALLE SANTA MARIA LA REAL DE NIEVA 9 Madrid,-3.718321899999999,40.4061088
 2019-07-30 08:00:00,2019-07-30 00:00:00,2019,Mañana,Laborable,Colision,Moderada,Despejado,BARAJAS,AVDA. SUR DEL AEROPUERTO DE BARAJAS / AUTOV. M-22 Madrid,-3.5776087999999997,40.451209999999996
 2019-07-31 22:00:00,2019-07-31 00:00:00,2019,Noche,Laborable,Colision,Leve,Despejado,CHAMBERÍ,CALLE GENOVA / CALLE ZURBANO Madrid,-3.693862,40.42671300000001
-2019-07-31 10:00:00,2019-07-31 00:00:00,2019,Mañana,Laborable,Caida,Leve,Despejado,ARGANZUELA,PASEO. SANTA MARIA DE LA CABEZA / CALLE FRAY LUIS DE LEON Madrid,-3.697707799999999,40.4030419
+2019-07-31 10:00:00,2019-07-31 00:00:00,2019,Mañana,Laborable,Caida,Leve,Despejado,ARGANZUELA,PASEO. SANTA MARIA DE LA CABEZA / CALLE FRAY LUIS DE LEON Madrid,-3.6987141,40.404999600000004
 2019-08-01 20:00:00,2019-08-01 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,VILLA DE VALLECAS,CMNO. POZO DEL TIO RAIMUNDO 25 Madrid,-3.6474481,40.3716149
 2019-08-01 10:00:00,2019-08-01 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,VILLAVERDE,CALLE UNANIMIDAD / CALLE TERTULIA Madrid,-3.6928608,40.361261
 2019-08-02 16:00:00,2019-08-02 00:00:00,2019,Tarde,Laborable,Colision,Moderada,Despejado,TETUÁN,CALLE VIA LIMITE / CALLE ALCOLEA Madrid,-3.6902703999999997,40.4732502
@@ -521,7 +510,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-08-07 08:00:00,2019-08-07 00:00:00,2019,Mañana,Laborable,Colision,Leve,Despejado,BARAJAS,CALLE FRANCISCO UMBRAL / CALLE VIA DE DUBLIN Madrid,-3.6256854,40.47752070000001
 2019-08-07 04:00:00,2019-08-07 00:00:00,2019,Noche,Laborable,Caida,Moderada,Despejado,CARABANCHEL,CALLE MARAVEDI 12 Madrid,-3.7481671000000003,40.363181700000005
 2019-08-08 22:00:00,2019-08-08 00:00:00,2019,Noche,Laborable,Colision,Grave,Despejado,MORATALAZ,CALLE ARROYO DE LA MEDIA LEGUA 43 Madrid,-3.6539794999999997,40.41295170000001
-2019-08-08 22:00:00,2019-08-08 00:00:00,2019,Noche,Laborable,Caida,Moderada,Despejado,LATINA,AVDA. HOSPITALIDAD 3 Madrid,-3.7716091,40.361434499999994
 2019-08-08 19:00:00,2019-08-08 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,VICÁLVARO,CALLE LADERA DE LOS ALMENDROS / CALLE RAYA Madrid,-3.6223161,40.4018684
 2019-08-08 11:00:00,2019-08-08 00:00:00,2019,Mañana,Laborable,Caida,Leve,Despejado,CHAMARTÍN,CTRA. COLMENAR VIEJO Madrid,-3.689483,40.4838347
 2019-08-09 16:00:00,2019-08-09 00:00:00,2019,Tarde,Laborable,Caida,Leve,Despejado,VILLAVERDE,"CALLE SANTA ESCOLASTICA, 1 (POSTERIOR APARCAMIENTO Madrid",-3.6995308,40.3625971
@@ -561,7 +549,7 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-08-30 22:00:00,2019-08-30 00:00:00,2019,Noche,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA,CALLE PRINCESA 31 Madrid,-3.7147542999999996,40.4280521
 2019-08-30 17:00:00,2019-08-30 00:00:00,2019,Tarde,Laborable,Imprudencia,Moderada,Despejado,CENTRO,CALLE MARQUES DE CUBAS 18 Madrid,-3.6959549,40.41612670000001
 2019-08-31 22:00:00,2019-08-31 00:00:00,2019,Noche,Laborable,Colision,Leve,Despejado,FUENCARRAL-EL PARDO,CALLE RAMON GOMEZ DE LA SERNA 9A Madrid,-3.723486,40.482116600000005
-2019-08-31 19:00:00,2019-08-31 00:00:00,2019,Tarde,Laborable,Imprudencia,Leve,Despejado,BARAJAS,"CAMINO EN ZONA DENOMIDADA COMO ""ESPACIO MÉXICO"" Madrid",-3.6067708,40.459331799999994
+2019-08-31 19:00:00,2019-08-31 00:00:00,2019,Tarde,Laborable,Imprudencia,Leve,Despejado,BARAJAS,"CAMINO EN ZONA DENOMIDADA COMO ""ESPACIO MÉXICO"" Madrid",-3.7037902000000003,40.4167754
 2019-08-31 14:00:00,2019-08-31 00:00:00,2019,Tarde,Vispera,Colision,Leve,Despejado,CARABANCHEL,"AUTOV. A-42, +00500S Madrid",-3.7039284,40.395762
 2019-09-01 22:00:00,2019-09-01 00:00:00,2019,Noche,Festivo,Colision,Moderada,Despejado,PUENTE DE VALLECAS,AVDA. PABLO NERUDA 58 Madrid,-3.64554,40.38782
 2019-09-01 15:00:00,2019-09-01 00:00:00,2019,Tarde,Festivo,Imprudencia,Leve,Despejado,PUENTE DE VALLECAS,CALLE EMBAJADORES 324 Madrid,-3.6842483999999995,40.3778652
@@ -687,7 +675,7 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2019-10-02 21:00:00,2019-10-02 00:00:00,2019,Noche,Laborable,Colision,Leve,Despejado,LATINA,CALLE FLAUTAS / CALLE CLARINETES Madrid,-3.7649227999999995,40.3698592
 2019-10-02 21:00:00,2019-10-02 00:00:00,2019,Noche,Laborable,Caida,Moderada,Despejado,LATINA,CALLE GUAREÑA / PLAZA. DISTRITO LATINA Madrid,-3.7654059999999996,40.3867651
 2019-10-02 20:00:00,2019-10-02 00:00:00,2019,Tarde,Laborable,Caida,Leve,Despejado,CARABANCHEL,CALLE CALDERILLA 1 Madrid,-3.737479099999999,40.3637278
-2019-10-02 19:00:00,2019-10-02 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,SALAMANCA,CALLE ARMADA ESPAÑOLA / PASEO. CASTELLANA Madrid,-3.6893218999999986,40.4242775
+2019-10-02 19:00:00,2019-10-02 00:00:00,2019,Tarde,Laborable,Colision,Leve,Despejado,SALAMANCA,CALLE ARMADA ESPAÑOLA / PASEO. CASTELLANA Madrid,-3.6921545,40.41799839999999
 2019-10-02 16:00:00,2019-10-02 00:00:00,2019,Tarde,Laborable,Caida,Moderada,Despejado,SALAMANCA,CALLE NUÑEZ DE BALBOA / CALLE JOSE ORTEGA Y GASSET Madrid,-3.6823481,40.430244200000004
 2019-10-02 15:00:00,2019-10-02 00:00:00,2019,Tarde,Laborable,Imprudencia,Leve,Despejado,TETUÁN,CALLE CARNICER 11 Madrid,-3.7048288,40.4494662
 2019-10-02 15:00:00,2019-10-02 00:00:00,2019,Tarde,Laborable,Imprudencia,Leve,Despejado,TETUÁN,CALLE CARNICER 11 Madrid,-3.7048288,40.4494662
@@ -784,11 +772,10 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-01-03 15:00:00,2018-01-03 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CIUDAD LINEAL                 ,CALLE DE RAMIREZ DE ARELLANO NUM                                                                     35 Madrid,-3.6580462999999996,40.4469059
 2018-01-03 22:00:00,2018-01-03 00:00:00,2018,Noche,Laborable,Colision,Leve,Despejado,LATINA                        ,CALLE DE SEGOVIA - PASEO DE EXTREMADURA Madrid,-3.7136092000000005,40.4141644
 2018-01-04 08:00:00,2018-01-04 00:00:00,2018,Mañana,Laborable,Caida,Moderada,Despejado,LATINA                        ,CALLE DE LOS YEBENES - CALLE DE SEPULVEDA Madrid,-3.7537456,40.39526619999999
-2018-01-04 09:00:00,2018-01-04 00:00:00,2018,Mañana,Laborable,Caida,Leve,Niebla,SAN BLAS                      ,AVENIDA DE CANILLEJAS A VICALVARO - CALLE DE LOS HERMANOS GARCIA NOBLEJAS Madrid,-3.6116667000000002,40.42394609999999
+2018-01-04 09:00:00,2018-01-04 00:00:00,2018,Mañana,Laborable,Caida,Leve,Niebla,SAN BLAS                      ,AVENIDA DE CANILLEJAS A VICALVARO - CALLE DE LOS HERMANOS GARCIA NOBLEJAS Madrid,-3.6115,40.4345
 2018-01-04 15:00:00,2018-01-04 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,VILLA DE VALLECAS             ,CALLE DE LA SIERRA DE TORNAVACAS - CALLE DE SAN JAIME Madrid,-3.6282896,40.3787368
 2018-01-04 20:00:00,2018-01-04 00:00:00,2018,Tarde,Laborable,Imprudencia,Moderada,Despejado,CIUDAD LINEAL                 ,CALLE DE GERMAN PEREZ CARRASCO - CALLE DEL DOCTOR VALLEJO Madrid,-3.6433421000000004,40.4363528
 2018-01-05 16:00:00,2018-01-05 00:00:00,2018,Tarde,Vispera,Caida,Leve,Lluvia,RETIRO                        ,PASEO DEL FERNAN NUÑEZ Madrid,-3.680099299999999,40.416272600000006
-2018-01-07 16:00:00,2018-01-07 00:00:00,2018,Tarde,Festivo,Caida,Leve,Lluvia,FUENCARRAL-EL PARDO           ,CARRETERA DE COLMENAR NUM                                                                            14 Madrid,-3.7822288,40.53279209999999
 2018-01-09 15:00:00,2018-01-09 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,ARGANZUELA                    ,CALLE DE LA BATALLA DEL SALADO NUM                                                                   1 Madrid,-3.6956025,40.4046448
 2018-01-11 14:00:00,2018-01-11 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CENTRO                        ,RONDA DE ATOCHA NUM                                                                                  2 Madrid,-3.6949571000000003,40.407646899999996
 2018-01-11 20:00:00,2018-01-11 00:00:00,2018,Tarde,Laborable,Colision,Grave,Despejado,RETIRO                        ,CALLE DE ALCALA - CALLE DE VELAZQUEZ Madrid,-3.6845087,40.420995
@@ -804,7 +791,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-01-19 16:00:00,2018-01-19 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CENTRO                        ,CALLE DE CARRANZA NUM                                                                                7 Madrid,-3.7031346,40.4290217
 2018-01-20 08:00:00,2018-01-20 00:00:00,2018,Mañana,Laborable,Colision,Leve,Despejado,VILLA DE VALLECAS             ,AVENIDA DE LA GAVIA - AVENIDA DEL MAYORAZGO Madrid,-3.6188898000000003,40.3647
 2018-01-20 17:00:00,2018-01-20 00:00:00,2018,Tarde,Vispera,Colision,Leve,Despejado,HORTALEZA                     ,CALLE DE FRANCISCO UMBRAL - GLORIETA DE ISIDRO GONZALEZ VELAZQUEZ Madrid,-3.6259025,40.4816299
-2018-01-21 12:00:00,2018-01-21 00:00:00,2018,Mañana,Festivo,Caida,Leve,Despejado,LATINA                        ,CARRETERA DE LA VENTA DE LA RUBIA Madrid,-3.8117983,40.37205
 2018-01-21 13:00:00,2018-01-21 00:00:00,2018,Tarde,Festivo,Caida,Leve,Despejado,LATINA                        ,CALLE  VIA CARPETANA NUM                                                                             138 Madrid,-3.7339959,40.3993472
 2018-01-22 13:00:00,2018-01-22 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,TETUAN                        ,CALLE DE LA INFANTA MERCEDES NUM                                                                     38 Madrid,-3.6975021,40.45769129999999
 2018-01-24 09:00:00,2018-01-24 00:00:00,2018,Mañana,Laborable,Caida,Leve,Despejado,CHAMBERI                      ,CALLE DE SANTA ENGRACIA NUM                                                                          97 Madrid,-3.6996373999999994,40.43651879999999
@@ -814,7 +800,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-01-24 20:00:00,2018-01-24 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,SAN BLAS                      ,CARRIL  ANILLO VERDE CICLISTA KM.                                                                    13000 Madrid,-3.764952199999999,40.4006459
 2018-01-24 21:00:00,2018-01-24 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,RETIRO                        ,AUTOVIA  M-30 CALZADA 1 - AVENIDA DE LA CIUDAD DE BARCELONA Madrid,-3.7224778,40.421055700000004
 2018-01-24 22:00:00,2018-01-24 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,ARGANZUELA                    ,PARQUE DE MADRID RIO (RIBERA ESTE) KM.                                                               6600 Madrid,-3.7233662000000005,40.4116765
-2018-01-26 15:00:00,2018-01-26 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA               ,CALLE DEL CERRO DE VALDECAHONDE NUM                                                                  15 Madrid,-3.7879422,40.4468855
 2018-01-26 22:00:00,2018-01-26 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,VILLAVERDE                    ,CALLE DE ENCARNACION OVIOL NUM                                                                       27 Madrid,-3.6893659,40.3503554
 2018-01-27 09:00:00,2018-01-27 00:00:00,2018,Mañana,Laborable,Colision,Leve,Despejado,USERA                         ,AVENIDA DE LOS POBLADOS - CAMINO  VIEJO DE VILLAVERDE Madrid,-3.7105995999999988,40.37294910000001
 2018-01-27 13:00:00,2018-01-27 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,TETUAN                        ,CALLE DEL COMANDANTE ZORITA NUM                                                                      17 Madrid,-3.6985667999999996,40.448708399999994
@@ -840,7 +825,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-02-05 17:00:00,2018-02-05 00:00:00,2018,Tarde,Laborable,Colision,Leve,Lluvia,RETIRO                        ,AVENIDA DE LA ALBUFERA - AVENIDA DE LA CIUDAD DE BARCELONA Madrid,-3.6695214999999997,40.39849359999999
 2018-02-06 09:00:00,2018-02-06 00:00:00,2018,Mañana,Laborable,Colision,Leve,Despejado,SALAMANCA                     ,CALLE DE ALCALA - CALLE DE O'DONNELL Madrid,-3.6829012999999997,40.421432700000004
 2018-02-06 12:00:00,2018-02-06 00:00:00,2018,Mañana,Laborable,Caida,Leve,Despejado,CHAMBERI                      ,CALLE DE ALMAGRO NUM                                                                                 22 Madrid,-3.6937637000000003,40.42918
-2018-02-06 17:00:00,2018-02-06 00:00:00,2018,Tarde,Laborable,Caida,Leve,Nieve,CIUDAD LINEAL                 ,CALLE DE GARCIA QUINTANILLA - CALLE DEL GENERAL ARANAZ Madrid,-3.6417377,40.445417
 2018-02-07 19:00:00,2018-02-07 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CENTRO                        ,PASEO DEL PRADO - PLAZA DE CANOVAS DEL CASTILLO Madrid,-3.6935287000000003,40.415308200000005
 2018-02-08 18:00:00,2018-02-08 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,SALAMANCA                     ,PASEO DE LA CASTELLANA NUM                                                                           48 Madrid,-3.6875836000000004,40.4346717
 2018-02-08 19:00:00,2018-02-08 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE  GRAN VIA NUM                                                                                  32 Madrid,-3.703471,40.420417
@@ -933,7 +917,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-04-14 18:00:00,2018-04-14 00:00:00,2018,Tarde,Laborable,Caida,Grave,Despejado,CHAMBERI                      ,CALLE DE GUZMAN EL BUENO NUM                                                                         30 Madrid,-3.7130097,40.4333547
 2018-04-14 19:00:00,2018-04-14 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DEL CONDE DUQUE NUM                                                                            13 Madrid,-3.7095641,40.4289868
 2018-04-16 14:00:00,2018-04-16 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,FUENCARRAL-EL PARDO           ,RONDA DEL CABALLERO DE LA MANCHA NUM                                                                 182 Madrid,-3.6889497,40.50137539999999
-2018-04-17 17:00:00,2018-04-17 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,LATINA                        ,CALLE DE LOGROSAN - CALLE DE MIRABEL Madrid,-3.7813613,40.375825
 2018-04-17 20:00:00,2018-04-17 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,HORTALEZA                     ,AVENIDA DEL CONSEJO DE EUROPA - GLORIETA DE S.A.R. DON JUAN DE BORBON Y BATTEMBERG Madrid,-3.6154608,40.460460600000005
 2018-04-18 08:00:00,2018-04-18 00:00:00,2018,Mañana,Laborable,Caida,Leve,Despejado,CENTRO                        ,PASEO DEL PRADO NUM                                                                                  16 Madrid,-3.6941903,40.4141422
 2018-04-18 16:00:00,2018-04-18 00:00:00,2018,Tarde,Laborable,Caida,Grave,Despejado,CENTRO                        ,CALLE  IMPERIAL NUM                                                                                  5 Madrid,-3.7069040999999996,40.4145484
@@ -986,13 +969,12 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-05-11 13:00:00,2018-05-11 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,RETIRO                        ,PLAZA DE CANOVAS DEL CASTILLO - PLAZA DE LA LEALTAD Madrid,-3.6940925000000004,40.41520429999999
 2018-05-11 22:00:00,2018-05-11 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DE CEDACEROS - CARRERA DE SAN JERONIMO Madrid,-3.6987472,40.416568
 2018-05-11 22:00:00,2018-05-11 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,MONCLOA-ARAVACA               ,PASEO DEL ROBLEDAL Madrid,-3.7433987,40.4096494
-2018-05-12 10:00:00,2018-05-12 00:00:00,2018,Mañana,Laborable,Caida,Leve,Despejado,LATINA                        ,CARRETERA DE BOADILLA DEL MONTE NUM                                                                  40 Madrid,-3.775046,40.399544
 2018-05-12 18:00:00,2018-05-12 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,TETUAN                        ,CALLE DE ORENSE - CALLE DEL GENERAL YAGÜE Madrid,-3.6946307999999997,40.45637929999999
 2018-05-12 23:00:00,2018-05-12 00:00:00,2018,Noche,Vispera,Caida,Leve,Despejado,RETIRO                        ,AUTOVIA  M-30 CALZADA 1 - AVENIDA DE LA CIUDAD DE BARCELONA Madrid,-3.7224778,40.421055700000004
 2018-05-13 18:00:00,2018-05-13 00:00:00,2018,Tarde,Festivo,Imprudencia,Moderada,Despejado,USERA                         ,PARQUE DE MADRID RIO (RIBERA OESTE) KM.                                                              5850 Madrid,-3.7233662000000005,40.4116765
 2018-05-14 00:00:00,2018-05-14 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,ARGANZUELA                    ,PASEO DEL DOCTOR VALLEJO NAGERA NUM                                                                  43 Madrid,-3.7125801,40.402968200000004
 2018-05-14 12:00:00,2018-05-14 00:00:00,2018,Mañana,Laborable,Caida,Leve,Despejado,MORATALAZ                     ,AVENIDA DEL DOCTOR GARCIA TAPIA NUM                                                                  218 Madrid,-3.6304595,40.407197700000005
-2018-05-14 20:00:00,2018-05-14 00:00:00,2018,Tarde,Laborable,Caida,Grave,Despejado,RETIRO                        ,PLAZA DE MARIANO DE CAVIA NUM                                                                        2 Madrid,-3.6782494,40.4072305
+2018-05-14 20:00:00,2018-05-14 00:00:00,2018,Tarde,Laborable,Caida,Grave,Despejado,RETIRO                        ,PLAZA DE MARIANO DE CAVIA NUM                                                                        2 Madrid,-3.6788231,40.4079549
 2018-05-16 14:00:00,2018-05-16 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,PUENTE DE VALLECAS            ,AVENIDA DE MIGUEL HERNANDEZ NUM                                                                      80 Madrid,-3.6403090999999987,40.382372
 2018-05-16 14:00:00,2018-05-16 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,USERA                         ,AVENIDA DEL MANZANARES NUM                                                                           212 Madrid,-3.700175,40.390077500000004
 2018-05-16 14:00:00,2018-05-16 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,USERA                         ,AVENIDA DEL MANZANARES NUM                                                                           212 Madrid,-3.700175,40.390077500000004
@@ -1086,7 +1068,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-06-24 10:00:00,2018-06-24 00:00:00,2018,Mañana,Festivo,Caida,Leve,Despejado,CENTRO                        ,CALLE DE GENOVA - CALLE DEL MARQUES DE LA ENSENADA Madrid,-3.6920029999999997,40.425787899999996
 2018-06-25 10:00:00,2018-06-25 00:00:00,2018,Mañana,Laborable,Caida,Leve,Despejado,ARGANZUELA                    ,CALLE DE DELICIAS NUM                                                                                26 Madrid,-3.6923936,40.403988899999995
 2018-06-25 10:00:00,2018-06-25 00:00:00,2018,Mañana,Laborable,Colision,Leve,Despejado,SALAMANCA                     ,PASEO DE LA CASTELLANA NUM                                                                           66 Madrid,-3.6895519999999986,40.437459000000004
-2018-06-25 14:00:00,2018-06-25 00:00:00,2018,Tarde,Laborable,Imprudencia,Leve,Despejado,BARAJAS                       ,CALLE DEL BATEL NUM                                                                                  8 Madrid,-3.4838120999999997,40.372188200000004
 2018-06-25 15:00:00,2018-06-25 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,MONCLOA-ARAVACA               ,CALLE DEL MARQUES DE URQUIJO NUM                                                                     2 Madrid,-3.7166932,40.430657200000006
 2018-06-26 04:00:00,2018-06-26 00:00:00,2018,Noche,Laborable,Caida,Grave,Despejado,SAN BLAS                      ,CALLE DE ETRURIA NUM                                                                                 2 Madrid,-3.6122345,40.4356736
 2018-06-26 14:00:00,2018-06-26 00:00:00,2018,Tarde,Laborable,Colision,Moderada,Despejado,ARGANZUELA                    ,CALLE DEL MAESTRO ARBOS - PLAZA DE LEGAZPI Madrid,-3.694999799999999,40.390854499999996
@@ -1152,7 +1133,7 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-07-22 15:00:00,2018-07-22 00:00:00,2018,Tarde,Festivo,Caida,Leve,Despejado,ARGANZUELA                    ,CALLE DEL PARROCO EUSEBIO CUENCA NUM                                                                 58 Madrid,-3.6878767,40.39430189999999
 2018-07-23 09:00:00,2018-07-23 00:00:00,2018,Mañana,Laborable,Caida,Leve,Despejado,CARABANCHEL                   ,AVENIDA DEL MANZANARES NUM                                                                           156 Madrid,-3.7095712,40.3959447
 2018-07-23 13:00:00,2018-07-23 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CENTRO                        ,CALLE DE LA PALMA - CALLE DE SAN ANDRES Madrid,-3.7037517999999996,40.4263094
-2018-07-23 20:00:00,2018-07-23 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,LATINA                        ,CALLE DE LA HUERTA DE CASTAÑEDA - PASEO DE LOS OLIVOS Madrid,-3.7419477,40.4057472
+2018-07-23 20:00:00,2018-07-23 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,LATINA                        ,CALLE DE LA HUERTA DE CASTAÑEDA - PASEO DE LOS OLIVOS Madrid,-3.7421523999999997,40.4055692
 2018-07-24 11:00:00,2018-07-24 00:00:00,2018,Mañana,Laborable,Imprudencia,Moderada,Despejado,SAN BLAS                      ,PASEO DE GINEBRA NUM                                                                                 13 Madrid,-3.6046641000000004,40.42488609999999
 2018-07-24 16:00:00,2018-07-24 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DE ALCALA NUM                                                                                  44 Madrid,-3.6960347000000002,40.4184039
 2018-07-24 16:00:00,2018-07-24 00:00:00,2018,Tarde,Laborable,Imprudencia,Moderada,Despejado,SALAMANCA                     ,CALLE DE FRANCISCO SILVELA - PLAZA DE MANUEL BECERRA Madrid,-3.6691459,40.428258899999996
@@ -1206,7 +1187,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-08-13 19:00:00,2018-08-13 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CIUDAD LINEAL                 ,CALLE DE ARTURO SORIA NUM                                                                            277 Madrid,-3.6674337999999995,40.4700105
 2018-08-18 04:00:00,2018-08-18 00:00:00,2018,Noche,Laborable,Colision,Leve,Despejado,CENTRO                        ,PASEO DEL PRADO - PLAZA DE CANOVAS DEL CASTILLO Madrid,-3.6935287000000003,40.415308200000005
 2018-08-18 17:00:00,2018-08-18 00:00:00,2018,Tarde,Vispera,Imprudencia,Leve,Despejado,RETIRO                        ,PARQUE DEL RETIRO Madrid,-3.6844995000000003,40.4152606
-2018-08-19 13:00:00,2018-08-19 00:00:00,2018,Tarde,Festivo,Caida,Leve,Despejado,FUENCARRAL-EL PARDO           ,CARRETERA DE COLMENAR NUM                                                                            16 Madrid,-3.7823057,40.5327622
 2018-08-20 20:00:00,2018-08-20 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,CHAMARTIN                     ,PASEO DE LA HABANA NUM                                                                               103 Madrid,-3.682111299999999,40.4582626
 2018-08-20 22:00:00,2018-08-20 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,PUENTE DE VALLECAS            ,AVENIDA DE ENTREVIAS - CALLE DEL PADRE LLANOS Madrid,-3.6694277000000004,40.3828371
 2018-08-21 20:00:00,2018-08-21 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,PUENTE DE VALLECAS            ,CALLE DE EMBAJADORES NUM                                                                             472 Madrid,-3.6748652,40.3672034
@@ -1224,7 +1204,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-08-27 13:00:00,2018-08-27 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CENTRO                        ,CALLE DE ATOCHA NUM                                                                                  42 Madrid,-3.700060799999999,40.41270189999999
 2018-08-27 21:00:00,2018-08-27 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,CHAMBERI                      ,CALLE DE LUCHANA NUM                                                                                 13 Madrid,-3.7010370999999997,40.4300013
 2018-08-28 00:00:00,2018-08-28 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,CHAMBERI                      ,CALLE DE FERNANDEZ DE LA HOZ - CALLE DE JOSE ABASCAL Madrid,-3.6945574,40.4382187
-2018-08-28 13:00:00,2018-08-28 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,MONCLOA-ARAVACA               ,PASEO DE LOS CASTAÑOS Madrid,-3.855997,40.40201709999999
 2018-08-28 15:00:00,2018-08-28 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,HORTALEZA                     ,CALLE DE MONTEARAGON NUM                                                                             7 Madrid,-3.6584339999999997,40.463522999999995
 2018-08-28 21:00:00,2018-08-28 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,HORTALEZA                     ,AVENIDA DE SECUNDINO ZUAZO - CALLE DE CESAR CORT BOTI Madrid,-3.6124067,40.49523370000001
 2018-08-29 21:00:00,2018-08-29 00:00:00,2018,Noche,Laborable,Colision,Leve,Despejado,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA NUM                                                                154 Madrid,-3.6775464999999996,40.402599200000004
@@ -1258,7 +1237,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-09-12 05:00:00,2018-09-12 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,CENTRO                        ,PLAZA DEL EMPERADOR CARLOS V NUM                                                                     8 Madrid,-3.693189,40.4084654
 2018-09-12 09:00:00,2018-09-12 00:00:00,2018,Mañana,Laborable,Colision,Leve,Despejado,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           299 Madrid,-3.697816099999999,40.462160100000006
 2018-09-12 16:00:00,2018-09-12 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,CHAMBERI                      ,CALLE DE JOSE ABASCAL NUM                                                                            50 Madrid,-3.6931545,40.4378912
-2018-09-12 20:00:00,2018-09-12 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,VICALVARO                     ,CALLE DE TORREJON DE LA CALZADA NUM                                                                  75 Madrid,-3.7942486000000004,40.199861
 2018-09-13 14:00:00,2018-09-13 00:00:00,2018,Tarde,Laborable,Imprudencia,Leve,Despejado,VILLAVERDE                    ,CALLE DEL DIAMANTE - CARRETERA DE VILLAVERDE A VALLECAS Madrid,-3.6889776,40.354136499999996
 2018-09-14 16:00:00,2018-09-14 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,SALAMANCA                     ,CALLE DE ALCALA NUM                                                                                  75 Madrid,-3.6870412000000004,40.4206463
 2018-09-14 19:00:00,2018-09-14 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CHAMARTIN                     ,CALLE DE LOPEZ DE HOYOS - CALLE DE FRANCISCO SILVELA Madrid,-3.680461999999999,40.44021729999999
@@ -1299,8 +1277,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-09-26 19:00:00,2018-09-26 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,SALAMANCA                     ,CALLE DE ALCALA NUM                                                                                  155 Madrid,-3.6746943999999995,40.4254213
 2018-09-27 14:00:00,2018-09-27 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CHAMARTIN                     ,CALLE DE FELIX BOIX NUM                                                                              16 Madrid,-3.6858061,40.462652899999995
 2018-09-27 17:00:00,2018-09-27 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,PUENTE DE VALLECAS            ,AVENIDA DE LA ALBUFERA NUM                                                                           306 Madrid,-3.6334099,40.3840852
-2018-09-27 20:00:00,2018-09-27 00:00:00,2018,Tarde,Laborable,Caida,Leve,Despejado,VICALVARO                     ,AVENIDA DE BRASILIA - CALLE DE TORREJON DE LA CALZADA Madrid,-3.6611568999999995,40.4392872
-2018-09-28 08:00:00,2018-09-28 00:00:00,2018,Mañana,Laborable,Imprudencia,Grave,Despejado,MONCLOA-ARAVACA               ,CARRETERA DE RODAJOS Madrid,-3.7711595,40.4122529
 2018-09-28 10:00:00,2018-09-28 00:00:00,2018,Mañana,Laborable,Caida,Leve,Despejado,SALAMANCA                     ,CALLE DE GOYA NUM                                                                                    18 Madrid,-3.6838165999999997,40.424965
 2018-09-28 13:00:00,2018-09-28 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CIUDAD LINEAL                 ,CALLE DE FEDERICO GUTIERREZ - CALLE DE JOSE DEL HIERRO Madrid,-3.6473029,40.4376779
 2018-09-28 15:00:00,2018-09-28 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CIUDAD LINEAL                 ,CALLE DE LOPEZ DE HOYOS NUM                                                                          322 Madrid,-3.6613904,40.4560129
@@ -1386,9 +1362,8 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-11-02 11:00:00,2018-11-02 00:00:00,2018,Mañana,Laborable,Caida,Leve,Despejado,CENTRO                        ,GLORIETA DEL PUENTE DE SEGOVIA - PASEO DE LA VIRGEN DEL PUERTO Madrid,-3.7227934,40.4139658
 2018-11-02 18:00:00,2018-11-02 00:00:00,2018,Tarde,Vispera,Caida,Leve,Despejado,MONCLOA-ARAVACA               ,AVENIDA DEL DOCTOR FEDERICO RUBIO Y GALI NUM                                                         94 Madrid,-3.7140328,40.455238200000004
 2018-11-04 01:00:00,2018-11-04 00:00:00,2018,Noche,Festivo,Caida,Leve,Despejado,CENTRO                        ,CALLE  GRAN VIA NUM                                                                                  37 Madrid,-3.7050805,40.4199342
-2018-11-04 10:00:00,2018-11-04 00:00:00,2018,Mañana,Festivo,Caida,Leve,Despejado,CARABANCHEL                   ,AVENIDA DE LOS POBLADOS - CALLE DE EUGENIA DE MONTIJO Madrid,-3.7498,40.376335
+2018-11-04 10:00:00,2018-11-04 00:00:00,2018,Mañana,Festivo,Caida,Leve,Despejado,CARABANCHEL                   ,AVENIDA DE LOS POBLADOS - CALLE DE EUGENIA DE MONTIJO Madrid,-3.7506004,40.38475270000001
 2018-11-04 10:00:00,2018-11-04 00:00:00,2018,Mañana,Festivo,Caida,Leve,Despejado,CENTRO                        ,CALLE DE SAN BERNARDO NUM                                                                            51 Madrid,-3.707496099999999,40.425422
-2018-11-05 08:00:00,2018-11-05 00:00:00,2018,Mañana,Laborable,Imprudencia,Leve,Lluvia,MONCLOA-ARAVACA               ,CALLE DE ANDROMEDA - CALLE DE LA VIRGEN DE LOS ROSALES Madrid,-3.782978,40.453561799999996
 2018-11-06 09:00:00,2018-11-06 00:00:00,2018,Mañana,Laborable,Colision,Leve,Despejado,MORATALAZ                     ,AVENIDA DEL DOCTOR GARCIA TAPIA NUM                                                                  126 Madrid,-3.6423243999999997,40.41031630000001
 2018-11-06 18:00:00,2018-11-06 00:00:00,2018,Tarde,Laborable,Colision,Leve,Lluvia,CENTRO                        ,CALLE  MAYOR NUM                                                                                     84 Madrid,-3.7123157999999994,40.4152865
 2018-11-06 21:00:00,2018-11-06 00:00:00,2018,Noche,Laborable,Colision,Leve,Despejado,FUENCARRAL-EL PARDO           ,CALLE DE LA COSTA BRAVA NUM                                                                          31 Madrid,-3.7055187000000007,40.49693370000001
@@ -1416,7 +1391,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-11-17 13:00:00,2018-11-17 00:00:00,2018,Tarde,Laborable,Colision,Grave,Despejado,BARAJAS                       ,AVENIDA DE LOGROÑO - CALLE DE LA RAMBLA Madrid,-3.5973075,40.4586519
 2018-11-17 16:00:00,2018-11-17 00:00:00,2018,Tarde,Vispera,Colision,Moderada,Despejado,CENTRO                        ,PLAZA DEL EMPERADOR CARLOS V NUM                                                                     9 Madrid,-3.6929061,40.4087684
 2018-11-18 10:00:00,2018-11-18 00:00:00,2018,Mañana,Festivo,Colision,Leve,Despejado,VILLA DE VALLECAS             ,CARRETERA DE VILLAVERDE A VALLECAS - POLIGONO LA ATALAYUELA Madrid,-3.644616999999999,40.36972
-2018-11-18 11:00:00,2018-11-18 00:00:00,2018,Mañana,Festivo,Caida,Leve,Despejado,FUENCARRAL-EL PARDO           ,CARRETERA DE COLMENAR NUM                                                                            2 Madrid,-3.7798642,40.5294632
 2018-11-19 17:00:00,2018-11-19 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CENTRO                        ,CALLE DE TOLEDO NUM                                                                                  98 Madrid,-3.711021799999999,40.4081778
 2018-11-19 19:00:00,2018-11-19 00:00:00,2018,Tarde,Laborable,Colision,Leve,Despejado,CENTRO                        ,CALLE  GRAN VIA - CALLE DE ALCALA Madrid,-3.6966751,40.4186387
 2018-11-20 09:00:00,2018-11-20 00:00:00,2018,Mañana,Laborable,Colision,Leve,Despejado,CIUDAD LINEAL                 ,AVENIDA DE DAROCA NUM                                                                                25 Madrid,-3.6499731,40.4282247
@@ -1469,7 +1443,7 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2018-12-21 23:00:00,2018-12-21 00:00:00,2018,Noche,Laborable,Colision,Leve,Despejado,CENTRO                        ,CALLE DE ALCALA - CALLE DEL MARQUES DE CASA RIERA Madrid,-3.696432799999999,40.41869620000001
 2018-12-22 01:00:00,2018-12-22 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,MONCLOA-ARAVACA               ,CUESTA DE SAN VICENTE NUM                                                                            40 Madrid,-3.7177678,40.420561600000006
 2018-12-22 22:00:00,2018-12-22 00:00:00,2018,Noche,Laborable,Caida,Leve,Despejado,LATINA                        ,CALLE DE LA GRANDEZA ESPAÑOLA NUM                                                                    39 Madrid,-3.7328183,40.4111523
-2018-12-24 09:00:00,2018-12-24 00:00:00,2018,Mañana,Laborable,Caida,Grave,Despejado,CENTRO                        ,CALLE DE TOLEDO - PLAZA  MAYOR Madrid,-3.7077766000000003,40.4151318
+2018-12-24 09:00:00,2018-12-24 00:00:00,2018,Mañana,Laborable,Caida,Grave,Despejado,CENTRO                        ,CALLE DE TOLEDO - PLAZA  MAYOR Madrid,-3.7075348,40.4142684
 2018-12-24 13:00:00,2018-12-24 00:00:00,2018,Tarde,Vispera,Caida,Leve,Despejado,MORATALAZ                     ,AVENIDA DE MORATALAZ NUM                                                                             44 Madrid,-3.6573699,40.4065833
 2018-12-25 12:00:00,2018-12-25 00:00:00,2018,Mañana,Festivo,Caida,Leve,Despejado,FUENCARRAL-EL PARDO           ,CALLE DE BRAOJOS NUM                                                                                 10 Madrid,-3.7391786,40.4812879
 2018-12-28 09:00:00,2018-12-28 00:00:00,2018,Mañana,Laborable,Colision,Leve,Despejado,CHAMARTIN                     ,PASEO DE LA CASTELLANA - PASEO DE LA HABANA Madrid,-3.6905252999999996,40.44738710000001
@@ -1488,11 +1462,9 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-01-06 17:00:00,2017-01-06 00:00:00,2017,Tarde,Festivo,Colision,Leve,Despejado,SAN BLAS                      ,CALLE DE AREVALO LARA - CALLE DE TAMPICO Madrid,-3.6334215,40.4419854
 2017-01-07 00:00:00,2017-01-07 00:00:00,2017,Noche,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DE SAN FELIPE NERI - PLAZA DE LOS HERRADORES Madrid,-3.7083991999999997,40.4164477
 2017-01-07 11:00:00,2017-01-07 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,BARAJAS                       ,CALLE DE LA RIBERA DEL SENA - GLORIETA DE LUXEMBURGO Madrid,-3.6201394999999996,40.4631947
-2017-01-07 14:00:00,2017-01-07 00:00:00,2017,Tarde,Vispera,Caida,Leve,Despejado,FUENCARRAL-EL PARDO           ,CALLE DE FREUD - CALLE DE MARX Madrid,-3.6997654000000004,40.545306200000006
 2017-01-08 13:00:00,2017-01-08 00:00:00,2017,Tarde,Festivo,Caida,Leve,Despejado,ARGANZUELA                    ,RONDA DE TOLEDO NUM                                                                                  14 Madrid,-3.7078388999999996,40.4057789
 2017-01-08 20:00:00,2017-01-08 00:00:00,2017,Tarde,Festivo,Caida,Grave,Despejado,CENTRO                        ,CALLE DE SEGOVIA NUM                                                                                 16 Madrid,-3.7113688999999987,40.4138092
 2017-01-09 14:00:00,2017-01-09 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           101 Madrid,-3.7040748,40.4475018
-2017-01-09 19:00:00,2017-01-09 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA               ,CALLE DE LA GOLONDRINA - CALLE DE VALTRAVIESO Madrid,-3.7851031,40.4510615
 2017-01-09 23:00:00,2017-01-09 00:00:00,2017,Noche,Laborable,Colision,Leve,Despejado,TETUAN                        ,CALLE DE LA INFANTA MERCEDES - CALLE DE SOR ANGELA DE LA CRUZ Madrid,-3.6965787000000003,40.460099
 2017-01-10 14:00:00,2017-01-10 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,SAN BLAS                      ,CALLE DE LA REPUBLICA CHECA NUM                                                                      1 Madrid,-3.6169642,40.4204115
 2017-01-10 18:00:00,2017-01-10 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,RETIRO                        ,CALLE DE MONTALBAN NUM                                                                               1 Madrid,-3.6920892,40.4182985
@@ -1512,7 +1484,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-01-21 20:00:00,2017-01-21 00:00:00,2017,Tarde,Vispera,Caida,Leve,Despejado,SALAMANCA                     ,CALLE DE GOYA NUM                                                                                    71 Madrid,-3.679259699999999,40.425189200000005
 2017-01-22 22:00:00,2017-01-22 00:00:00,2017,Noche,Festivo,Caida,Leve,Despejado,CHAMARTIN                     ,CALLE DE GUTIERREZ SOLANA - PASEO DE LA HABANA Madrid,-3.6873898,40.450385100000005
 2017-01-24 10:00:00,2017-01-24 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,RETIRO                        ,CALLE DE O'DONNELL NUM                                                                               44 Madrid,-3.6735727,40.421263
-2017-01-24 17:00:00,2017-01-24 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,MONCLOA-ARAVACA               ,CARRETERA DE RODAJOS Madrid,-3.7711595,40.4122529
 2017-01-25 16:00:00,2017-01-25 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,RETIRO                        ,AVENIDA DEL MEDITERRANEO NUM                                                                         16 Madrid,-3.6759285000000004,40.40697730000001
 2017-01-25 20:00:00,2017-01-25 00:00:00,2017,Tarde,Laborable,Imprudencia,Leve,Despejado,CENTRO                        ,PLAZA DEL EMPERADOR CARLOS V NUM                                                                     8 Madrid,-3.693189,40.4084654
 2017-01-26 08:00:00,2017-01-26 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,HORTALEZA                     ,AVENIDA DE MACHUPICHU - CALLE DE JOSE MIGUEL GURIDI Madrid,-3.6343189999999987,40.460982400000006
@@ -1621,7 +1592,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-03-23 09:00:00,2017-03-23 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,PUENTE DE VALLECAS            ,CALLE DE MOHERNANDO - CALLE DE PIO FELIPE Madrid,-3.6499705000000002,40.3966449
 2017-03-23 21:00:00,2017-03-23 00:00:00,2017,Noche,Laborable,Caida,Leve,Despejado,ARGANZUELA                    ,PASEO DE SANTA MARIA DE LA CABEZA NUM                                                                23 Madrid,-3.6951152,40.405235299999994
 2017-03-24 21:00:00,2017-03-24 00:00:00,2017,Noche,Laborable,Colision,Grave,Despejado,CIUDAD LINEAL                 ,CALLE DE ALCALA NUM                                                                                  413 Madrid,-3.6393556000000005,40.43746779999999
-2017-03-25 08:00:00,2017-03-25 00:00:00,2017,Mañana,Vispera,Caida,Leve,Nieve,ARGANZUELA                    ,PASEO DE YESERIAS NUM                                                                                29 Madrid,-3.7088269,40.398959000000005
 2017-03-26 16:00:00,2017-03-26 00:00:00,2017,Tarde,Festivo,Imprudencia,Moderada,Despejado,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           299 Madrid,-3.697816099999999,40.462160100000006
 2017-03-27 19:00:00,2017-03-27 00:00:00,2017,Tarde,Laborable,Imprudencia,Moderada,Despejado,RETIRO                        ,PARQUE DEL RETIRO - PASEO DEL FERNAN NUÑEZ Madrid,-3.6802233999999996,40.4105042
 2017-03-28 14:00:00,2017-03-28 00:00:00,2017,Tarde,Laborable,Colision,Grave,Despejado,CARABANCHEL                   ,AVENIDA DE LA PESETA - CALLE DEL LUIS DE ORO Madrid,-3.7459099,40.36335820000001
@@ -1666,7 +1636,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-04-15 06:00:00,2017-04-15 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,ARGANZUELA                    ,PASEO DE LAS DELICIAS - PLAZA DE LUCA DE TENA Madrid,-3.6937981,40.4023674
 2017-04-15 11:00:00,2017-04-15 00:00:00,2017,Mañana,Laborable,Imprudencia,Grave,Despejado,HORTALEZA                     ,CARRIL  ANILLO VERDE CICLISTA KM.                                                                    7200 Madrid,-3.764952199999999,40.4006459
 2017-04-15 14:00:00,2017-04-15 00:00:00,2017,Tarde,Vispera,Caida,Leve,Despejado,CHAMBERI                      ,PLAZA DE ALONSO MARTINEZ NUM                                                                         3 Madrid,-3.6961418,40.4283092
-2017-04-16 17:00:00,2017-04-16 00:00:00,2017,Tarde,Festivo,Colision,Grave,Despejado,MONCLOA-ARAVACA               ,CALLE DE ANA TERESA - CALLE DE ANTONIO SANFIZ Madrid,-3.7880686000000003,40.4620711
 2017-04-17 16:00:00,2017-04-17 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DEL PUENTE DE SEGOVIA Madrid,-3.7231883999999997,40.4140308
 2017-04-20 23:00:00,2017-04-20 00:00:00,2017,Noche,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DEL OLIVAR NUM                                                                                 31 Madrid,-3.7014286,40.4101693
 2017-04-21 16:00:00,2017-04-21 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,CARABANCHEL                   ,AVENIDA DE LA PRINCESA JUANA DE AUSTRIA - AVENIDA DE LOS POBLADOS Madrid,-3.7193400000000003,40.37465
@@ -1692,7 +1661,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-05-03 00:00:00,2017-05-03 00:00:00,2017,Noche,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DE SAN ANDRES - CALLE DEL ESPIRITU SANTO Madrid,-3.7039160000000004,40.4254342
 2017-05-03 15:00:00,2017-05-03 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,CENTRO                        ,CALLE DE ALCALA - CALLE DEL MARQUES DE CASA RIERA Madrid,-3.696432799999999,40.41869620000001
 2017-05-04 10:00:00,2017-05-04 00:00:00,2017,Mañana,Laborable,Colision,Grave,Despejado,ARGANZUELA                    ,CALLE DE BERNARDINO OBREGON - CALLE DE PALOS DE LA FRONTERA Madrid,-3.699180799999999,40.40295689999999
-2017-05-04 16:00:00,2017-05-04 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,FUENCARRAL-EL PARDO           ,AVENIDA DEL PALACIO - CARRETERA DE PARDO A FUENCARRAL Madrid,-3.7382992999999995,40.5052499
 2017-05-04 17:00:00,2017-05-04 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,CIUDAD LINEAL                 ,CALLE DE ARTURO SORIA NUM                                                                            65 Madrid,-3.6457982,40.444657899999996
 2017-05-05 13:00:00,2017-05-05 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,LATINA                        ,CALLE DE ILLESCAS - CALLE DE VALMOJADO Madrid,-3.7582747000000003,40.3920206
 2017-05-06 10:00:00,2017-05-06 00:00:00,2017,Mañana,Laborable,Caida,Leve,Despejado,CHAMBERI                      ,CALLE DE JOSE ABASCAL NUM                                                                            48 Madrid,-3.6935064,40.4379943
@@ -1709,7 +1677,7 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-05-08 19:00:00,2017-05-08 00:00:00,2017,Tarde,Laborable,Imprudencia,Moderada,Despejado,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA - CALLE DE SECO Madrid,-3.6715486000000004,40.3995373
 2017-05-08 20:00:00,2017-05-08 00:00:00,2017,Tarde,Laborable,Imprudencia,Moderada,Despejado,CHAMARTIN                     ,CALLE DE LOPEZ DE HOYOS NUM                                                                          141 Madrid,-3.669414499999999,40.4476195
 2017-05-08 20:00:00,2017-05-08 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,SAN BLAS                      ,CALLE DE ALCALA - CALLE DE CRONOS Madrid,-3.6202919000000002,40.442691100000005
-2017-05-09 10:00:00,2017-05-09 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,FUENCARRAL-EL PARDO           ,AVENIDA DE SANTO DOMINGO DE LA CALZADA - AVENIDA DEL CAMINO DE SANTIAGO Madrid,-3.6694421999999998,40.507506400000004
+2017-05-09 10:00:00,2017-05-09 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,FUENCARRAL-EL PARDO           ,AVENIDA DE SANTO DOMINGO DE LA CALZADA - AVENIDA DEL CAMINO DE SANTIAGO Madrid,-3.6739337999999995,40.502638899999994
 2017-05-09 13:00:00,2017-05-09 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,MONCLOA-ARAVACA               ,CALLE DE ANICETO MARINAS NUM                                                                         16 Madrid,-3.722109999999999,40.4215552
 2017-05-09 21:00:00,2017-05-09 00:00:00,2017,Noche,Laborable,Colision,Leve,Despejado,ARGANZUELA                    ,CALLE DE LA ANTRACITA NUM                                                                            10 Madrid,-3.6898866000000003,40.3902078
 2017-05-09 21:00:00,2017-05-09 00:00:00,2017,Noche,Laborable,Caida,Leve,Despejado,SALAMANCA                     ,PASEO DE LA CASTELLANA NUM                                                                           46 Madrid,-3.6877199000000003,40.4342416
@@ -1722,7 +1690,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-05-11 02:00:00,2017-05-11 00:00:00,2017,Noche,Laborable,Caida,Leve,Lluvia,TETUAN                        ,CALLE DEL MARQUES DE VIANA - PASEO DE LA DIRECCION Madrid,-3.7064044999999997,40.464316700000005
 2017-05-12 07:00:00,2017-05-12 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,CARABANCHEL                   ,CALLE DEL GENERAL MARTIN CEREZO - CALLE DEL GENERAL RICARDOS Madrid,-3.7195552000000003,40.395715
 2017-05-12 10:00:00,2017-05-12 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,SAN BLAS                      ,CALLE DE JULIAN CAMARILLO NUM                                                                        46 Madrid,-3.619482,40.437612
-2017-05-12 12:00:00,2017-05-12 00:00:00,2017,Mañana,Laborable,Caida,Leve,Lluvia,LATINA                        ,AVENIDA DEL GENERAL FANJUL NUM                                                                       63 Madrid,-3.7723921000000002,40.38255729999999
 2017-05-12 14:00:00,2017-05-12 00:00:00,2017,Tarde,Laborable,Colision,Leve,Lluvia,CIUDAD LINEAL                 ,CALLE DE ALCALA - CALLE DEL DOCTOR VALLEJO Madrid,-3.6427568,40.43569069999999
 2017-05-12 16:00:00,2017-05-12 00:00:00,2017,Tarde,Laborable,Caida,Leve,Lluvia,MONCLOA-ARAVACA               ,AVENIDA  COMPLUTENSE NUM                                                                             12 Madrid,-3.7275877,40.4478955
 2017-05-13 21:00:00,2017-05-13 00:00:00,2017,Noche,Vispera,Caida,Leve,Despejado,RETIRO                        ,PARQUE DEL RETIRO Madrid,-3.6844995000000003,40.4152606
@@ -1883,7 +1850,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-07-14 08:00:00,2017-07-14 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,SAN BLAS                      ,CALLE DE MEQUINENZA NUM                                                                              12 Madrid,-3.605516499999999,40.4484328
 2017-07-14 08:00:00,2017-07-14 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,SAN BLAS                      ,CALLE DE MEQUINENZA NUM                                                                              12 Madrid,-3.605516499999999,40.4484328
 2017-07-14 14:00:00,2017-07-14 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DE ALCALA NUM                                                                                  48 Madrid,-3.6948933,40.41831129999999
-2017-07-14 21:00:00,2017-07-14 00:00:00,2017,Noche,Vispera,Imprudencia,Moderada,Despejado,MONCLOA-ARAVACA               ,CARRETERA DE RODAJOS Madrid,-3.7711595,40.4122529
 2017-07-16 01:00:00,2017-07-16 00:00:00,2017,Noche,Festivo,Colision,Leve,Despejado,RETIRO                        ,AVENIDA DE LA CIUDAD DE BARCELONA - CALLE DE LEON GIL DE PALACIO Madrid,-3.6785544000000003,40.4032881
 2017-07-16 13:00:00,2017-07-16 00:00:00,2017,Tarde,Festivo,Caida,Leve,Despejado,USERA                         ,CALLE DE MANUEL NOYA NUM                                                                             19 Madrid,-3.7124427000000004,40.38630939999999
 2017-07-16 16:00:00,2017-07-16 00:00:00,2017,Tarde,Festivo,Imprudencia,Moderada,Despejado,CARABANCHEL                   ,CALLE DEL GENERAL RICARDOS NUM                                                                       3 Madrid,-3.7165855000000003,40.39718320000001
@@ -1908,7 +1874,7 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-07-26 15:00:00,2017-07-26 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,VILLA DE VALLECAS             ,CALLE DE VALDERREBOLLO NUM                                                                           18 Madrid,-3.627955899999999,40.373437599999995
 2017-07-26 19:00:00,2017-07-26 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,ARGANZUELA                    ,CALLE DE MENDEZ ALVARO NUM                                                                           78 Madrid,-3.6783078000000002,40.393293
 2017-07-26 20:00:00,2017-07-26 00:00:00,2017,Tarde,Laborable,Imprudencia,Leve,Despejado,MORATALAZ                     ,CALLE DEL CAMINO DE LOS VINATEROS - PLAZA DEL CORREGIDOR ALONSO DE TOBAR Madrid,-3.6455594,40.4081271
-2017-07-27 12:00:00,2017-07-27 00:00:00,2017,Mañana,Laborable,Caida,Leve,Despejado,MORATALAZ                     ,AVENIDA DEL DOCTOR GARCIA TAPIA - CALLE DE FELIX RODRIGUEZ DE LA FUENTE Madrid,-3.6413044,40.4100086
+2017-07-27 12:00:00,2017-07-27 00:00:00,2017,Mañana,Laborable,Caida,Leve,Despejado,MORATALAZ                     ,AVENIDA DEL DOCTOR GARCIA TAPIA - CALLE DE FELIX RODRIGUEZ DE LA FUENTE Madrid,-3.6306643,40.4080615
 2017-07-27 14:00:00,2017-07-27 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DE ALCALA NUM                                                                                  40 Madrid,-3.6968156000000003,40.41838920000001
 2017-07-27 18:00:00,2017-07-27 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,MONCLOA-ARAVACA               ,PASEO DE RUPERTO CHAPI Madrid,-3.7234957000000004,40.4343928
 2017-07-28 18:00:00,2017-07-28 00:00:00,2017,Tarde,Laborable,Imprudencia,Moderada,Despejado,LATINA                        ,CALLE DE LAS HIGUERAS NUM                                                                            11 Madrid,-3.7433491,40.40731419999999
@@ -1948,7 +1914,7 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-08-20 21:00:00,2017-08-20 00:00:00,2017,Noche,Festivo,Colision,Leve,Despejado,MONCLOA-ARAVACA               ,PARQUE DE LA CASA DE CAMPO - PASEO DEL EMBARCADERO Madrid,-3.7488366,40.4197419
 2017-08-20 21:00:00,2017-08-20 00:00:00,2017,Noche,Festivo,Colision,Leve,Despejado,MONCLOA-ARAVACA               ,PARQUE DE LA CASA DE CAMPO - PASEO DEL EMBARCADERO Madrid,-3.7488366,40.4197419
 2017-08-21 10:00:00,2017-08-21 00:00:00,2017,Mañana,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DE SEGOVIA - CUESTA DE LA VEGA Madrid,-3.716856899999999,40.4139115
-2017-08-21 19:00:00,2017-08-21 00:00:00,2017,Tarde,Laborable,Imprudencia,Leve,Despejado,VILLA DE VALLECAS             ,CALLE  REAL DE ARGANDA - CALLE DE POZA DE LA SAL Madrid,-3.6068016000000003,40.3781829
+2017-08-21 19:00:00,2017-08-21 00:00:00,2017,Tarde,Laborable,Imprudencia,Leve,Despejado,VILLA DE VALLECAS             ,CALLE  REAL DE ARGANDA - CALLE DE POZA DE LA SAL Madrid,-3.6067258,40.3782211
 2017-08-22 08:00:00,2017-08-22 00:00:00,2017,Mañana,Laborable,Caida,Leve,Despejado,VILLAVERDE                    ,CALLE DE LA LAGUNA DEL MARQUESADO - CALLE DE LA RESINA Madrid,-3.710697199999999,40.3357318
 2017-08-22 08:00:00,2017-08-22 00:00:00,2017,Mañana,Laborable,Caida,Leve,Despejado,VILLAVERDE                    ,CALLE DE LA LAGUNA DEL MARQUESADO - CALLE DE LA RESINA Madrid,-3.710697199999999,40.3357318
 2017-08-22 08:00:00,2017-08-22 00:00:00,2017,Mañana,Laborable,Caida,Leve,Despejado,VILLAVERDE                    ,CALLE DE LA LAGUNA DEL MARQUESADO - CALLE DE LA RESINA Madrid,-3.710697199999999,40.3357318
@@ -1959,7 +1925,7 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-08-24 16:00:00,2017-08-24 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,TETUAN                        ,CALLE DE BRAVO MURILLO NUM                                                                           101 Madrid,-3.7040748,40.4475018
 2017-08-26 10:00:00,2017-08-26 00:00:00,2017,Mañana,Vispera,Caida,Leve,Despejado,ARGANZUELA                    ,RONDA DE SEGOVIA NUM                                                                                 2 Madrid,-3.7177114999999996,40.4098548
 2017-08-27 14:00:00,2017-08-27 00:00:00,2017,Tarde,Festivo,Caida,Leve,Lluvia,TETUAN                        ,PASEO DE LA CASTELLANA NUM                                                                           117 Madrid,-3.6909308,40.457133899999995
-2017-08-28 10:00:00,2017-08-28 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,VILLA DE VALLECAS             ,AUTOVIA  M-45 - AVENIDA DEL ENSANCHE DE VALLECAS Madrid,-3.7304271,40.333459399999995
+2017-08-28 10:00:00,2017-08-28 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,VILLA DE VALLECAS             ,AUTOVIA  M-45 - AVENIDA DEL ENSANCHE DE VALLECAS Madrid,-3.6101669999999997,40.36256289999999
 2017-08-29 11:00:00,2017-08-29 00:00:00,2017,Mañana,Laborable,Imprudencia,Leve,Despejado,LATINA                        ,AVENIDA DE PORTUGAL NUM                                                                              67 Madrid,-3.7284230000000003,40.41467720000001
 2017-08-30 20:00:00,2017-08-30 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,VILLA DE VALLECAS             ,CALLE  REAL DE ARGANDA NUM                                                                           78 Madrid,-3.6040636,40.3760954
 2017-08-31 13:00:00,2017-08-31 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,CENTRO                        ,GLORIETA DE RUIZ JIMENEZ NUM                                                                         1 Madrid,-3.706304899999999,40.4293535
@@ -1991,11 +1957,10 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-09-12 15:00:00,2017-09-12 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,CHAMARTIN                     ,CALLE DEL PRINCIPE DE VERGARA NUM                                                                    132 Madrid,-3.6778181000000005,40.443285100000004
 2017-09-12 19:00:00,2017-09-12 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,RETIRO                        ,CALLE DEL DOCTOR ESQUERDO - PLAZA DEL CONDE DE CASAL Madrid,-3.6700977,40.4068699
 2017-09-12 20:00:00,2017-09-12 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,MONCLOA-ARAVACA               ,CALLE DE ANTONIO MACHADO - CALLE DE FRANCOS RODRIGUEZ Madrid,-3.7190627999999997,40.4595378
-2017-09-13 19:00:00,2017-09-13 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,FUENCARRAL-EL PARDO           ,CARRETERA DE COLMENAR NUM                                                                            12 Madrid,-3.7821445,40.53274329999999
 2017-09-13 20:00:00,2017-09-13 00:00:00,2017,Tarde,Laborable,Caida,Grave,Despejado,CENTRO                        ,CALLE DE SEGOVIA NUM                                                                                 21 Madrid,-3.7131411,40.413800200000004
 2017-09-15 02:00:00,2017-09-15 00:00:00,2017,Noche,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE DEL CONDE DE ROMANONES NUM                                                                     10 Madrid,-3.7050463,40.41311339999999
 2017-09-15 22:00:00,2017-09-15 00:00:00,2017,Noche,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA               ,CALLE DEL MARQUES DE URQUIJO NUM                                                                     10 Madrid,-3.7173229,40.430458
-2017-09-16 12:00:00,2017-09-16 00:00:00,2017,Mañana,Laborable,Caida,Leve,Despejado,PUENTE DE VALLECAS            ,CARRETERA DE VILLAVERDE A VALLECAS KM.                                                               4800 Madrid,-3.6542068,40.3661732
+2017-09-16 12:00:00,2017-09-16 00:00:00,2017,Mañana,Laborable,Caida,Leve,Despejado,PUENTE DE VALLECAS            ,CARRETERA DE VILLAVERDE A VALLECAS KM.                                                               4800 Madrid,-3.6875725,40.35555919999999
 2017-09-16 14:00:00,2017-09-16 00:00:00,2017,Tarde,Vispera,Caida,Leve,Despejado,CENTRO                        ,CALLE DE SAN BERNARDO NUM                                                                            87 Madrid,-3.7062896,40.4285814
 2017-09-17 02:00:00,2017-09-17 00:00:00,2017,Noche,Festivo,Caida,Leve,Despejado,CENTRO                        ,GRAN VIA DE SAN FRANCISCO NUM                                                                        1 Madrid,-3.7121513,40.40714129999999
 2017-09-17 04:00:00,2017-09-17 00:00:00,2017,Noche,Festivo,Caida,Leve,Despejado,CHAMBERI                      ,AVENIDA DE LA REINA VICTORIA - AVENIDA DE PABLO IGLESIAS Madrid,-3.7082381,40.4471566
@@ -2021,8 +1986,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-09-22 17:00:00,2017-09-22 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,HORTALEZA                     ,AVENIDA DE FRANCISCO JAVIER SÁENZ DE OIZA - AVENIDA DE MANUEL FRAGA IRIBARNE Madrid,-3.6565912000000003,40.4993519
 2017-09-22 18:00:00,2017-09-22 00:00:00,2017,Tarde,Laborable,Imprudencia,Leve,Despejado,SAN BLAS                      ,CALLE DE RUFINO GONZALEZ NUM                                                                         23 Madrid,-3.626685999999999,40.4383347
 2017-09-23 01:00:00,2017-09-23 00:00:00,2017,Noche,Laborable,Caida,Leve,Despejado,SALAMANCA                     ,PASEO DE LA CASTELLANA - PLAZA DE COLON Madrid,-3.6903211000000002,40.4257004
-2017-09-23 11:00:00,2017-09-23 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA               ,CAMINO DEL HUMERA Madrid,-3.7774542999999996,40.4060214
-2017-09-23 11:00:00,2017-09-23 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA               ,CAMINO DEL HUMERA Madrid,-3.7774542999999996,40.4060214
 2017-09-23 12:00:00,2017-09-23 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA               ,PASEO DE MEDIANIL Madrid,-3.7037902000000003,40.4167754
 2017-09-23 12:00:00,2017-09-23 00:00:00,2017,Mañana,Laborable,Colision,Moderada,Despejado,MONCLOA-ARAVACA               ,PASEO DE MEDIANIL Madrid,-3.7037902000000003,40.4167754
 2017-09-23 13:00:00,2017-09-23 00:00:00,2017,Tarde,Laborable,Imprudencia,Moderada,Despejado,TETUAN                        ,PARQUE DE AGUSTIN RODRIGUEZ SAHAGUN Madrid,-3.7097365,40.466739000000004
@@ -2160,7 +2123,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-11-09 09:00:00,2017-11-09 00:00:00,2017,Mañana,Festivo,Colision,Leve,Despejado,RETIRO                        ,PASEO DEL PRADO NUM                                                                                  3 Madrid,-3.6927336000000004,40.4177611
 2017-11-10 01:00:00,2017-11-10 00:00:00,2017,Noche,Laborable,Colision,Leve,Despejado,CENTRO                        ,CALLE DE LA COLEGIATA NUM                                                                            2 Madrid,-3.7053467,40.4127262
 2017-11-10 10:00:00,2017-11-10 00:00:00,2017,Mañana,Laborable,Colision,Grave,Despejado,FUENCARRAL-EL PARDO           ,CALLE DE LAS ISLAS ALEUTIANAS - CALLE DE OTERO Y DELAGE Madrid,-3.7291605000000003,40.4761717
-2017-11-10 14:00:00,2017-11-10 00:00:00,2017,Tarde,Laborable,Colision,Leve,Despejado,MONCLOA-ARAVACA               ,AVENIDA DE LA OSA MAYOR - CALLE DE CEREZUELA Madrid,-3.7857184999999998,40.4593015
 2017-11-10 19:00:00,2017-11-10 00:00:00,2017,Tarde,Laborable,Imprudencia,Moderada,Despejado,CARABANCHEL                   ,CALLE DE ALZINA - CALLE DE GOMEZ DE ARTECHE Madrid,-3.7558086999999998,40.369187
 2017-11-11 21:00:00,2017-11-11 00:00:00,2017,Noche,Vispera,Imprudencia,Leve,Despejado,VILLA DE VALLECAS             ,CALLE DEL CONGOSTO NUM                                                                               1 Madrid,-3.6202395,40.3760609
 2017-11-12 10:00:00,2017-11-12 00:00:00,2017,Mañana,Festivo,Colision,Leve,Despejado,SALAMANCA                     ,CALLE DEL PRINCIPE DE VERGARA NUM                                                                    87 Madrid,-3.6796163,40.4363076
@@ -2229,6 +2191,6 @@ fecha,dia,year,horario,festividad,tipo_accidente,lesividad,meteo,distrito,direcc
 2017-12-23 19:00:00,2017-12-23 00:00:00,2017,Tarde,Laborable,Caida,Leve,Despejado,CENTRO                        ,CALLE  GRAN VIA NUM                                                                                  65 Madrid,-3.7100065000000004,40.4225901
 2017-12-26 18:00:00,2017-12-26 00:00:00,2017,Tarde,Laborable,Colision,Leve,Lluvia,RETIRO                        ,AVENIDA DE MENENDEZ PELAYO - CALLE DEL DOCE DE OCTUBRE Madrid,-3.6778476,40.415537
 2017-12-27 00:00:00,2017-12-27 00:00:00,2017,Noche,Laborable,Caida,Leve,Lluvia,CHAMBERI                      ,CALLE DE FUENCARRAL NUM                                                                              111 Madrid,-3.7028407,40.429486600000004
-2017-12-29 07:00:00,2017-12-29 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,BARAJAS                       ,AVENIDA  SUR DEL AEROPUERTO DE BARAJAS - AVENIDA DE LA HISPANIDAD Madrid,-3.5783824999999996,40.450783799999996
+2017-12-29 07:00:00,2017-12-29 00:00:00,2017,Mañana,Laborable,Colision,Leve,Despejado,BARAJAS                       ,AVENIDA  SUR DEL AEROPUERTO DE BARAJAS - AVENIDA DE LA HISPANIDAD Madrid,-3.570788,40.4413333
 2017-12-30 11:00:00,2017-12-30 00:00:00,2017,Mañana,Vispera,Caida,Leve,Despejado,CENTRO                        ,CALLE DE LA MADERA NUM                                                                               51 Madrid,-3.7032951,40.42476920000001
 2017-12-31 21:00:00,2017-12-31 00:00:00,2017,Noche,Festivo,Colision,Leve,Lluvia,CHAMBERI                      ,PASEO DE EDUARDO DATO NUM                                                                            2 Madrid,-3.6962013,40.432460999999996

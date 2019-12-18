@@ -48,11 +48,22 @@ for i in range(len(bici)):
         lon = None
         print('At least I tried')
 print('Done')
+
+print('Last cleaning...')
 bici.dropna(inplace=True)
 bici['year'] = bici.dia.dt.year
 bici = bici[['fecha', 'dia', 'year', 'horario', 'festividad', 'tipo_accidente',
              'lesividad', 'meteo', 'distrito', 'direccion', 'lon', 'lat']]
 
-print('Saving .csv in: input/clean_data/bici.csv')
-bici.to_csv('input/clean_data/bici.csv', index=False)
+print('Saving .csv in: input/clean_data/bici_problem.csv')
+bici.to_csv('input/clean_data/bici_problem.csv', index=False)
+print('Done')
+
+bici = pd.read_csv('input/clean_data/bici_problem.csv')
+bici = bici[bici.meteo != 'Nieve']
+bici = bici[(bici.lat < 40.53) & (bici.lat > 40.33)]
+bici = bici[(bici.lon < -3.57) & (bici.lon > -3.77)]
+
+print('Saving .csv in: input/clean_data/bici_clean.csv')
+bici.to_csv('input/clean_data/bici_clean.csv', index=False)
 print('Done')
