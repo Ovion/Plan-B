@@ -31,6 +31,17 @@ def create():
     coll.acc.create_index([('localizacion', pymongo.GEOSPHERE)])
     return 'Doc Inserted'
 
+# ----
+@app.route('/create/pred', methods=['POST'])
+def create_pred():
+    lon = round(float(request.form.get('lon')), 6)
+    lat = round(float(request.form.get('lat')), 6)
+    weight = round(float(request.form.get('weights')), 1)
+    coll.create_pred(lon, lat, weight)
+    coll.pred.create_index([('localizacion', pymongo.GEOSPHERE)])
+    return 'Pred Inserted'
+# -----
+
 
 @app.route('/historical')
 def historical():
