@@ -32,7 +32,7 @@ def prepare_to_predict(hour, day, lon_a, lat_a, lon_b, lat_b, weather):
     horario = num_horario(hour)
 
     cal = pd.read_csv('input/clean_data/cal_clean.csv')
-    fest_cat = cal[cal.dia == day]['festividad']
+    fest_cat = cal[cal.dia == day]['festividad'].values[0]
     fest = num_fest(fest_cat)
 
     lats = [lat_a, lat_b]
