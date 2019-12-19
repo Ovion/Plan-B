@@ -88,7 +88,8 @@ def get_coord_dir_pred():
         horario_cat, day, lon_a, lat_a, lon_b, lat_b, weather)
     data_to_map = sandro.pred_y_buenas_noches(data)
 
-    folium_map = fmaps.print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
+    folium_map = fmaps.print_heat_map_pred(
+        data_to_map, lat_a, lon_a, lat_b, lon_b)
     return folium_map._repr_html_()
 
 # Deprecate
