@@ -5,8 +5,8 @@ import pandas as pd
 from atlas_mongo.Mongo import ConectColl
 import atlas_mongo.folium_maps as fmaps
 import atlas_mongo.external_api as exa
-import src.machine.prepare_data as mppd
-import src.machine.sandro_rey as sandro
+import machine.prepare_data as mppd
+import machine.sandro_rey as sandro
 
 app = Flask(__name__)
 
