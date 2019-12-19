@@ -19,11 +19,12 @@ bici = pd.concat([bici_19, bici_18, bici_17], ignore_index=True)
 bici = fnt.horario(bici)
 
 cal = fnt.clean_calendar(cal)
+for i in range(0, cal.shape[0]-1):
+    if (cal.iat[i, cal.columns.get_loc('festividad')] == 'Laborable' and cal.iat[i+1, cal.columns.get_loc('festividad')] == 'Festivo'):
+        cal.iat[i, cal.columns.get_loc('festividad')] = 'Vispera'
+cal.to_csv('input/clean_data/cal_clean.csv', index=False)
 
 bici = bici.merge(cal, how='left', on='dia')
-for i in range(0, bici.shape[0]-1):
-    if (bici.iat[i, bici.columns.get_loc('festividad')] == 'Laborable' and bici.iat[i+1, bici.columns.get_loc('festividad')] == 'Festivo'):
-        bici.iat[i, bici.columns.get_loc('festividad')] = 'Vispera'
 
 bici = fnt.prepare_to_google(bici)
 print('Done')
