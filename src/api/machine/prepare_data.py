@@ -39,7 +39,7 @@ def prepare_to_predict(hour, day, lon_a, lat_a, lon_b, lat_b, weather):
     lons = [lon_a, lon_b]
 
     df = pd.DataFrame(columns=['horario', 'festividad',
-                               'lon', 'lat', 'Despejado', 'Lluvia', 'Nublado'])
+                               'lon', 'lat', 'Despejado', 'Lluvia', 'Niebla'])
 
     min_lat = int((min(lats)-0.003)*1000)
     max_lat = int((max(lats)+0.003)*1000)
