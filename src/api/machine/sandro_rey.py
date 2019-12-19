@@ -11,7 +11,9 @@ def pred_y_buenas_noches(X):
     knc = joblib.load('output/pred/model_knc_brute_uni.pkl')
     y_pred = knc.predict(X)
     df['lesividad'] = y_pred
+    df = df[df.lesividad != 'Leve']
     df.to_csv('output/X_to_pred.csv', index=False)
     df['weights'] = df.lesividad.apply(
-        lambda x: 0 if x == 'Leve' else (5 if x == 'Moderada' else 10))
+        lambda x: 3 if x == 'Moderada' else 5)
+
     return df
