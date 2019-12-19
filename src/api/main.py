@@ -78,14 +78,13 @@ def get_coord_dir_pred():
     pto_a = request.form.get('pto_a')
     pto_b = request.form.get('pto_b')
     horario_cat = request.form.get('horario')
-    horario = mppd.num_horario(horario_cat)
+
     lat_a, lon_a = exa.get_coord_dir(pto_a)
     lat_b, lon_b = exa.get_coord_dir(pto_b)
-
     weather, day = exa.get_weather_day()
-    cal = pd.read_csv('input/clean_data/cal_clean.csv')
-    fest_cat = cal[cal.dia == day]['festividad']
-    fest = mppd.num_fest(fest_cat)
+
+    data = mppd.prepare_to_predict(
+        horario_cat, day, lon_a, lat_a, lon_b, lat_b, weather)
 
     folium_map = fmaps.print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
     return folium_map._repr_html_()
