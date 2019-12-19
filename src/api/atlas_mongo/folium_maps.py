@@ -79,6 +79,15 @@ def print_heat_map(coll):
     return heat_map
 
 
+def print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b):
+    heat_map = create_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
+    heat_map.save(f'output/heat_map.html')
+    return heat_map
+
+
+# Deprecate
+
+
 def print_heat_map_h(coll, interh):
     bicis = coll.acc.find({"horario": interh})
     accidents = create_df_coords(bicis)
@@ -92,10 +101,4 @@ def print_heat_map_i(coll, injury):
     accidents = create_df_coords(bicis)
     heat_map = create_map(accidents)
     heat_map.save(f'output/heat_map_{injury}.html')
-    return heat_map
-
-
-def print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b):
-    heat_map = create_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
-    heat_map.save(f'output/heat_map.html')
     return heat_map
