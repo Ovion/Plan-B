@@ -66,7 +66,7 @@ def create_map_dir(coll, lat_a, lon_a, lat_b, lon_b):
     manana_group.add_to(heat_m)
     tarde_group.add_to(heat_m)
     noche_group.add_to(heat_m)
-    folium.LayerControl(collapsed=True).add_to(heat_m)
+    folium.LayerControl(collapsed=False).add_to(heat_m)
 
     return heat_m
 
@@ -77,6 +77,15 @@ def print_heat_map(coll):
     heat_map = create_map(accidents)
     heat_map.save(f'output/heat_map.html')
     return heat_map
+
+
+def print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b):
+    heat_map = create_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
+    heat_map.save(f'output/heat_map.html')
+    return heat_map
+
+
+# Deprecate
 
 
 def print_heat_map_h(coll, interh):
@@ -92,10 +101,4 @@ def print_heat_map_i(coll, injury):
     accidents = create_df_coords(bicis)
     heat_map = create_map(accidents)
     heat_map.save(f'output/heat_map_{injury}.html')
-    return heat_map
-
-
-def print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b):
-    heat_map = create_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
-    heat_map.save(f'output/heat_map.html')
     return heat_map

@@ -12,9 +12,15 @@ class ConectColl:
         self.client = MongoClient(ATLAS_KEY)
         self.db = self.client['Bycicle_Accidents']
         self.acc = self.db['Historical']
+        self.pred = self.db['Prediction']
 
     def add_doc(self, docu):
         self.acc.insert_one(docu)
+
+# ---
+    def add_doc_pred(self, docu):
+        self.pred.insert_one(docu)
+# ---
 
     def create(self, fecha, year, horario, festividad, tipo_accidente, lesividad, meteo, distrito, direccion, lon, lat):
         document = {
@@ -33,3 +39,15 @@ class ConectColl:
             }
         }
         return self.add_doc(document)
+
+# ----
+    def create_pred(self, lon, lat, weight):
+        document = {
+            'Weights': weight,
+            'localizacion': {
+                'type': 'Point',
+                'coordinates': [lon, lat]
+            }
+        }
+        return self.add_doc_pred(document)
+# ---
