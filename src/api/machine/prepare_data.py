@@ -29,11 +29,11 @@ def prepare_df(data):
 
 
 def prepare_to_predict(hour, day, lon_a, lat_a, lon_b, lat_b, weather):
-    horario = num_horario(hour)
+    horario = int(num_horario(hour))
 
     cal = pd.read_csv('input/clean_data/cal_clean.csv')
     fest_cat = cal[cal.dia == day]['festividad'].values[0]
-    fest = num_fest(fest_cat)
+    fest = int(num_fest(fest_cat))
 
     lats = [lat_a, lat_b]
     lons = [lon_a, lon_b]
@@ -54,9 +54,9 @@ def prepare_to_predict(hour, day, lon_a, lat_a, lon_b, lat_b, weather):
                 'festividad': fest,
                 'lon': lon/1000,
                 'lat': lat/1000,
-                'Despejado': 1 if weather == 'Despejado' else 0,
-                'Lluvia': 1 if weather == 'Lluvia' else 0,
-                'Niebla': 1 if weather == 'Niebla' else 0,
+                'Despejado': int(1 if weather == 'Despejado' else 0),
+                'Lluvia': int(1 if weather == 'Lluvia' else 0),
+                'Niebla': int(1 if weather == 'Niebla' else 0),
             }, ignore_index=True)
 
     return df

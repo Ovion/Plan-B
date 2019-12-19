@@ -86,7 +86,7 @@ def get_coord_dir_pred():
 
     data = mppd.prepare_to_predict(
         horario_cat, day, lon_a, lat_a, lon_b, lat_b, weather)
-    data.to_csv('output/X_to_pred.csv', index=False)
+    # data.to_csv('output/X_to_pred.csv', index=False)
     data_to_map = sandro.pred_y_buenas_noches(data)
 
     folium_map = fmaps.print_heat_map_pred(
