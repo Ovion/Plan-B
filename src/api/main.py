@@ -1,9 +1,11 @@
 from flask import Flask, request, render_template
 import pymongo
-from atlas_mongo.Mongo import ConectColl
+import pandas as pd
 
+from atlas_mongo.Mongo import ConectColl
 import atlas_mongo.folium_maps as fmaps
 import atlas_mongo.external_api as exa
+import src.machine.prepare_data as mppd
 
 app = Flask(__name__)
 
@@ -75,8 +77,16 @@ def insert_dir_pred():
 def get_coord_dir_pred():
     pto_a = request.form.get('pto_a')
     pto_b = request.form.get('pto_b')
+    horario_cat = request.form.get('horario')
+    horario = mppd.num_horario(horario_cat)
     lat_a, lon_a = exa.get_coord_dir(pto_a)
     lat_b, lon_b = exa.get_coord_dir(pto_b)
+
+    weather, day = exa.get_weather_day()
+    cal = pd.read_csv('input/clean_data/cal_clean.csv')
+    fest_cat = cal[cal.dia == day]['festividad']
+    fest = mppd.num_fest(fest_cat)
+
     folium_map = fmaps.print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
     return folium_map._repr_html_()
 

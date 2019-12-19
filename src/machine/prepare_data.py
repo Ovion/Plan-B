@@ -24,5 +24,9 @@ def prepare_df(data):
                'distrito', 'direccion'], axis=1, inplace=True)
     data.horario = data.horario.apply(lambda x: num_horario(x))
     data.festividad = data.festividad.apply(lambda x: num_fest(x))
-    data = pd.get_dummies(data, columns=['meteo'])
+    data = pd.get_dummies(data, columns=['meteo'], prefix_sep='', prefix='')
     return data
+
+
+def prepare_to_predict(hour, day, lon_a, lat_a, lon_b, lat_b, weather):
+    return df
