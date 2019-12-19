@@ -41,19 +41,19 @@ def prepare_to_predict(hour, day, lon_a, lat_a, lon_b, lat_b, weather):
     df = pd.DataFrame(columns=['horario', 'festividad',
                                'lon', 'lat', 'Despejado', 'Lluvia', 'Niebla'])
 
-    min_lat = int((min(lats)-0.003)*1000)
-    max_lat = int((max(lats)+0.003)*1000)
+    min_lat = int((min(lats)-0.01)*2000)
+    max_lat = int((max(lats)+0.01)*2000)
 
-    min_lon = int((min(lons)-0.003)*1000)
-    max_lon = int((max(lons)+0.003)*1000)
+    min_lon = int((min(lons)-0.01)*2000)
+    max_lon = int((max(lons)+0.01)*2000)
 
     for lat in range(min_lat, max_lat):
         for lon in range(min_lon, max_lon):
             df = df.append({
                 'horario': horario,
                 'festividad': fest,
-                'lon': lon/1000,
-                'lat': lat/1000,
+                'lon': lon/2000,
+                'lat': lat/2000,
                 'Despejado': int(1 if weather == 'Despejado' else 0),
                 'Lluvia': int(1 if weather == 'Lluvia' else 0),
                 'Niebla': int(1 if weather == 'Niebla' else 0),
