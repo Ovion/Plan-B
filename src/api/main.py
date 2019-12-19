@@ -71,7 +71,7 @@ def get_coord_dir():
 
 @app.route('/prediction/direction', methods=['GET'])
 def insert_dir_pred():
-    return render_template('direction.html')
+    return render_template('prediction.html')
 
 
 @app.route('/prediction/direction', methods=['POST'])
