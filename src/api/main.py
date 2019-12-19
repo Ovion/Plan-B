@@ -1,9 +1,12 @@
 from flask import Flask, request, render_template
 import pymongo
-from atlas_mongo.Mongo import ConectColl
+import pandas as pd
 
+from atlas_mongo.Mongo import ConectColl
 import atlas_mongo.folium_maps as fmaps
 import atlas_mongo.external_api as exa
+import machine.prepare_data as mppd
+import machine.sandro_rey as sandro
 
 app = Flask(__name__)
 
@@ -68,16 +71,26 @@ def get_coord_dir():
 
 @app.route('/prediction/direction', methods=['GET'])
 def insert_dir_pred():
-    return render_template('direction.html')
+    return render_template('prediction.html')
 
 
 @app.route('/prediction/direction', methods=['POST'])
 def get_coord_dir_pred():
     pto_a = request.form.get('pto_a')
     pto_b = request.form.get('pto_b')
+    horario_cat = request.form.get('horario')
+
     lat_a, lon_a = exa.get_coord_dir(pto_a)
     lat_b, lon_b = exa.get_coord_dir(pto_b)
-    folium_map = fmaps.print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
+    weather, day = exa.get_weather_day()
+
+    data = mppd.prepare_to_predict(
+        horario_cat, day, lon_a, lat_a, lon_b, lat_b, weather)
+    # data.to_csv('output/X_to_pred.csv', index=False)
+    data_to_map = sandro.pred_y_buenas_noches(data)
+
+    folium_map = fmaps.print_heat_map_pred(
+        data_to_map, lat_a, lon_a, lat_b, lon_b)
     return folium_map._repr_html_()
 
 # Deprecate

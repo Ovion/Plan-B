@@ -26,7 +26,6 @@ def create_map(df):
 
     # Add a heatmap to the base map
     HeatMap(data=df[['Lat', 'Lon', 'Weights']], radius=15).add_to(heat_m)
-
     return heat_m
 
 
@@ -85,6 +84,17 @@ def print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b):
     return heat_map
 
 
+def print_heat_map_pred(df, lat_a, lon_a, lat_b, lon_b):
+    start_lat = round((lat_a+lat_b)/2, 7)
+    start_lon = round((lon_b+lon_a)/2, 7)
+    heat_map = folium.Map(location=[start_lat, start_lon],
+                          tiles='cartodbpositron', zoom_start=15)
+    HeatMap(data=df[['lat', 'lon', 'weights']], radius=15).add_to(heat_map)
+    heat_map.add_child(
+        Marker(location=[lat_a, lon_a], icon=folium.Icon(color='red')))
+    heat_map.add_child(
+        Marker(location=[lat_b, lon_b], icon=folium.Icon(color='red')))
+    return heat_map
 # Deprecate
 
 
