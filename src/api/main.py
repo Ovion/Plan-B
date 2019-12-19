@@ -6,6 +6,7 @@ from atlas_mongo.Mongo import ConectColl
 import atlas_mongo.folium_maps as fmaps
 import atlas_mongo.external_api as exa
 import src.machine.prepare_data as mppd
+import src.machine.sandro_rey as sandro
 
 app = Flask(__name__)
 
@@ -85,6 +86,7 @@ def get_coord_dir_pred():
 
     data = mppd.prepare_to_predict(
         horario_cat, day, lon_a, lat_a, lon_b, lat_b, weather)
+    data_to_map = sandro.pred_y_buenas_noches(data)
 
     folium_map = fmaps.print_heat_map_dir(coll, lat_a, lon_a, lat_b, lon_b)
     return folium_map._repr_html_()
