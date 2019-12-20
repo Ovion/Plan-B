@@ -14,6 +14,6 @@ def pred_y_buenas_noches(X):
     df = df[df.lesividad != 'Leve']
     df.to_csv('output/X_to_pred.csv', index=False)
     df['weights'] = df.lesividad.apply(
-        lambda x: 3 if x == 'Moderada' else 5)
+        lambda x: 1 if x == 'Moderada' else 2)
 
     return df
