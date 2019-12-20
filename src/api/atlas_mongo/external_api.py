@@ -37,7 +37,7 @@ def get_weather_day():
     dict_weather = {
         '01': 'Despejado', '02': 'Despejado', '03': 'Despejado', '04': 'Despejado',
         '09': 'Lluvia', '10': 'Lluvia', '11': 'Lluvia', '13': 'Lluvia',
-        '50': 'Niebla'}
+        '50': 'Lluvia'}
     w = dict_weather[w_num]
     date = jeison['data']['current']['weather']['ts']
     d = re.findall(r"\d+-\d+-\d+", date)[0]

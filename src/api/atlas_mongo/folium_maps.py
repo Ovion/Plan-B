@@ -14,7 +14,7 @@ def create_df_coords(datas):
         df = df.append({
             'Lat': data['localizacion']['coordinates'][1],
             'Lon': data['localizacion']['coordinates'][0],
-            'Weights': 0.2 if data['lesividad'] == 'Leve' else (5 if data['lesividad'] == 'Moderada' else 10)
+            'Weights': 0.2 if data['lesividad'] == 'Leve' else (2 if data['lesividad'] == 'Moderada' else 3)
         }, ignore_index=True)
     return df
 
@@ -43,9 +43,9 @@ def create_map_dir(coll, lat_a, lon_a, lat_b, lon_b):
     noche_group = folium.FeatureGroup(name="Noche")
 
     # Add a heatmap to the base map
-    Marker([lat_a, lon_a]).add_to(heat_m)
+    Marker([lat_a, lon_a], icon=folium.Icon(color='red')).add_to(heat_m)
     # Add childs
-    heat_m.add_child(Marker([lat_b, lon_b]))
+    heat_m.add_child(Marker([lat_b, lon_b], icon=folium.Icon(color='red')))
 
     bicis_manana = coll.acc.find({"horario": "Mañana"})
     acc_manana = create_df_coords(bicis_manana)

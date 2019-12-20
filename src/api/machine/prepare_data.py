@@ -19,6 +19,12 @@ def num_fest(value):
     return dict_fest[value]
 
 
+def get_fest(day):
+    cal = pd.read_csv('input/clean_data/cal_clean.csv')
+    fest_cat = cal[cal.dia == day]['festividad'].values[0]
+    return fest_cat
+
+
 def prepare_df(data):
     data.drop(['fecha', 'dia', 'year', 'tipo_accidente',
                'distrito', 'direccion'], axis=1, inplace=True)
@@ -31,8 +37,7 @@ def prepare_df(data):
 def prepare_to_predict(hour, day, lon_a, lat_a, lon_b, lat_b, weather):
     horario = int(num_horario(hour))
 
-    cal = pd.read_csv('input/clean_data/cal_clean.csv')
-    fest_cat = cal[cal.dia == day]['festividad'].values[0]
+    fest_cat = get_fest(day)
     fest = int(num_fest(fest_cat))
 
     lats = [lat_a, lat_b]
