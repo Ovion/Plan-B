@@ -71,7 +71,9 @@ def get_coord_dir():
 
 @app.route('/prediction/direction', methods=['GET'])
 def insert_dir_pred():
-    return render_template('prediction.html')
+    weather, day = exa.get_weather_day()
+    fest = mppd.get_fest(day)
+    return render_template('prediction.html', vble_w=weather, vble_d=day, vble_f=fest)
 
 
 @app.route('/prediction/direction', methods=['POST'])
