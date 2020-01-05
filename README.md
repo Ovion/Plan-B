@@ -36,3 +36,4 @@ Librerías usadas en el proyecto:
 - Flask: Como interfaz para el usuario
 
 - MongoDB: Se utilizó como base de datos, tanto en local como en la nube (Atlas)
+
