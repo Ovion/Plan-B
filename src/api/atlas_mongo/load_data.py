@@ -4,6 +4,7 @@ from IPython.display import clear_output
 
 bicis = pd.read_csv('input/clean_data/bici_clean.csv')
 
+print('Loading data to mongo...')
 url = 'http://localhost:5000/create'
 for indx, row in bicis.iterrows():
     clear_output()
@@ -21,3 +22,5 @@ for indx, row in bicis.iterrows():
         'lat': row['lat']
     }
     requests.post(url, data=params).text
+
+print('Load complete')
