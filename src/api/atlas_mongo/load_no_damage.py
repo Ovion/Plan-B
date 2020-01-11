@@ -1,5 +1,5 @@
 import pandas as pd
-import Mongo as mon
+from Mongo import submit_df
 
 
 bici = pd.read_csv("input/clean_data/bici_clean.csv")
@@ -53,4 +53,4 @@ no_damage = no_damage.loc[no_damage.num_acc == 0]
 
 print('Saving data in local and MongoDB...')
 no_damage.to_csv('input/clean_data/no_damage.csv', index=False)
-mon.submit_df(no_damage)
+submit_df(no_damage)

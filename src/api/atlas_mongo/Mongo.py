@@ -11,7 +11,7 @@ ATLAS_KEY = os.getenv("KEY_ATLAS")
 
 class ConectColl:
     def __init__(self):
-        self.client = MongoClient()
+        self.client = MongoClient(ATLAS_KEY)
         self.db = self.client['Bycicle_Accidents']
         self.acc = self.db['Historical']
         self.pred = self.db['Prediction']
