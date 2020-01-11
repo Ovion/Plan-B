@@ -1,4 +1,6 @@
 from pymongo import MongoClient
+import pymongo
+import numpy as np
 
 import dotenv
 import os
@@ -13,6 +15,7 @@ class ConectColl:
         self.db = self.client['Bycicle_Accidents']
         self.acc = self.db['Historical']
         self.pred = self.db['Prediction']
+        self.no_damage = self.db['No_Damage']
 
     def add_doc(self, docu):
         self.acc.insert_one(docu)
@@ -51,3 +54,15 @@ class ConectColl:
         }
         return self.add_doc_pred(document)
 # ---
+
+
+def geopoint(lon, lat):
+    return {"type": "Point", "coordinates": [lon, lat]}
+
+
+def submit_df(df):
+    coll = ConectColl()
+    df['Localizacion'] = np.vectorize(geopoint)(df['lon'], df['lat'])
+
+    coll.no_damage.insert_many(df.to_dict('record'))
+    coll.no_damage.create_index([('Localizacion', pymongo.GEOSPHERE)])
