@@ -61,7 +61,8 @@ bici.to_csv('input/clean_data/bici_problem.csv', index=False)
 print('Done')
 
 bici = pd.read_csv('input/clean_data/bici_problem.csv')
-bici = bici[bici.meteo != 'Nieve']
+bici.loc[(bici.meteo == 'Niebla') | (
+    bici.meteo == 'Nieve'), ['meteo']] = 'Lluvia'
 bici = bici[(bici.lat < 40.53) & (bici.lat > 40.33)]
 bici = bici[(bici.lon < -3.57) & (bici.lon > -3.77)]
 
