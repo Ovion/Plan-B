@@ -235,3 +235,6 @@ Model: KNC	 Acierto: [80.87, 75.85, 76.31, 79.04, 79.04]%
 
 Model: KNC	 Acierto: [80.64, 76.31, 78.13, 77.68, 76.99]%
 
+-------
+Más modelos y con no_damage
+
