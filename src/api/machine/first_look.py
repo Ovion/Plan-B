@@ -8,6 +8,7 @@ from sklearn.cluster import SpectralClustering
 from sklearn.cluster import KMeans
 from sklearn.svm import LinearSVC
 from sklearn.svm import SVC
+from sklearn.ensemble import GradientBoostingClassifier
 
 
 import prepare_data as ppd
@@ -21,12 +22,13 @@ no_damage = ppd.prepare_df_no_damage(no_damage)
 data = pd.concat([damage, no_damage], ignore_index=True)
 
 models = {
-    'KNC': KNeighborsClassifier(n_jobs=-1, algorithm='brute', weights='uniform'),
-    'RFC': RandomForestClassifier(n_jobs=-1, n_estimators=1000),
-    'linear_svc': LinearSVC(),
-    'svc': SVC(gamma='auto'),
-    'Spectral': SpectralClustering(n_jobs=-1),
-    'KMeans': KMeans(n_jobs=-1)
+    # 'KNC': KNeighborsClassifier(n_jobs=-1, algorithm='brute', weights='distance'),
+    # 'RFC': RandomForestClassifier(n_jobs=-1, n_estimators=1000, criterion='entropy'),
+    'GBC': GradientBoostingClassifier(validation_fraction=0.2),
+    # 'linear_svc': LinearSVC(),
+    # 'svc': SVC(gamma='auto'),
+    # 'Spectral': SpectralClustering(n_jobs=-1),
+    # 'KMeans': KMeans(n_jobs=-1)
 }
 
 X = data.drop(['lesividad'], axis=1)
@@ -35,7 +37,7 @@ y = data.lesividad
 for model_name, model in models.items():
     print(f'Training model: {model_name}')
     lst_success = []
-    for i in range(3):
+    for i in range(5):
         print(f'Iteration number {i}')
         X_train, X_test, y_train, y_test = train_test_split(
             X, y, test_size=0.2)
@@ -57,4 +59,4 @@ for model_name, model in models.items():
         file.write(
             f'''Model: {model_name}\t Acierto: {success_mean}%\t Params: {params} \n\n'''
         )
-    print(f'Model {model_name} analized')
+    print(f'Model {model_name} analyzed')
