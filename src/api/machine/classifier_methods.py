@@ -4,6 +4,8 @@ import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.externals import joblib
 from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import KNeighborsClassifier
 
 import prepare_data as ppd
 
@@ -19,7 +21,7 @@ data = pd.concat([damage, no_damage], ignore_index=True)
 X = data.drop(['lesividad'], axis=1)
 y = data.lesividad
 
-gbc = GradientBoostingClassifier(validation_fraction=0.2)
+gbc = KNeighborsClassifier(n_jobs=-1, algorithm='brute', weights='distance')
 gbc.fit(X, y)
 
 print("Saving model in 'output/pred/model_gbc_0.2.pkl'")
