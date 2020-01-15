@@ -10,7 +10,8 @@ num_lat = 1/125*0.5
 
 bici['num_acc'] = 100
 
-for i, r in bici.loc[bici.lesividad == 'Leve'].iterrows():
+print('Reducing dataframe...')
+for i, r in bici.loc[(bici.lesividad == 'Leve') & (bici.meteo != 'Lluvia')].iterrows():
     accs = len(bici.loc[
         (bici.horario == r['horario']) & (bici.festividad == r['festividad']) & (bici.meteo == r['meteo']) &
         (bici.lon >= (r['lon']-num_lon)) & (bici.lon <= (r['lon']+num_lon)) &
@@ -26,8 +27,9 @@ bici = bici.loc[bici.mark == 0]
 bici.drop(['num_acc', 'mark'], axis=1, inplace=True)
 
 bici.to_csv('input/clean_data/bici_trick.csv', index=False)
-
+print("New dataframe saved in 'input/clean_data/bici_trick.csv'")
 # Here I calculate the 'no_damage' dataframe
+
 lst_h = list(bici.horario.unique())
 lst_f = list(bici.festividad.unique())
 lst_m = list(bici.meteo.unique())
