@@ -12,9 +12,10 @@ def pred_y_buenas_noches(X):
 
     df['lesividad'] = y_pred
     df = df[df.lesividad != 'No']
-    df.to_csv('output/X_to_pred.csv', index=False)
+    df = df[df.lesividad != 'Leve']
 
     df['weights'] = df.lesividad.apply(
         lambda x: 0.05 if x == 'Leve' else (1 if x == 'Moderada' else 2))
 
+    df.to_csv('output/X_to_pred.csv', index=False)
     return df

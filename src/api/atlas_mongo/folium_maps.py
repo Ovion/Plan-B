@@ -90,7 +90,7 @@ def print_heat_map_pred(df, lat_a, lon_a, lat_b, lon_b):
     heat_map = folium.Map(location=[start_lat, start_lon],
                           tiles='cartodbpositron', zoom_start=15)
     HeatMap(data=df[['lat', 'lon', 'weights']],
-            radius=13).add_to(heat_map)
+            radius=10).add_to(heat_map)
     heat_map.add_child(
         Marker(location=[lat_a, lon_a], icon=folium.Icon(color='red')))
     heat_map.add_child(
