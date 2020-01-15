@@ -16,6 +16,11 @@ def hello():
     return 'Hi Ovi!'
 
 
+@app.route('/')
+def home():
+    return render_template('home.html')
+
+
 @app.route('/create', methods=['POST'])
 def create():
     fecha = request.form.get('fecha')
@@ -54,7 +59,7 @@ def historical():
 
 @app.route('/historical/direction', methods=['GET'])
 def insert_dir():
-    return render_template('direction.html')
+    return render_template('historical.html')
 
 
 @app.route('/historical/direction', methods=['POST'])
