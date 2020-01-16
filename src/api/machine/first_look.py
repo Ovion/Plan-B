@@ -13,7 +13,7 @@ from sklearn.ensemble import GradientBoostingClassifier
 
 import prepare_data as ppd
 
-data = pd.read_csv('input/clean_data/bici_clean.csv')
+data = pd.read_csv('input/clean_data/bici_trick.csv')
 data = ppd.prepare_df(data)
 
 
@@ -23,12 +23,12 @@ models = {
     'KNC3': KNeighborsClassifier(n_jobs=-1, algorithm='auto', weights='distance'),
     'RFC': RandomForestClassifier(n_jobs=-1, n_estimators=1000, criterion='entropy'),
     'GBC1': GradientBoostingClassifier(validation_fraction=0.2),
-    # 'GBC2': GradientBoostingClassifier(validation_fraction=0.2, min_samples_leaf=2),
-    # 'GBC3': GradientBoostingClassifier(validation_fraction=0.2, min_samples_split=3),
+    'GBC2': GradientBoostingClassifier(validation_fraction=0.2, min_samples_leaf=2),
+    'GBC3': GradientBoostingClassifier(validation_fraction=0.2, min_samples_split=3),
     # 'linear_svc': LinearSVC(),
     'svc': SVC(gamma='auto'),
     # 'Spectral': SpectralClustering(n_jobs=-1),
-    'KMeans': KMeans(n_jobs=-1)
+    # 'KMeans': KMeans(n_jobs=-1)
 }
 
 X = data.drop(['lesividad'], axis=1)
