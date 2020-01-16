@@ -21,6 +21,11 @@ def home():
     return render_template('home.html')
 
 
+@app.route('/home')
+def home_two():
+    return render_template('home.html')
+
+
 @app.route('/create', methods=['POST'])
 def create():
     fecha = request.form.get('fecha')
@@ -49,12 +54,6 @@ def create_pred():
     coll.pred.create_index([('localizacion', pymongo.GEOSPHERE)])
     return 'Pred Inserted'
 # -----
-
-
-@app.route('/historical')
-def historical():
-    folium_map = fmaps.print_heat_map(coll)
-    return folium_map._repr_html_()
 
 
 @app.route('/historical/direction', methods=['GET'])
@@ -98,20 +97,6 @@ def get_coord_dir_pred():
 
     folium_map = fmaps.print_heat_map_pred(
         data_to_map, lat_a, lon_a, lat_b, lon_b)
-    return folium_map._repr_html_()
-
-# Deprecate
-
-
-@app.route('/historical/horario/<interh>')
-def historical_hour(interh):
-    folium_map = fmaps.print_heat_map_h(coll, interh)
-    return folium_map._repr_html_()
-
-
-@app.route('/historical/lesividad/<injury>')
-def historical_injury(injury):
-    folium_map = fmaps.print_heat_map_i(coll, injury)
     return folium_map._repr_html_()
 
 
