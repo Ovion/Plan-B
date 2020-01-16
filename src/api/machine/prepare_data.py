@@ -44,7 +44,7 @@ def prepare_to_predict(hour, day, lon_a, lat_a, lon_b, lat_b, weather):
     lons = [lon_a, lon_b]
 
     df = pd.DataFrame(columns=['horario', 'festividad',
-                               'lon', 'lat', 'Despejado', 'Lluvia', 'Niebla'])
+                               'lon', 'lat', 'Despejado', 'Lluvia'])
 
     min_lat = int((min(lats)-0.01)*2000)
     max_lat = int((max(lats)+0.01)*2000)
@@ -61,7 +61,6 @@ def prepare_to_predict(hour, day, lon_a, lat_a, lon_b, lat_b, weather):
                 'lat': lat/2000,
                 'Despejado': int(1 if weather == 'Despejado' else 0),
                 'Lluvia': int(1 if weather == 'Lluvia' else 0),
-                'Niebla': int(1 if weather == 'Niebla' else 0),
             }, ignore_index=True)
 
     return df

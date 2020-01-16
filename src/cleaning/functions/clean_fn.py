@@ -3,8 +3,6 @@ import numpy as np
 import re
 import random
 
-#
-
 
 def get_df_norm_header_index(path):
     lst_header = ['num_exp', 'dia', 'hora', 'calle', 'num', 'distrito',
