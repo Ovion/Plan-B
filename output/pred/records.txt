@@ -293,3 +293,136 @@ Model: KMeans	 Acierto: 0.0%	 Leve: 77.23%
        n_clusters=8, n_init=10, n_jobs=-1, precompute_distances='auto',
        random_state=None, tol=0.0001, verbose=0)> 
 
+-------
+Trick
+
+Model: KNC	 Acierto: 64.21%	 Leve: 66.24%
+            
+	Params: <bound method BaseEstimator.get_params of KNeighborsClassifier(algorithm='brute', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='distance')> 
+
+Model: KNC2	 Acierto: 67.22%	 Leve: 66.99%
+            
+	Params: <bound method BaseEstimator.get_params of KNeighborsClassifier(algorithm='kd_tree', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='distance')> 
+
+Model: KNC3	 Acierto: 66.32%	 Leve: 68.8%
+            
+	Params: <bound method BaseEstimator.get_params of KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='distance')> 
+
+Model: RFC	 Acierto: 69.32%	 Leve: 67.29%
+            
+	Params: <bound method BaseEstimator.get_params of RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='entropy', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=1000,
+                       n_jobs=-1, oob_score=False, random_state=None, verbose=0,
+                       warm_start=False)> 
+
+Model: GBC1	 Acierto: 70.15%	 Leve: 65.11%
+            
+	Params: <bound method BaseEstimator.get_params of GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='deviance', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_impurity_split=None,
+                           min_samples_leaf=1, min_samples_split=2,
+                           min_weight_fraction_leaf=0.0, n_estimators=100,
+                           n_iter_no_change=None, presort='deprecated',
+                           random_state=None, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.2, verbose=0,
+                           warm_start=False)> 
+
+Model: svc	 Acierto: 65.49%	 Leve: 65.49%
+            
+	Params: <bound method BaseEstimator.get_params of SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)> 
+
+Model: KMeans	 Acierto: 0.0%	 Leve: 67.45%
+            
+	Params: <bound method BaseEstimator.get_params of KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=8, n_init=10, n_jobs=-1, precompute_distances='auto',
+       random_state=None, tol=0.0001, verbose=0)> 
+
+Model: KNC	 Acierto: 66.24%	 Leve: 66.92%
+            
+	Params: <bound method BaseEstimator.get_params of KNeighborsClassifier(algorithm='brute', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='distance')> 
+
+Model: KNC2	 Acierto: 65.72%	 Leve: 67.22%
+            
+	Params: <bound method BaseEstimator.get_params of KNeighborsClassifier(algorithm='kd_tree', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='distance')> 
+
+Model: KNC3	 Acierto: 66.32%	 Leve: 67.07%
+            
+	Params: <bound method BaseEstimator.get_params of KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='distance')> 
+
+Model: RFC	 Acierto: 68.27%	 Leve: 67.52%
+            
+	Params: <bound method BaseEstimator.get_params of RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='entropy', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=1000,
+                       n_jobs=-1, oob_score=False, random_state=None, verbose=0,
+                       warm_start=False)> 
+
+Model: GBC1	 Acierto: 70.38%	 Leve: 67.07%
+            
+	Params: <bound method BaseEstimator.get_params of GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='deviance', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_impurity_split=None,
+                           min_samples_leaf=1, min_samples_split=2,
+                           min_weight_fraction_leaf=0.0, n_estimators=100,
+                           n_iter_no_change=None, presort='deprecated',
+                           random_state=None, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.2, verbose=0,
+                           warm_start=False)> 
+
+Model: GBC2	 Acierto: 70.53%	 Leve: 67.74%
+            
+	Params: <bound method BaseEstimator.get_params of GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='deviance', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_impurity_split=None,
+                           min_samples_leaf=2, min_samples_split=2,
+                           min_weight_fraction_leaf=0.0, n_estimators=100,
+                           n_iter_no_change=None, presort='deprecated',
+                           random_state=None, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.2, verbose=0,
+                           warm_start=False)> 
+
+Model: GBC3	 Acierto: 69.62%	 Leve: 67.07%
+            
+	Params: <bound method BaseEstimator.get_params of GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='deviance', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_impurity_split=None,
+                           min_samples_leaf=1, min_samples_split=3,
+                           min_weight_fraction_leaf=0.0, n_estimators=100,
+                           n_iter_no_change=None, presort='deprecated',
+                           random_state=None, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.2, verbose=0,
+                           warm_start=False)> 
+
+Model: svc	 Acierto: 66.77%	 Leve: 66.77%
+            
+	Params: <bound method BaseEstimator.get_params of SVC(C=1.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)> 
+
