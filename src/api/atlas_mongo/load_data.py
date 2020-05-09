@@ -21,3 +21,5 @@ for indx, row in bicis.iterrows():
         'lat': row['lat']
     }
     requests.post(url, data=params).text
+
+print('load complete')
